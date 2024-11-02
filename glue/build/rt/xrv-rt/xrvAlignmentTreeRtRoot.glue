@@ -1,0 +1,8 @@
+  
+  #~# Constrained alignment tree root level (family)
+  
+  # Retroviridae root constrained alignment
+  create alignment AL_RT_ROOT_Retroviridae --refSeqName REF_RT_MASTER_SFVcpz
+  
+  # Add all XRV RT references
+  alignment AL_RT_ROOT_Retroviridae add member --whereClause "source.name = 'fasta-refseqs-xrv-rt'"

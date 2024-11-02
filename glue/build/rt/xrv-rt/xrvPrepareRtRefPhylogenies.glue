@@ -1,0 +1,20 @@
+  delete module xrvPhyloUtility
+  delete module xrvFigTreeAnnotationExporter
+  
+  create module -f modules/analyse/xrvPhyloUtility.xml
+  
+  module xrvPhyloUtility
+  
+	# midpoint rooting
+
+	reroot-phylogeny \
+      --inputFile trees/xrv/xrvRtReferencePhylogeny.tree NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/xrv/xrvRtReferencePhylogenyMidpointRerooted.tree NEWICK_BOOTSTRAPS
+
+    exit
+    
+  
+  # Export annotations
+  create module -f modules/analyse/xrvFigTreeAnnotationExporter.xml
+  module xrvFigTreeAnnotationExporter export figtree-annotation AL_UNC_ROOT_Retroviridae_RT -f trees/xrv/AL_UNC_ROOT_Retroviridae_RT.annotations.tsv

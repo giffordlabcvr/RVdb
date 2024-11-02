@@ -1,0 +1,4 @@
+
+  # Import full-length reference sequences (GenBank XML)
+  import source sources/genome/ncbi-refseqs-xrv
+

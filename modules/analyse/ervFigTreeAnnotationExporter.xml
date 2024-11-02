@@ -1,0 +1,39 @@
+<figTreeAnnotationExporter>
+
+	<figTreeAnnotation>
+		<annotationName>sequenceID</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.sequenceID')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+
+	<figTreeAnnotation>
+		<annotationName>name</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.name')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+
+	<figTreeAnnotation>
+		<annotationName>species</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.species')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+
+	<figTreeAnnotation>
+		<annotationName>subfamily</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.subfamily')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+
+	<figTreeAnnotation>
+		<annotationName>genus</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.genus')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+
+	<figTreeAnnotation>
+		<annotationName>subgenus</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.subgenus')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+	
+	<figTreeAnnotation>
+		<annotationName>tribe</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.tribe')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+	
+</figTreeAnnotationExporter>
+

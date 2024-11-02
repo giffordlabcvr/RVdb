@@ -1,0 +1,13 @@
+delete module xrvRtPhyloImporter
+create module -t phyloImporter xrvRtPhyloImporter
+
+module xrvRtPhyloImporter
+
+  import phylogeny AL_RT_ROOT_Retroviridae \
+  --recursive \
+  --anyAlignment \
+  --whereClause "sequence.source.name = 'fasta-refseqs-xrv-rt' and referenceMember = false" \
+  --inputFile trees/xrv/xrvRtReferencePhylogenyMidpointRerooted.tree NEWICK_BOOTSTRAPS \
+  --fieldName phylogeny
+
+  exit

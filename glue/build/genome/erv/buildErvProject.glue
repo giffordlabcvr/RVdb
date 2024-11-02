@@ -1,0 +1,30 @@
+# Build endogenous retrovirus component
+project retroviridae
+
+  # Create ERV-specific modules
+  run file glue/build/genome/erv/ervModules.glue
+
+  # Import ERV consensus and reference sequences
+  run file glue/build/genome/erv/ervImportSources.glue
+  
+  # Declare main genus-level references
+  run file glue/build/genome/erv/ervReferences.glue
+  
+  # Import metadata for ERVs from tabular
+  run file glue/build/genome/erv/ervImportSideData.glue
+
+  # Import reference feature locations from tabular file
+  module featureLocationTextToGlue transform tabular/erv/erv_reference_feature_locations.tsv -r
+
+  # Import unconstrained alignments
+  run file glue/build/genome/erv/ervAlignments.glue
+
+  # Add ERV sequences to constrained alignment tree
+  run file glue/build/genome/erv/ervAlignmentTree.glue
+  
+  # Derive constrained alignments from unconstrained
+  #run file glue/build/genome/erv/ervDeriveConstrainedMsas.glue
+  
+  validate
+  
+  exit

@@ -1,0 +1,25 @@
+
+  alignment AL_GENUS_Alpharetrovirus
+    #derive segments AL_GENUS_UNC_ERV_Alpha --allMembers --mergeStrategy OVERWRITE
+    exit
+
+  alignment AL_GENUS_Betaretrovirus
+    derive segments AL_GENUS_UNC_ERV_Beta --allMembers --mergeStrategy OVERWRITE
+    exit
+
+  alignment AL_GENUS_Gammaretrovirus
+    derive segments AL_GENUS_UNC_ERV_Gamma --allMembers --mergeStrategy OVERWRITE
+    exit
+
+  alignment AL_GENUS_Deltaretrovirus
+    derive segments AL_GENUS_UNC_ERV_Delta --allMembers --mergeStrategy OVERWRITE
+    exit
+
+  alignment AL_GENUS_Lentivirus
+    derive segments AL_GENUS_UNC_ERV_Lenti --allMembers --mergeStrategy OVERWRITE
+    exit
+
+  alignment AL_GENUS_Spumavirus
+    derive segments AL_GENUS_UNC_ERV_Spuma --allMembers --mergeStrategy OVERWRITE
+    exit
+

@@ -1,0 +1,14 @@
+  # Clean-up
+  
+  # Delete modules
+  delete module retroviridaeRaxmlPhylogenyGeneratorNucs
+  
+  # Create all the modules we need
+  create module -f modules/analyse/phylogeny/retroviridaeRaxmlPhylogenyGeneratorNucs.xml
+
+  # Create the phylogeny (without outgroup)
+  module retroviridaeRaxmlPhylogenyGeneratorNucs
+    
+    generate nucleotide phylogeny AL_UNC_ROOT_Retroviridae_RT -a -o trees/xrv/xrvRtReferencePhylogeny.tree NEWICK_BOOTSTRAPS
+      
+    exit    

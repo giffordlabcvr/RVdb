@@ -1,0 +1,66 @@
+### Declare Retroviridae reference sequencess
+
+  ## Spuma 
+  create reference REF_SFVcpz           ncbi-refseqs-xrv NC_001364
+  create reference REF_PSFVgal          ncbi-refseqs-xrv NC_039023
+  create reference REF_SFV1             ncbi-refseqs-xrv X54482
+  create reference REF_SFV3             ncbi-refseqs-xrv M74895
+  create reference REF_SFVora           ncbi-refseqs-xrv AJ544579
+  create reference REF_SFVspi           ncbi-refseqs-xrv NC_039027
+  create reference REF_SMFV             ncbi-refseqs-xrv GU356394
+  create reference REF_BFV              ncbi-refseqs-xrv U94514
+  create reference REF_EFV              ncbi-refseqs-xrv AF201902
+  create reference REF_FFV              ncbi-refseqs-xrv AJ564746
+    
+  ## Alpharetrovirus
+  create reference REF_RSV              ncbi-refseqs-xrv AF033808
+  create reference REF_ALV              ncbi-refseqs-xrv NC_001408
+
+  # Unclassified
+  create reference REF_LPDV             ncbi-refseqs-xrv U09568
+
+  # Beta B-type
+  create reference REF_MMTV             ncbi-refseqs-xrv NC_001503
+  
+  # Beta D-type 1 
+  create reference REF_SRV1            ncbi-refseqs-xrv M11841  
+  create reference REF_SRV3            ncbi-refseqs-xrv NC_001550 
+
+  # Beta D-type 2
+  create reference REF_JSRV             ncbi-refseqs-xrv NC_001494
+
+  ## Gammaretrovirus
+  create reference REF_MLV              ncbi-refseqs-xrv NC_001501
+  create reference REF_FeLV             ncbi-refseqs-xrv NC_001940
+  create reference REF_GaLV             ncbi-refseqs-xrv NC_001885
+  create reference REF_KoRV             ncbi-refseqs-xrv NC_039228
+  create reference REF_REV              ncbi-refseqs-xrv NC_006934
+  create reference REF_RfRV             ncbi-refseqs-xrv JQ303225
+  
+  ## Epsilon
+  create reference REF_WDSV             ncbi-refseqs-xrv NC_001867
+  create reference REF_WEHV1            ncbi-refseqs-xrv AF133051
+  create reference REF_WEHV2            ncbi-refseqs-xrv AF133052
+
+  ## Xi
+  create reference REF_SSSV             ncbi-refseqs-xrv NC_007654
+
+  ## Delta
+  create reference REF_BLV              ncbi-refseqs-xrv NC_001414
+  create reference REF_PTLV1            ncbi-refseqs-xrv NC_001436
+  create reference REF_PTLV2            ncbi-refseqs-xrv NC_001488
+  create reference REF_PTLV3            ncbi-refseqs-xrv DQ093792
+  create reference REF_PTLV4            ncbi-refseqs-xrv EF488483
+
+  ## Lenti
+  create reference REF_HIV1M            ncbi-refseqs-xrv AF033819
+  create reference REF_BIV              ncbi-refseqs-xrv M32690
+  create reference REF_JDV              ncbi-refseqs-xrv U21603
+  create reference REF_EIAV             ncbi-refseqs-xrv M16575
+  create reference REF_FIV              ncbi-refseqs-xrv M25381
+  create reference REF_SRLVA            ncbi-refseqs-xrv M60609
+  create reference REF_SRLVB            ncbi-refseqs-xrv M33677
+ 
+  ## Omega
+  create reference REF_SnRV             ncbi-refseqs-xrv U26458
+

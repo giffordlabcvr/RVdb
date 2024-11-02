@@ -1,0 +1,19 @@
+
+  # Import full-length reference sequences (GenBank XML)
+  import source sources/genome/ncbi-refseqs-erv/
+
+  # Import full-length reference sequences (FASTA)
+  import source sources/genome/fasta-refseqs-erv/erv-refseqs-delta/
+  import source sources/genome/fasta-refseqs-erv/erv-refseqs-lenti/
+
+  import source sources/genome/fasta-refseqs-erv/erv-refseqs-beta/
+  import source sources/genome/fasta-refseqs-erv/erv-refseqs-theta/
+  import source sources/genome/fasta-refseqs-erv/erv-refseqs-zeta/
+
+  import source sources/genome/fasta-refseqs-erv/erv-refseqs-gamma/
+  import source sources/genome/fasta-refseqs-erv/erv-refseqs-iota/
+  import source sources/genome/fasta-refseqs-erv/erv-refseqs-rho/
+
+  import source sources/genome/fasta-refseqs-erv/erv-refseqs-sigma/
+  import source sources/genome/fasta-refseqs-erv/erv-refseqs-lambda/
+  import source sources/genome/fasta-refseqs-erv/erv-refseqs-spuma/

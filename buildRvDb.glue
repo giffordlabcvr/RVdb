@@ -1,0 +1,15 @@
+
+# Delete previously built Retroviridae project if it exists
+delete project retroviridae
+
+# Build core retroviridae project for exogenous retroviruses 
+create project retroviridae "A GLUE project for the Retroviridae" --minVersion 0.1.66
+
+# Build core retrovirus component
+run file glue/build/genome/rv/buildRetroviridaeCore.glue
+
+# Build RT reference component for XRVs
+run file glue/build/rt/xrv-rt/buildXrvRtProject.glue
+
+# Build complete genome reference component for XRVs
+#run file glue/build/genome/xrv/buildXrvProject.glue

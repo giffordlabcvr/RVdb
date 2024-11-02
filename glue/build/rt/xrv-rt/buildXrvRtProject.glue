@@ -1,0 +1,37 @@
+project retroviridae
+
+  # Import sequences
+  import source sources/rt/fasta-refseqs-xrv-rt/
+
+  # Set lengths of RT sequences
+  run script glue/build/rt/xrv-rt/xrvSetSequenceLengthsRt.js 
+
+  # Create references
+  run file glue/build/rt/xrv-rt/xrvReferencesRt.glue
+
+  # Import side data
+  run file glue/build/rt/xrv-rt/xrvImportSideDataRt.glue
+
+  # Create constrained alignment tree
+  run file glue/build/rt/xrv-rt/xrvAlignmentTreeRt.glue
+
+  # AFTER THIS POINT DO NOTHING IF BUILDING ERV COMPONENT!!!
+
+  # Import unconstrained alignments
+  #run file glue/build/rt/xrv-rt/xrvImportUnconstrainedMsaRootRt.glue
+
+  # Derive constrained alignments from unconstrained
+  #run file glue/build/rt/xrv-rt/xrvDeriveConstrainedMsasRt.glue
+
+  # Compute phylogeny
+  #run file glue/build/rt/xrv-rt/xrvComputeRtRefPhylogenyUncMsa.glue
+
+  # Prepare RT reference phylogeny
+  #run file glue/build/rt/xrv-rt/xrvPrepareRtRefPhylogenies.glue
+  
+  # Import phylogeny
+  #run file glue/build/rt/xrv-rt/xrvImportPhylogenyRt.glue
+
+  validate
+  
+  exit

@@ -1,0 +1,10 @@
+
+  # General modules 
+  create module -f modules/build/genome/rv/featureLocationTextToGlue.xml featureLocationTextToGlue
+  create module -f modules/build/genome/rv/TabularUtility.xml retroviridaeTabularUtility
+  create module -f modules/build/genome/rv/rvCompoundAligner.xml rvCompoundAligner
+
+  # Exporters
+  create module -t fastaExporter
+  create module -f modules/build/genome/rv/fastaAlignmentExporter.xml fastaAlignmentExporter
+

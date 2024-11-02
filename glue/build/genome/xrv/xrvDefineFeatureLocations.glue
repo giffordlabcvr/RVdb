@@ -1,0 +1,5 @@
+
+
+  # Import reference feature locations from tabular file
+  module featureLocationTextToGlue transform tabular/xrv/xrv_reference_feature_locations.tsv -r
+

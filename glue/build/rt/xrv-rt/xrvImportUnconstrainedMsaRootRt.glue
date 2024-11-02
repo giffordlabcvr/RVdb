@@ -1,0 +1,11 @@
+
+  # Import curated alignments
+  delete module unconstrainedAlignmentImporterXrvRt
+  create module -f modules/build/rt/xrv-rt/unconstrainedAlignmentImporterXrvRt.xml
+
+  module unconstrainedAlignmentImporterXrvRt
+
+    #~# Retroviridae RT only  
+    import AL_UNC_ROOT_Retroviridae_RT  -f alignments/root/retroviridae-rt-xrvs.fna 
+  
+  exit

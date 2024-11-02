@@ -1,0 +1,467 @@
+
+  #~# Constrained alignment tree species level
+
+  #~# Subfamily Spumaretrovirinae
+
+  alignment AL_RT_SUBGENUS_Simispumavirus
+
+    set field displayName "Simispumavirus"
+    set field clade_category "subgenus" 
+
+    extract child AL_RT_SPECIES_SFVcpz --refName REF_RT_MASTER_SFVcpz
+	demote member AL_RT_SPECIES_SFVcpz -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Simiispumavirus_pantrover'"	
+
+    extract child AL_RT_SPECIES_SFV1 --refName REF_RT_SFV1
+	demote member AL_RT_SPECIES_SFV1 -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Simiispumavirus_maccycfo'"	
+
+    extract child AL_RT_SPECIES_SFV3 --refName REF_RT_SFV3
+	demote member AL_RT_SPECIES_SFV3 -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Simiispumavirus_chlaetfo'"	
+
+    extract child AL_RT_SPECIES_SFVora --refName REF_RT_SFVora
+	demote member AL_RT_SPECIES_SFVora -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Simiispumavirus_ponpygpygfo'"	
+
+    exit
+
+
+  alignment AL_RT_SUBGENUS_Platyrhinispumavirus
+
+    set field displayName "Platyrhinispumavirus"
+    set field clade_category "subgenus" 
+
+    extract child AL_RT_SPECIES_SFVsqu --refName REF_RT_SFVsqu
+	demote member AL_RT_SPECIES_SFVsqu -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Simiispumavirus_saiscifo'"	
+
+    extract child AL_RT_SPECIES_SFVspi --refName REF_RT_SFVspi
+	demote member AL_RT_SPECIES_SFVspi -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Simiispumavirus_atesppfo'"	
+
+    exit
+
+
+  alignment AL_RT_SUBGENUS_Bovispumavirus
+
+    set field displayName "Bovispumavirus"
+    set field clade_category "subgenus" 
+
+    extract child AL_RT_SPECIES_BFV --refName REF_RT_BFV
+	demote member AL_RT_SPECIES_BFV -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Bovispumavirus_bostau'"	
+
+    exit
+
+  alignment AL_RT_SUBGENUS_Equispumavirus
+
+    set field displayName "Equispumavirus"
+    set field clade_category "subgenus" 
+
+    extract child AL_RT_SPECIES_EFV --refName REF_RT_EFV
+	demote member AL_RT_SPECIES_EFV -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Equispumavirus_equcab'"	
+
+    exit
+
+  alignment AL_RT_SUBGENUS_Felispumavirus
+
+    set field displayName "Felispumavirus"
+    set field clade_category "subgenus" 
+
+    extract child AL_RT_SPECIES_FFV --refName REF_RT_FFV
+	demote member AL_RT_SPECIES_FFV -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Felispumavirus_felcat'"	
+
+    exit
+
+  alignment AL_RT_SUBGENUS_Prosimispumavirus
+
+    set field displayName "Prosimispumavirus"
+    set field clade_category "subgenus" 
+
+    extract child AL_RT_SPECIES_PSFVgal --refName REF_RT_PSFVgal
+	demote member AL_RT_SPECIES_PSFVgal -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Prosimiispumavirus_otocrafo'"	
+
+    exit
+
+  alignment AL_RT_GENUS_Omegaretrovirus
+
+    set field displayName "Omegaretrovirus"
+    set field clade_category "genus"
+
+    extract child AL_RT_SPECIES_SnRV --refName REF_RT_SnRV
+	demote member AL_RT_SPECIES_SnRV -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.name = 'SnRV'"	
+
+    exit
+
+
+  #~# Subfamily Orthoretrovirinae
+
+  alignment AL_RT_SUBGENUS_Korv_GALV
+
+    set field displayName "Korv_GALV"
+    set field clade_category "subgenus" 
+
+    extract child AL_RT_SPECIES_Korv --refName REF_RT_Korv
+	demote member AL_RT_SPECIES_Korv -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Gammaretrovirus_koa'"	
+
+    extract child AL_RT_SPECIES_GaLV --refName REF_RT_GaLV
+	demote member AL_RT_SPECIES_GaLV -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Gammaretrovirus_gibleu'"	
+
+    exit
+
+  alignment AL_RT_SUBGENUS_MLV_FeLV
+
+    set field displayName "MLV_FeLV"
+    set field clade_category "subgenus" 
+
+    extract child AL_RT_SPECIES_MLV --refName REF_RT_MLV
+	demote member AL_RT_SPECIES_MLV -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Gammaretrovirus_murleu'"	
+
+    extract child AL_RT_SPECIES_FeLV --refName REF_RT_FeLV
+	demote member AL_RT_SPECIES_FeLV -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Gammaretrovirus_felleu'"	
+
+    exit
+
+  alignment AL_RT_SUBGENUS_REV
+
+    set field displayName "REV"
+    set field clade_category "subgenus" 
+
+    extract child AL_RT_SPECIES_REV --refName REF_RT_REV
+	demote member AL_RT_SPECIES_REV -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Gammaretrovirus_aviretend'"	
+
+    exit
+
+
+  alignment AL_RT_SUBGENUS_RfRV
+
+    set field displayName "RfRV"
+    set field clade_category "subgenus" 
+
+    extract child AL_RT_SPECIES_RfRV --refName REF_RT_RfRV
+	demote member AL_RT_SPECIES_RfRV -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Gammaretrovirus_rhinoferrum'"	
+
+    exit
+
+
+  #~# Subfamily Glissorthoretrovirinae
+
+  alignment AL_RT_GENUS_Alpharetrovirus 
+
+    set field displayName "Alpharetrovirus"
+    set field clade_category "genus"
+
+    extract child AL_RT_SPECIES_ALV --refName REF_RT_ALV
+	demote member AL_RT_SPECIES_ALV -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Alpharetrovirus_avileu'"	
+
+    extract child AL_RT_SPECIES_RSV --refName REF_RT_RSV
+	demote member AL_RT_SPECIES_RSV -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Alpharetrovirus_avirousar'"	
+
+	exit
+
+  alignment AL_RT_SUBGENUS_Btype
+
+    set field displayName "Btype"
+    set field clade_category "subgenus" 
+
+    extract child AL_RT_SPECIES_MMTV --refName REF_RT_MMTV
+	demote member AL_RT_SPECIES_MMTV -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Betaretrovirus_murmamtum'"	
+
+	exit
+
+  alignment AL_RT_SUBGENUS_Dtype
+
+    set field displayName "Dtype"
+    set field clade_category "subgenus" 
+
+    extract child AL_RT_SPECIES_SRV1 --refName REF_RT_SRV1
+	demote member AL_RT_SPECIES_SRV1 -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.name = 'SRV1'"	
+
+    extract child AL_RT_SPECIES_JSRV --refName REF_RT_JSRV
+	demote member AL_RT_SPECIES_JSRV -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Betaretrovirus_ovijaa'"	
+
+    extract child AL_RT_SPECIES_SMRVH --refName REF_RT_SMRVH
+	demote member AL_RT_SPECIES_SMRVH -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Betaretrovirus_squmon'"	
+
+    extract child AL_RT_SPECIES_MPMV --refName REF_RT_MPMV
+	demote member AL_RT_SPECIES_MPMV -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Betaretrovirus_maspfimon'"	
+
+	exit
+
+  #~# Subfamily Deltaretrovirinae
+
+  alignment AL_RT_SUBGENUS_Simideltaretrovirus
+
+    set field displayName "Simideltaretrovirus"
+    set field clade_category "subgenus" 
+
+    extract child AL_RT_SPECIES_PTLV1 --refName REF_RT_PTLV1
+	demote member AL_RT_SPECIES_PTLV1 -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Deltaretrovirus_priTlym1'"	
+
+    extract child AL_RT_SPECIES_PTLV2 --refName REF_RT_PTLV2
+	demote member AL_RT_SPECIES_PTLV2 -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Deltaretrovirus_priTlym2'"	
+
+    extract child AL_RT_SPECIES_PTLV3 --refName REF_RT_PTLV3
+	demote member AL_RT_SPECIES_PTLV3 -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Deltaretrovirus_priTlym3'"	
+
+    extract child AL_RT_SPECIES_PTLV4 --refName REF_RT_PTLV4
+	demote member AL_RT_SPECIES_PTLV4 -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Deltaretrovirus_priTlym4'"	
+	exit
+
+  alignment AL_RT_SUBGENUS_Bovideltaretrovirus
+
+    set field displayName "Bovideltaretrovirus"
+    set field clade_category "subgenus" 
+
+    extract child AL_RT_SPECIES_BLV --refName REF_RT_BLV
+	demote member AL_RT_SPECIES_BLV -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Deltaretrovirus_bovleu'"	
+
+	exit
+
+  #~# Subfamily Lentiretrovirinae
+
+  alignment AL_RT_SUBGENUS_Bovilentivirus
+
+    set field displayName "Bovilentivirus"
+    set field clade_category "subgenus" 
+
+    extract child AL_RT_SPECIES_BIV --refName REF_RT_BIV
+	demote member AL_RT_SPECIES_BIV -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Lentivirus_bovimdef'"	
+
+    extract child AL_RT_SPECIES_JDV --refName REF_RT_JDV
+	demote member AL_RT_SPECIES_JDV -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Lentivirus_bovjem'"	
+
+	exit
+
+  alignment AL_RT_SUBGENUS_Equilentivirus
+
+    set field displayName "Equilentivirus"
+    set field clade_category "subgenus" 
+
+    extract child AL_RT_SPECIES_EIAV --refName REF_RT_EIAV
+	demote member AL_RT_SPECIES_EIAV -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Lentivirus_equinfane'"	
+
+	exit
+
+  alignment AL_RT_SUBGENUS_Felilentivirus
+
+    set field displayName "Felilentivirus"
+    set field clade_category "subgenus" 
+
+    extract child AL_RT_SPECIES_FIVP --refName REF_RT_FIVP
+	demote member AL_RT_SPECIES_FIVP -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Lentivirus_felimdef'"	
+
+	exit
+
+  alignment AL_RT_SUBGENUS_Ovilentivirus
+
+    set field displayName "Ovilentivirus"
+    set field clade_category "subgenus" 
+
+    extract child AL_RT_SPECIES_SRLVA --refName REF_RT_SRLVA
+	demote member AL_RT_SPECIES_SRLVA -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Lentivirus_ovivismae'"	
+
+    extract child AL_RT_SPECIES_SRLVB --refName REF_RT_SRLVB
+	demote member AL_RT_SPECIES_SRLVB -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Lentivirus_capartenc'"	
+
+	exit
+
+
+  alignment AL_RT_SUBGENUS_Similentivirus
+
+    set field displayName "Similentivirus"
+    set field clade_category "subgenus" 
+
+    extract child AL_RT_SPECIES_HIV1M --refName REF_RT_HIV1M
+	demote member AL_RT_SPECIES_HIV1M -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.subgenus = 'Lentivirus_humimdef1'"	
+
+	exit
+
+  #~# Subfamily Spumaretrovirinae
+
+  alignment AL_RT_SPECIES_SFVcpz
+    set field displayName "Simiispumavirus_pantrover"
+    set field clade_category "species"
+    exit
+
+  alignment AL_RT_SPECIES_SFV1
+    set field displayName "Simiispumavirus_maccycfo"
+    set field clade_category "species"
+    exit
+
+  alignment AL_RT_SPECIES_SFV3
+    set field displayName "Simiispumavirus_chlaetfo"
+    set field clade_category "species"
+    exit
+
+  alignment AL_RT_SPECIES_SFVora
+    set field displayName "Simiispumavirus_ponpygpygfo"
+    set field clade_category "species"
+    exit
+
+  alignment AL_RT_SPECIES_SFVsqu
+    set field displayName "Simiispumavirus_saiscifo"
+    set field clade_category "species"
+    exit
+
+  alignment AL_RT_SPECIES_SFVspi
+    set field displayName "Simiispumavirus_atesppfo"
+    set field clade_category "species"
+    exit
+
+  alignment AL_RT_SPECIES_BFV
+    set field displayName "Bovispumavirus_bostaufo"
+    set field clade_category "species"
+    exit
+
+  alignment AL_RT_SPECIES_EFV
+    set field displayName "Equispumavirus_equcabfo"
+    set field clade_category "species"
+    exit
+
+  alignment AL_RT_SPECIES_FFV
+    set field displayName "Felispumavirus_felcatfo"
+    set field clade_category "species"
+    exit
+
+  alignment AL_RT_SPECIES_PSFVgal
+    set field displayName "Prosimiispumavirus_otocrafo"
+    set field clade_category "species"
+    exit
+
+  alignment AL_RT_SPECIES_SnRV
+    set field displayName "SnRV"
+    set field clade_category "species"
+    exit
+
+
+  #~# Subfamily Orthoretrovirinae
+
+  alignment AL_RT_SPECIES_Korv
+    set field displayName "Gammaretrovirus_koa"
+    set field clade_category "species"
+    exit
+
+  alignment AL_RT_SPECIES_GaLV
+    set field displayName "Gammaretrovirus_gibleu"
+    set field clade_category "species"
+    exit
+
+  alignment AL_RT_SPECIES_MLV
+    set field displayName "Gammaretrovirus_murleu"
+    set field clade_category "species"
+    exit
+
+  alignment AL_RT_SPECIES_FeLV
+    set field displayName "Gammaretrovirus_felleu"
+    set field clade_category "species"
+    exit
+
+  alignment AL_RT_SPECIES_REV
+    set field displayName "Gammaretrovirus_aviretend"
+    set field clade_category "species"
+    exit
+
+  alignment AL_RT_SPECIES_RfRV
+    set field displayName "Gammaretrovirus_rhinoferrum"
+    set field clade_category "species"
+    exit
+
+
+  #~# Subfamily Glissorthoretrovirinae
+
+  alignment AL_RT_SPECIES_ALV
+    set field displayName "Alpharetrovirus_avileu"
+    set field clade_category "species"
+    exit
+
+  alignment AL_RT_SPECIES_RSV
+    set field displayName "Alpharetrovirus_avirousar"
+    set field clade_category "species"
+    exit
+
+  alignment AL_RT_SPECIES_MMTV
+    set field displayName "Betaretrovirus_murmamtum"
+    set field clade_category "species"
+    exit
+
+  alignment AL_RT_SPECIES_SRV1
+    set field displayName "SRV1"
+    set field clade_category "species"
+    exit
+
+  alignment AL_RT_SPECIES_JSRV
+    set field displayName "Betaretrovirus_ovijaa"
+    set field clade_category "species"
+    exit
+
+  alignment AL_RT_SPECIES_SMRVH
+    set field displayName "Betaretrovirus_squmon"
+    set field clade_category "species"
+    exit
+
+  alignment AL_RT_SPECIES_MPMV
+    set field displayName "Betaretrovirus_maspfimon"
+    set field clade_category "species"
+    exit
+
+
+  #~# Subfamily Deltaretrovirinae
+
+  alignment AL_RT_SPECIES_PTLV1
+    set field displayName "Deltaretrovirus_priTlym1"
+    set field clade_category "species"
+    exit
+
+  alignment AL_RT_SPECIES_PTLV2
+    set field displayName "Deltaretrovirus_priTlym2"
+    set field clade_category "species"
+    exit
+
+  alignment AL_RT_SPECIES_PTLV3
+    set field displayName "Deltaretrovirus_priTlym3"
+    set field clade_category "species"
+    exit
+
+  alignment AL_RT_SPECIES_PTLV4
+    set field displayName "Deltaretrovirus_priTlym4"
+    set field clade_category "species"
+    exit
+
+  alignment AL_RT_SPECIES_BLV
+    set field displayName "Deltaretrovirus_bovleu"
+    set field clade_category "species"
+    exit
+
+
+  #~# Subfamily Lentiretrovirinae
+
+  alignment AL_RT_SPECIES_BIV
+    set field displayName "Lentivirus_bovimdef"
+    set field clade_category "species"
+    exit
+
+  alignment AL_RT_SPECIES_JDV
+    set field displayName "Lentivirus_bovjem"
+    set field clade_category "species"
+    exit
+
+  alignment AL_RT_SPECIES_EIAV
+    set field displayName "Lentivirus_equinfane"
+    set field clade_category "species"
+    exit
+
+  alignment AL_RT_SPECIES_FIVP
+    set field displayName "Lentivirus_felimdef"
+    set field clade_category "species"
+    exit
+
+  alignment AL_RT_SPECIES_SRLVA
+    set field displayName "Lentivirus_ovivismae"
+    set field clade_category "species"
+    exit
+
+  alignment AL_RT_SPECIES_SRLVB
+    set field displayName "Lentivirus_capartenc"
+    set field clade_category "species"
+    exit
+
+  alignment AL_RT_SPECIES_HIV1M
+    set field displayName "Lentivirus_humimdef1"
+    set field clade_category "species"
+    exit
+

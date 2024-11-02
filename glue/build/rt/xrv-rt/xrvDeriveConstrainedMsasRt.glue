@@ -1,0 +1,7 @@
+
+  #~# Derive segments
+  
+  alignment AL_RT_ROOT_Retroviridae
+    derive segments AL_UNC_ROOT_Retroviridae_RT  --recursive --existingMembersOnly --allMembers --mergeStrategy OVERWRITE
+    exit
+

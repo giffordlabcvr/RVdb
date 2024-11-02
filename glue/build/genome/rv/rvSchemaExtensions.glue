@@ -1,0 +1,35 @@
+  ### Create schema extensions
+
+  # Sequence table
+  table sequence
+    create field name VARCHAR 100  
+    create field full_name VARCHAR 100
+    create field species VARCHAR 100
+    create field family VARCHAR 50
+    create field subfamily VARCHAR 50
+    create field tribe VARCHAR 50
+    create field genus VARCHAR 50
+    create field subgenus VARCHAR 50
+    create field length INTEGER
+    create field pubmed_id VARCHAR 50
+  exit
+
+  # Alignment table  
+  table alignment
+    create field clade_category VARCHAR 20
+    create field phylogeny CLOB
+  exit 
+
+  # Host taxonomy table
+  create custom-table host_taxonomy
+
+  table host_taxonomy
+    create field host_sci_name VARCHAR 100
+    create field host_common_name VARCHAR 100
+    create field host_class VARCHAR 100
+    create field host_family VARCHAR 100
+    create field host_genus VARCHAR 100
+  exit
+
+  create link sequence host_taxonomy
+

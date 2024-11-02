@@ -1,0 +1,57 @@
+<!-- Retroviridae genus reference sequences from NCBI -->
+
+<ncbiImporter>
+
+  <giNumberFieldName>gb_gi_number</giNumberFieldName>
+  <sequenceFormat>GENBANK_XML</sequenceFormat>
+  <sourceName>ncbi-refseqs-xrv</sourceName>
+
+  <specificPrimaryAccessions>
+
+	<primaryAccession>NC_001408</primaryAccession>
+	<primaryAccession>NC_001414</primaryAccession>
+	<primaryAccession>NC_001436</primaryAccession>
+	<primaryAccession>NC_001488</primaryAccession>
+	<primaryAccession>NC_001494</primaryAccession>
+	<primaryAccession>NC_001501</primaryAccession>
+	<primaryAccession>NC_001503</primaryAccession>
+	<primaryAccession>NC_001514</primaryAccession>
+	<primaryAccession>NC_001550</primaryAccession>
+	<primaryAccession>NC_001867</primaryAccession>
+	<primaryAccession>NC_001885</primaryAccession>
+	<primaryAccession>NC_001940</primaryAccession>
+	<primaryAccession>NC_006934</primaryAccession>
+	<primaryAccession>NC_007654</primaryAccession>
+	<primaryAccession>NC_039228</primaryAccession>
+	<primaryAccession>AF033808</primaryAccession>
+	<primaryAccession>AF033819</primaryAccession>
+	<primaryAccession>AF133051</primaryAccession>
+	<primaryAccession>AF133052</primaryAccession>
+	<primaryAccession>DQ093792</primaryAccession>
+	<primaryAccession>EF488483</primaryAccession>
+	<primaryAccession>JQ303225</primaryAccession>
+	<primaryAccession>M11841</primaryAccession>
+	<primaryAccession>M16575</primaryAccession>
+	<primaryAccession>M25381</primaryAccession>
+	<primaryAccession>M32690</primaryAccession>
+	<primaryAccession>M33677</primaryAccession>
+	<primaryAccession>M60609</primaryAccession>
+	<primaryAccession>U09568</primaryAccession>
+	<primaryAccession>U21603</primaryAccession>
+	<primaryAccession>U26458</primaryAccession>
+	<primaryAccession>AF201902</primaryAccession>
+	<primaryAccession>AJ544579</primaryAccession>
+	<primaryAccession>AJ564746</primaryAccession>
+	<primaryAccession>GU356394</primaryAccession>
+	<primaryAccession>M74895</primaryAccession>
+	<primaryAccession>NC_001364</primaryAccession>
+	<primaryAccession>NC_039023</primaryAccession>
+	<primaryAccession>NC_039027</primaryAccession>
+	<primaryAccession>U94514</primaryAccession>
+	<primaryAccession>X54482</primaryAccession>
+
+  </specificPrimaryAccessions>  
+
+  <sequenceIdField>PRIMARY_ACCESSION</sequenceIdField>
+</ncbiImporter>
+

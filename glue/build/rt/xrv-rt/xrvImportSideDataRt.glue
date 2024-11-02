@@ -1,0 +1,7 @@
+  delete module xrvSideDataImporterRT
+  create module -f modules/build/rt/xrv-rt/xrvSideDataImporterRT.xml xrvSideDataImporterRT
+
+  # Import metadata for RT sequences from tabular
+  module xrvSideDataImporterRT 
+    populate -f tabular/xrv/xrv_side_data.tsv
+    exit

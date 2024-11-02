@@ -1,0 +1,8 @@
+  delete module xrvSideDataImporter
+  create module -f modules/build/genome/xrv/xrvSideDataImporter.xml xrvSideDataImporter
+
+  # Import metadata for full-length exogenous reference sequences from tabular
+  module xrvSideDataImporter 
+    populate -f tabular/xrv/xrv_side_data.tsv
+    exit
+

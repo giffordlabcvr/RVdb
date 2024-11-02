@@ -1,0 +1,16 @@
+  
+  #~# Constrained alignment tree tribe level
+
+  alignment AL_RT_ROOT_Retroviridae
+
+    set field displayName "Retroviridae"
+    set field clade_category "family"
+
+    extract child AL_RT_TRIBE_Permearetrovirini --refName REF_RT_SnRV
+	demote member AL_RT_TRIBE_Permearetrovirini -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.tribe = 'Permearetrovirini'"
+
+	extract child AL_RT_TRIBE_Glissaretrovirini --refName REF_RT_MMTV
+	demote member AL_RT_TRIBE_Glissaretrovirini -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.tribe = 'Glissaretrovirini'"	
+
+    exit
+
