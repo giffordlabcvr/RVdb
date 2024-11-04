@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>Y00302</GBSeq_locus>
+    <GBSeq_length>2428</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>01-NOV-2005</GBSeq_update-date>
+    <GBSeq_create-date>16-JUL-1988</GBSeq_create-date>
+    <GBSeq_definition>Avian sarcoma virus CT10 genomic sequence</GBSeq_definition>
+    <GBSeq_primary-accession>Y00302</GBSeq_primary-accession>
+    <GBSeq_accession-version>Y00302.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|Y00302.1|</GBSeqid>
+      <GBSeqid>gi|61500</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>complete genome</GBKeyword>
+      <GBKeyword>crk oncogene</GBKeyword>
+      <GBKeyword>gag gene</GBKeyword>
+      <GBKeyword>gag-crk fusion protein</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Avian sarcoma virus CT10</GBSeq_source>
+    <GBSeq_organism>Avian sarcoma virus CT10</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes; Ortervirales; Retroviridae; Orthoretrovirinae; Alpharetrovirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..2428</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Mayer,B.J.</GBAuthor>
+          <GBAuthor>Hamaguchi,M.</GBAuthor>
+          <GBAuthor>Hanafusa,H.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>A novel viral oncogene with structural similarity to phospholipase C</GBReference_title>
+        <GBReference_journal>Nature 332 (6161), 272-275 (1988)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1038/332272a0</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>2450282</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..2428</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Mayer,B.J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (14-MAR-1988) Mayer B.J., The Rockefeller University, 1230 York Avenue, New York, NY 10021, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..2428</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2428</GBInterval_to>
+            <GBInterval_accession>Y00302.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Avian sarcoma virus CT10</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>CT10</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11878</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>379..1701</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>379</GBInterval_from>
+            <GBInterval_to>1701</GBInterval_to>
+            <GBInterval_accession>Y00302.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>p47(gag-crk)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>CAA68407.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GOA:P05433</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR000980</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR001452</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR004028</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR010999</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR012344</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>UniProtKB/Swiss-Prot:P05433</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MEAVIKVISSACKTYCGKTSPSKKEIGAMLSLLQKEGLLMSPSDLYSPRSWDPITAALTQRAMELGKSGELKTWGLVLGALEAAREEQEQVTSEQAKFWLGLGGGRVSPPGPECIEKPATERRIDKGEEVGETTVQRDAKMAPEETATPKTVGTSCYYCGAAIGCNCATASAPPPPYVGSGLYPSLAGVGEQQGQGGDTPRGAEQPRAGRGAGHRGLRRPAGRGQRVRPAGGAALMAGQFDSEDRGSWYWGRLSRGDAVSLLQGQRHGTFLVRDSGSIPGDFVLSVSESSRVSHYIVNSLGPAGGRRAGGEGPGAPGLNPTRFLIGDQVFDSLPSLLEFYKIHYLDTTTLIEPVSRSRQNSGVILRQEEVEYVRALFDFKGNDDGDLPFKKGDILKIRDKPEEQWWNAEDMDGKRGMIPVPYVEKCRPSSASVSTLTGGR</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>mat_peptide</GBFeature_key>
+        <GBFeature_location>379..1001</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>379</GBInterval_from>
+            <GBInterval_to>1001</GBInterval_to>
+            <GBInterval_accession>Y00302.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>gag polypeptide</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>1002..1688</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1002</GBInterval_from>
+            <GBInterval_to>1688</GBInterval_to>
+            <GBInterval_accession>Y00302.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>transduced crk polypeptide</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gccattttacctcccaccacattggtgtgcacctgggttgatggccggaccgttgagtccctaacgattgcgaacacctgcatgaagcgaaaggcttcatttggtgaccccgacgtgatcgttagggaatagtggtcggccacagacggcgtggcgatcctgtcctcatccgtctcgcttattcggggagcggacgatgaccctagtagagggggctgcggcttaggagggcagaagctgagtgacgtcggagggagctctactgcaggggccaagataacctaccgagaactcagagagtcgttggaagacgggaaggaagcccgacgactgagcagtccaccccaggcgtgattctggtcgcccggtggatcaagcatggaagccgtcataaaggtgatttcgtccgcgtgtaaaacctattgcgggaaaacctctccttctaagaaggaaataggggccatgttgtccctgttacaaaaggaagggttgcttatgtctccctcagacttatattccccgaggtcctgggatcccattaccgcggcactcacccagcgggcaatggaacttgggaaatcgggagagttaaaaacctggggattggttttgggggcattggaagcggctcgagaggaacaggaacaggttacatctgagcaagcaaagttttggttgggattagggggagggagggtctctcccccaggtccggaatgcatcgagaaaccagcaacggagcggcgaatcgacaagggggaggaagtgggagaaacaactgtgcagcgagatgcgaagatggcgccggaggaaacggccacacctaaaaccgttggcacatcctgctattattgcggagcagctattggctgtaattgcgccacagcctcggctcctcctcctccttatgtggggagtggtttgtatccttccctggcgggggtgggagagcagcagggccaggggggtgacacacctcggggggcggaacagccaagggctgggcgcggagcggggcaccgcgggctgcggcggcccgcggggcgggggcagcgagtgcggcctgcgggtggggcggccctcatggccgggcagttcgactccgaggaccgggggagctggtactgggggcggctgagccggggcgacgcggtgtcgctgctgcaggggcaacgccacgggaccttcctggtgcgcgactcgggctccatccccggcgacttcgtgctctcggtgtccgagagctcccgcgtctcgcactacatcgtcaacagcctggggccggcgggaggccggagggccggcggcgagggccctggggccccggggttgaatcccaccagatttctaataggtgaccaggtgtttgattctttgccatctttactggaattctacaaaatacactatttggacactacaaccttgatagaaccagtttcccgatccaggcagaacagtggcgttatcctcaggcaggaggaagttgaatatgtgcgagctctctttgactttaagggaaacgatgacggagatcttccatttaagaaaggagacatactgaaaatccgggataaacctgaagagcaatggtggaatgcagaagacatggatggaaagaggggaatgatacctgttccttacgtcgagaagtgtagaccttcctctgcttcagtatctactctgactggaggtcgctgagtagtgcgcgagcaaaatttaagctacaacagggcaaggcttggccgataattgcatgaagaaatttgcttaggcgctttgcgctgctccgcgatgtacgggttaatgcttctgtagaaattgtttggcattaggcgtattgcgctgctccgcgatgtacgggttaggtataatatgaagtttgactgaggggaccatgatgtgtataggcgtcaagcggggcttcggttgtacgcagacaggggtcccctcagaaagtagaggtgcttctgcatagggagggggaaatgttgccacatagtcatcgttgcataagtattgccacatagtcatcgttacataagggtcagaggctgcttgaagtcctaaaaagggaaaggcagaacatctggaatgccattggtagcagctagatcacccgatgggtgtaactgaaagatcattggtgacaggatatcgcctcatgggcagggctaaagctatgcatgattatataagtacccttatgtcacgatgacacagcaatatgccttataaggaaaaaaaggcactgtacacgttgattggtggaagtaaggtggtatgatcgtggtatgatcgtgccttattaggaaggcaacagacgggtctgacatggattggacgatctccttagttccgcattgcagagatagtgtatttaagtgcctagcctgatacaataaacgccattttacctcccaccaca</GBSeq_sequence>
+  </GBSeq>

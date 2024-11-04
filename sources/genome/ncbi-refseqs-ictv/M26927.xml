@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>PCGGPE</GBSeq_locus>
+    <GBSeq_length>8088</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>24-JUN-1994</GBSeq_update-date>
+    <GBSeq_create-date>02-AUG-1993</GBSeq_create-date>
+    <GBSeq_definition>Gibbon ape leukemia virus gag, pol, and env genes, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>M26927</GBSeq_primary-accession>
+    <GBSeq_accession-version>M26927.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|M26927.1|PCGGPE</GBSeqid>
+      <GBSeqid>gi|332610</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>env protein</GBKeyword>
+      <GBKeyword>envelope-associated protein</GBKeyword>
+      <GBKeyword>gag protein</GBKeyword>
+      <GBKeyword>integrase</GBKeyword>
+      <GBKeyword>nucleocapsid protein</GBKeyword>
+      <GBKeyword>pol protein</GBKeyword>
+      <GBKeyword>protease</GBKeyword>
+      <GBKeyword>reverse transcriptase</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Gibbon ape leukemia virus</GBSeq_source>
+    <GBSeq_organism>Gibbon ape leukemia virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes; Ortervirales; Retroviridae; Orthoretrovirinae; Gammaretrovirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..8088</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Delassus,S.</GBAuthor>
+          <GBAuthor>Sonigo,P.</GBAuthor>
+          <GBAuthor>Wain-Hobson,S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Genetic organization of gibbon ape leukemia virus</GBReference_title>
+        <GBReference_journal>Virology 173 (1), 205-213 (1989)</GBReference_journal>
+        <GBReference_pubmed>2683360</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>Original source text: GaLV (strain SEATO and SF), cDNA to viral RNA, clone GAS-1.; Draft entry and computer-readable copy of sequence [1] kindly submitted by S.Wain-Hobson, 08-AUG-1989.~Bases 4518 to 4926 in [1] are from the SF strain of GaLV.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..8088</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>8088</GBInterval_to>
+            <GBInterval_accession>M26927.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Gibbon ape leukemia virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11840</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>repeat_region</GBFeature_key>
+        <GBFeature_location>&lt;1..125</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>125</GBInterval_to>
+            <GBInterval_accession>M26927.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>5' long terminal repeat</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>rpt_type</GBQualifier_name>
+            <GBQualifier_value>long_terminal_repeat</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>repeat_region</GBFeature_key>
+        <GBFeature_location>&lt;1..69</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>69</GBInterval_to>
+            <GBInterval_accession>M26927.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>LTR R region</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>primer_bind</GBFeature_key>
+        <GBFeature_location>126..142</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>126</GBInterval_from>
+            <GBInterval_to>142</GBInterval_to>
+            <GBInterval_accession>M26927.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>primer (Pro-tRNA) binding site</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>631..2193</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>631</GBInterval_from>
+            <GBInterval_to>2193</GBInterval_to>
+            <GBInterval_accession>M26927.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>gag polyprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA46809.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MGQDNSTPISLTLNHWRDVRTRAHNLSVEIKKGKWQTFCSSEWPTFGVGWPPEGTFNLSVIFAVKKIVFQENGGHPDQVPYIVVWQDLAQNPPPWVPASAKVAVVSDTRRPVAGRPSAPPRPPIYPATDDLLLLSEPTPPPYPAALPPPLAPQAIGPPSGQMPDSSDPEGPAAGTRSRRARSPADNSGPDSTVILPLRAIGPPAEPNGLVPLQYWPFSSADLYNWKSNHPSFSENPAGLTGLLESLMFSHQPTWDDCQQLLQILFTTEERERILLEARKNVLGDNGAPTQLENLINEAFPLNRPHWDYNTAAGRERLLVYRRTLVAGLKGAARRPTNLAKVREVLQGPAEPPSVFLERLMEAYRRYTPFDPSSEGQQAAVAMAFIGQSAPDIKKKLQRLEGLQDYSLQDLVKEAEKVYHKRETEEERQEREKKEAEEKERRRDRPKKKNLTKILAAVVSREGSTGRQTGNLSNQAKKTPRDGRPPLDKDQCAYCKEKGHWARECPRKKHVREAKVLALDN</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>2194..5691</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>2194</GBInterval_from>
+            <GBInterval_to>5691</GBInterval_to>
+            <GBInterval_accession>M26927.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>NH2 terminal uncertain</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>pol polyprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA46810.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>GSQGSDPLPEPRVTLTVEGTPIEFLVDTGAEHSVLTQPMGKVGSRRTVVEGATGSKVYPWTTKRLLKIGHKQVTHSFLVIPECPAPLLGRDLLTKLKAQIQFSAEGPQVTWGERPTMCLVLNLEEEYRLHEKPVPSSIDPSWLQLFPTVWAERAGMGLANQVPPVVVELRSGASPVAVRQYPMSKEAREGIRPHIQKFLDLGVLVPCRSPWNTPLLPVKKPGTNDYRPVQDLREINKRVQDIHPTVPNPYNLLSSLPPSYTWYSVLDLKDAFFCLRLHPNSQPLFAFEWKDPEKGNTGQLTWTRLPQGFKNSPTLFDEALHRDLAPFRALNPQVVLLQYVDDLLVAAPTYEDCKKGTQKLLQELSKLGYRVSAKKAQLCQREVTYLGYLLKEGKRWLTPARKATVMKIPVPTTPRQVREFLGTAGFCRLWIPGFASLAAPLYPLTKESIPFIWTEEHQQAFDHIKKALLSAPALALPDLTKPFTLYIDERAGVARGVLTQTLGPWRRPVAYLSKKLDPVASGWPTCLKAVAAVALLLKDADKLTLGQNVTVIASHSLESIVRQPPDRWMTNARMTHYQSLLLNERVSFAPPAVLNPATLLPVESEATPVHRCSEILAEETGTRRDLEDQPLPGVPTWYTDGSSFITEGKRRAGAPIVDGKRTVWASSLPEGTSAQKAELVALTQALRLAEGKNINIYTDSRYAFATAHIHGAIYKQRGLLTSAGKDIKNKEEILALLEAIHLPRRVAIIHCPGHQRGSNPVATGNRRADEAAKQAALSTRVLAGTTKPQEPIEPAQEKTRPRELTPDRGKEFIKRLHQLTHLGPEKLLQLVNRTSLLIPNLQSAVREVTSQCQACAMTNAVTTYRETGKRQRGDRPGVYWEVDFTEIKPGRYGNKYLLVFIDTFSGWVEAFPTKTETALIVCKKILEEILPRFGIPKVLGSDNGPAFVAQVSQGLATQLGINWKLHCAYRPQSSGQVERMNRTIKETLTKLALETGGKDWVTLLPLALLRARNTPGRFGLTPYEILYGGPPPILESGETLGPDDRFLPVLFTHLKALEIVRTQIWDQIKEVYKPGTVTIPHPFQVGDQVLVRRHRPSSLEPRWKGPYLVLLTTPTAVKVDGIAAWVHASHLKPAPPSAPDESWELEKTDHPLKLRIRRRRDESAK</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>5552..7555</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>5552</GBInterval_from>
+            <GBInterval_to>7555</GBInterval_to>
+            <GBInterval_accession>M26927.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>env protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA46811.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MVLLPGSMLLTSNLHHLRHQMSPGSWKRLIILLSCVFGGGGTSLQNKNPHQPMTLTWQVLSQTGDVVWDTKAVQPPWTWWPTLKPDVCALAASLESWDIPGTDVSSSKRVRPPDSDYTAAYKQITWGAIGCSYPRARTRMASSTFYVCPRDGRTLSEARRCGGLESLYCKEWDCETTGTGYWLSKSSKDLITVKWDQNSEWTQKFQQCHQTGWCNPLKIDFTDKGKLSKDWITGKTWGLRFYVSGHPGVQFTIRLKITNMPAVAVGPDLVLVEQGPPRTSLALPPPLPPREAPPPSLPDSNSTALATSAQTPTVRKTIVTLNTPPPTTGDRLFDLVQGAFLTLNATNPGATESCWLCLAMGPPYYEAIASSGEVAYSTDLDRCRWGTQGKLTLTEVSGHGLCIGKVPFTHQHLCNQTLSINSSGDHQYLLPSNHSWWACSTGLTPCLSTSVFNQTRDFCIQVQLIPRIYYYPEEVLLQAYDNSHPRTKREAVSLTLAVLLGLGITAGIGTGSTALIKGPIDLQQGLTSLQIAIDADLRALQDSVSKLEDSLTSLSEVVLQNRRGLDLLFLKEGGLCAALKEECCFYIDHSGAVRDSMKKLKEKLDKRQLERQKSQNWYEGWFNNSPWFTTLLSTIAGPLLLLLLLLILGPCIINKLVQFINDRISAC</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>repeat_region</GBFeature_key>
+        <GBFeature_location>7651..&gt;8088</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>7651</GBInterval_from>
+            <GBInterval_to>8088</GBInterval_to>
+            <GBInterval_accession>M26927.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>3' long terminal repeat</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>rpt_type</GBQualifier_name>
+            <GBQualifier_value>long_terminal_repeat</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>repeat_region</GBFeature_key>
+        <GBFeature_location>8020..&gt;8088</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>8020</GBInterval_from>
+            <GBInterval_to>8088</GBInterval_to>
+            <GBInterval_accession>M26927.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>LTR R region</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gcgccagtccttagagagactgagccgcccgggtacccgtgtgtccaataaaacctcttgctgattgcatccggagccgtggtctcgttgttccttgggagggtttctcctaactattgaccgcccacttcgggggtctcacatttgggggctcgtccgggatcggaaaccccacccagggaccaccgacccaccaacgggaggtaagctggccagcgaccgttgtgtgtctcgcttctgtgtctaagtccgtaattctgactgtccttgtgtgtctcgcttctgtgtctgagaccgtaactctgactgcccttgtaagtgcgcgcatttttttggtttcagtctgttccgggtgaatcactctgcgagtgacgtgtgagtagcgaacagacgtgttcggggctcaccgcctggtaatccagggagacgtcccaggatcaggggaggaccagggacgcctggtggacccctcggtaacgggtcgttgtgacccgatttcatcgcccgtctggtaagacgcgctctgaatctgattctctctctcggtcgcctcgccgccgtctctggtttctttttgtttcgtttctggaaagcctctgtgtcacagtctttctctcccaaatcatcaatatgggacaagataattctacccctatctccctcactctaaatcactggagagatgtgagaacaagggctcacaatctatccgtggaaatcaaaaagggaaaatggcagactttctgttcctccgagtggcccacattcggcgtggggtggccaccggagggaacttttaatctctctgtcatttttgcagttaaaaagattgtctttcaggagaacgggggacatccggaccaagttccatatatcgtggtatggcaggacctcgcccagaatcccccaccatgggtgccagcctccgccaaggtcgctgttgtctctgatacccgaagaccagttgcggggaggccatcagctcctccccgaccccccatctacccggcaacagacgacttactcctcctctctgaacccacgcccccgccctatccggcggcactgccaccccctctggcccctcaggcgatcggaccgccgtcaggccagatgcccgatagtagcgatcctgaggggccagccgctgggaccaggagtcgccgtgcccgcagtccagcagacaactcgggtcctgactccactgtgattttgcccctccgagccataggacccccggccgagcccaatggcctggtccctctacaatattggcctttttcctcagcagatctttataattggaaatctaatcatccctctttttctgaaaacccagcaggtctcacggggctccttgagtctcttatgttctcccatcagcccacttgggacgattgccaacagctcctacagattcttttcaccactgaggaacgggaaagaattctcctggaggcccgcaaaaatgtccttggggacaatggggcccctacacagctcgagaacctcattaatgaggccttccccctcaatcgacctcactgggattacaacacagccgcaggtagggagcgtcttctggtctaccgccggactctagtggcaggtctcaaaggggcagctcggcgtcctaccaatttggctaaggtaagagaggtcttgcagggaccggcagaacccccttcggttttcttagaacgcctgatggaggcctataggagatacactccgtttgatccctcttctgagggacaacaggctgcggtcgccatggcctttatcggacagtcagccccagatatcaagaaaaagttacagaggctagaggggctccaggactattccttacaagatttagtaaaagaggcagaaaaggtgtaccataagagagagacagaagaagaaagacaagaaagagaaaaaaaggaggcagaagaaaaggagaggcggcgcgataggccgaagaaaaaaaacttgactaaaattctggccgcagtagtaagtagagaagggtccacaggtaggcagacagggaacctgagcaaccaggcaaagaagacacctagggatggaagacctccactagacaaagaccagtgcgcatactgtaaagagaagggccattgggcaagagaatgtccccgaaaaaaacacgtcagagaagccaaggttctagccctagataactaggggagtcagggttcggaccccctccccgaacctagggtaacactgactgtggaggggacccccattgagttcctggtcgacaccggagctgaacattcagtattgacccaacccatgggaaaagtagggtccagacggacggtcgtggaaggagcgacaggcagcaaggtctacccctggaccacaaaaagacttttaaaaattggacataaacaagtgacccactccttcctggtcatacccgagtgccctgctcctctgttgggcagggacctcctaaccaaactaaaggcccagatccagttttccgctgagggcccacaggtaacatggggagaacgccctactatgtgcctggtcctaaacctggaagaagaataccgactacatgaaaagccagtaccctcctctatcgacccatcctggctccagcttttccccactgtatgggcagaaagagccggcatgggactagccaatcaagtcccaccagtggtagtagagctaagatcaggtgcctcaccagtggctgttcgacaatatccaatgagcaaagaagctcgggaaggtatcagaccccacatccagaagttcctagacctaggggtcttggtgccctgtcggtcgccctggaatacccctctgctacctgtaaaaaagccagggaccaatgactatcggccagttcaagacctgagagaaattaataaaagggtacaggatattcatcccacagtcccaaacccttacaatcttctgagttcccttccgcctagctatacttggtactcagtcttagatctcaaggatgcctttttctgcctcaggctacatcccaacagccagccgctgttcgcgttcgagtggaaagacccagaaaaaggtaacacaggtcagctgacctggacgcggctaccacaagggttcaagaactctcccactctcttcgacgaggccctccaccgagatttggctccctttagggccctcaacccccaggtggtgttactccaatatgtggacgacctcttggtggccgcccccacatatgaagactgcaaaaaaggaacacagaagctcttacaggagttaagtaagttggggtaccgggtatcggctaagaaggcccagctctgccagagagaagtcacctatctggggtacctactcaaggaaggaaaaagatggctaaccccagcccgaaaggctactgttatgaaaatccctgttcctacgacccccagacaggtccgtgaatttctaggcactgccggattctgcaggctctggatccctgggtttgcttccctggctgcacccttgtaccccctaacaaaagagagcatcccttttatttggactgaggaacatcagcaggcttttgaccacataaaaaaagccttgctgtcagcccctgcattggccctcccagacctcaccaagccattcactctatatatagatgagagagccggcgtggcccggggagtgctcactcagactttaggaccctggcggcggccagtagcatatctatcaaaaaaactggatccggtggccagcgggtggccaacctgcctgaaagcggttgcagcagtagcactccttctcaaagacgctgataagttaaccttgggacaaaatgtgactgtgattgcttcccatagcctcgaaagcatcgtgcggcaaccccccgaccggtggatgaccaatgccagaatgactcattaccagagcctgctgttaaatgaaagggtatcgtttgcgccccctgctgtcctaaacccagctaccctacttccagtcgagtcggaagccaccccagtgcacaggtgctcagaaatcctcgccgaagaaactggaactcgacgagacctagaagaccaaccattgcccggggtgccaacctggtatacagacggtagcagtttcatcacggaaggtaaacggagagcaggggccccgatcgtagatggcaagcggacggtatgggctagcagcctgccagaaggtacgtcagcccagaaggctgaactagtagccttgacgcaggcattacgcctggccgaaggaaaaaacatcaacatctacacggacagcaggtatgcttttgccactgctcatattcatggggcaatatataagcagagggggctgctcacttctgctggaaaagatatcaaaaacaaagaggaaattttggccctgctagaggccatccatctccctaggcgggtcgccattatccactgtcctggccaccagaggggaagtaaccctgtggccactgggaaccggagggccgacgaggctgcaaagcaagccgccctgtcgaccagagtgctggcaggaactacaaaacctcaagagccaatcgagcccgctcaagaaaagaccaggccgagggagctcacccctgaccggggaaaagaattcattaagcggttacatcagttaactcacttaggaccagaaaagcttctccaactagtgaaccgtaccagcctcctcatcccgaacctccaatctgcagttcgcgaagtcaccagtcagtgtcaggcttgtgccatgactaatgcggtcaccacctacagagagaccggaaaaaggcaacgaggagatcgacccggcgtgtactgggaggtagacttcacagaaataaagcctggtcggtatggaaacaagtatctgttagtattcatagatactttctccggatgggtagaagcttttcctaccaaaactgaaacggccctaatcgtctgtaaaaaaatattagaagaaattctaccccgcttcgggatccctaaggtactcgggtcagacaatggcccggcctttgttgctcaggtaagtcagggactggccactcaactggggataaattggaagttacattgtgcgtatagaccccagagctcaggtcaggtagaaagaatgaacagaacaattaaagagaccttgaccaaattagccttagagaccggtggaaaagactgggtgaccctccttcccttagcgctgcttagggccaggaatacccctggccggtttggtttaactccttatgaaattctctatggaggaccaccccccatacttgagtctggagaaactttgggtcccgatgatagatttctccctgtcttatttactcacttaaaggctttagaaattgtaaggacccaaatctgggaccagatcaaagaggtgtataagcctggtaccgtaacaatccctcacccgttccaggtcggggatcaagtgcttgtcagacgccatcgacccagcagccttgagcctcggtggaaaggcccatacctggtgttgctgactaccccgaccgcggtaaaagtcgatggtattgctgcctgggtccatgcttctcacctcaaacctgcaccaccttcggcaccagatgagtcctgggagctggaaaagactgatcatcctcttaagctgcgtattcggcggcggcgggacgagtctgcaaaataagaacccccaccagcccatgaccctcacttggcaggtactgtcccaaactggagacgttgtctgggatacaaaggcagtccagcccccttggacttggtggcccacacttaaacctgatgtatgtgccttggcggctagtcttgagtcctgggatatcccgggaaccgatgtctcgtcctctaaacgagtcagacctccggactcagactatactgccgcttataagcaaatcacctggggagccatagggtgcagctaccctcgggctaggactagaatggcaagctctaccttctacgtatgtccccgggatggccggaccctttcagaagctagaaggtgcggggggctagaatccctatactgtaaagaatgggattgtgagaccacggggaccggttattggctatctaaatcctcaaaagacctcataactgtaaaatgggaccaaaatagcgaatggactcaaaaatttcaacagtgtcaccagaccggctggtgtaacccccttaaaatagatttcacagacaaaggaaaattatccaaggactggataacgggaaaaacctggggattaagattctatgtgtctggacatccaggcgtacagttcaccattcgcttaaaaatcaccaacatgccagctgtggcagtaggtcctgacctcgtccttgtggaacaaggacctcctagaacgtccctcgctctcccacctcctcttcccccaagggaagcgccaccgccatctctccccgactctaactccacagccctggcgactagtgcacaaactcccacggtgagaaaaacaattgttaccctaaacactccgcctcccaccacaggcgacagactttttgatcttgtgcagggggccttcctaaccttaaatgctaccaacccaggggccactgagtcttgctggctttgtttggccatgggccccccttattatgaagcaatagcctcatcaggagaggtcgcctactccaccgaccttgaccggtgccgctgggggacccaaggaaagctcaccctcactgaggtctcaggacacgggttgtgcataggaaaggtgccctttacccatcagcatctctgcaatcagaccctatccatcaattcctccggagaccatcagtatctgctcccctccaaccatagctggtgggcttgcagcactggcctcaccccttgcctctccacctcagtttttaatcagactagagatttctgtatccaggtccagctgattcctcgcatctattactatcctgaagaagttttgttacaggcctatgacaattctcaccccaggactaaaagagaggctgtctcacttaccctagctgttttactggggttgggaatcacggcgggaataggtactggttcaactgccttaattaaaggacctatagacctccagcaaggcctgacaagcctccagatcgccatagatgctgacctccgggccctccaagactcagtcagcaagttagaggactcactgacttccctgtccgaggtagtgctccaaaataggagaggccttgacttgctgtttctaaaagaaggtggcctctgtgcggccctaaaggaagagtgctgtttttacatagaccactcaggtgcagtacgggactccatgaaaaaactcaaagaaaaactggataaaagacagttagagcgccagaaaagccaaaactggtatgaaggatggttcaataactccccttggttcactaccctgctatcaaccatcgctgggcccctattactcctccttctgttgctcatcctcgggccatgcatcatcaataagttagttcaattcatcaatgataggataagtgcatgttaaaattctggtccttagacaaaatatcaggccctagagaacgaaggtaacctttaattttgctctaagattagagctattcacaagagaaatgggggaatgaaagaagtgtttttttttagccaactgcagtaacgccattttgctaggcacacctaaaggataggaaaaatacagctaagaacagggccaaacaggatatctgtggtcatgcacctgggccccggcccaggccaaggacagagggttcccagaaatagatgagtcaacagcagtttccagcaaggacagagggttcccagaaatagatgagtcaacagcagtttccagggtgcccctcaaccgtttcaaggactcccatgaccgggaattcacccctggccttatttgaactaaccaattaccttgcctctcgcttctgtacccgcgctttttgctataaaataagctcagaaactccacccggagcgccagtccttagagagactgagccgcccgggtacccgtgtgtccaataaaacctcttgctgattgca</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,18 @@
+<genbankXmlPopulator>
+
+	<gbOrganism>
+		<propertyPopulator property="full_name"/>
+	</gbOrganism>
+
+	<gbLength>
+		<propertyPopulator property="length"/>
+	</gbLength>
+
+	<gbReference>
+		<gbRefPubmed>
+			<propertyPopulator property="pubmed_id"/>
+		</gbRefPubmed>
+	</gbReference>
+	
+
+</genbankXmlPopulator>

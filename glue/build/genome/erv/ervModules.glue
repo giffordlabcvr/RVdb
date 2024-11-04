@@ -1,4 +1,0 @@
-
-  # Importers
-  create module -f modules/build/genome/erv/unconstrainedAlignmentImporterErv.xml unconstrainedAlignmentImporterErv
-  create module -f modules/build/genome/erv/ervSideDataImporter.xml ervSideDataImporter

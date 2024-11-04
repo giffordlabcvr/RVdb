@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF356697</GBSeq_locus>
+    <GBSeq_length>8072</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>12-AUG-2001</GBSeq_update-date>
+    <GBSeq_create-date>12-AUG-2001</GBSeq_create-date>
+    <GBSeq_definition>Porcine endogenous retrovirus class E clone P14.1, complete genome</GBSeq_definition>
+    <GBSeq_primary-accession>AF356697</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF356697.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF356697.1|</GBSeqid>
+      <GBSeqid>gi|15149237</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Porcine endogenous retrovirus E</GBSeq_source>
+    <GBSeq_organism>Porcine endogenous retrovirus E</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes; Ortervirales; Retroviridae; Orthoretrovirinae; Gammaretrovirus; Porcine type-C oncovirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..8072</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Mang,R.</GBAuthor>
+          <GBAuthor>Maas,J.</GBAuthor>
+          <GBAuthor>Chen,X.</GBAuthor>
+          <GBAuthor>Goudsmit,J.</GBAuthor>
+          <GBAuthor>van Der Kuyl,A.C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Identification of a novel type C porcine endogenous retrovirus: evidence that copy number of endogenous retroviruses increases during host inbreeding</GBReference_title>
+        <GBReference_journal>J. Gen. Virol. 82 (Pt 8), 1829-1834 (2001)</GBReference_journal>
+        <GBReference_pubmed>11457988</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..8072</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Mang,R.</GBAuthor>
+          <GBAuthor>Maas,J.</GBAuthor>
+          <GBAuthor>Chen,X.</GBAuthor>
+          <GBAuthor>Goudsmit,J.</GBAuthor>
+          <GBAuthor>van der Kuyl,A.C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (06-MAR-2001) Human Retrovirology, Amsterdam Institute of Viral Genomics, Meibergdreef 45, Amsterdam 1105 BA, The Netherlands</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..8072</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>8072</GBInterval_to>
+            <GBInterval_accession>AF356697.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Porcine endogenous retrovirus E</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:168238</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>clone</GBQualifier_name>
+            <GBQualifier_value>P14.1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>repeat_region</GBFeature_key>
+        <GBFeature_location>1..434</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>434</GBInterval_to>
+            <GBInterval_accession>AF356697.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>5'LTR</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>rpt_type</GBQualifier_name>
+            <GBQualifier_value>long_terminal_repeat</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>1059..2618</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1059</GBInterval_from>
+            <GBInterval_to>2618</GBInterval_to>
+            <GBInterval_accession>AF356697.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>similar to exogenous retrovirus gag gene</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>2619..6239</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>2619</GBInterval_from>
+            <GBInterval_to>6239</GBInterval_to>
+            <GBInterval_accession>AF356697.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>similar to exogenous retrovirus pol gene</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>6093..7624</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>6093</GBInterval_from>
+            <GBInterval_to>7624</GBInterval_to>
+            <GBInterval_accession>AF356697.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>similar to exogenous retrovirus env gene</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>repeat_region</GBFeature_key>
+        <GBFeature_location>7642..8072</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>7642</GBInterval_from>
+            <GBInterval_to>8072</GBInterval_to>
+            <GBInterval_accession>AF356697.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>3'LTR</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>rpt_type</GBQualifier_name>
+            <GBQualifier_value>long_terminal_repeat</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>tgaaatggagttttaactaaagaacaaccccccccccccttggctaagaaggcagctgcaagcctttccaactgtgctaatcactatgccacccttcttgtaataacataacaactgtgtgctctctgtccaagccagcagccctgctaattaggtacccagcattgcttatcagttctgcttctgtaaccttgcttgctcaatttcttagggaggaacactgtctgcttggggatgggggaggtccaggatgcttacatgggaaaatcaagaccttgtagtgtataaaagttactgagaacaaagacctggtgctcagactctggaggtgactcctctgagcccacaccagtgctgaataaaccttgcttttccatatctctgagtgctgtttgtctccttctgttgccacagtttttgtggtttctgcaacattttggtgcattggctgggaagccgacaaccgagctggcctcttgtgccaccgttgtctgggaactgggggaggccacggtcaccggcctggtgacaggtggatagcacacaccggccattttgccggatccagaccctcacttgggccatggccttggccacaccgcttcccgaatggactcagaaggagagtggaaacaggttcctggacaggacgtcagactggtgagtgccccggggacatctgcccaagtcaggacccaccatatggtgaaggagagactgatcacctctcagtgaccaaagggtcactcaggtcagggtttgctccgttggcatcgggaggcttgtcaattctggtgtgtgtgtgtgagtgactggagagaacaagagcccatgctccaccatctttggactacggagtcagagtgagtcctaacctgcagttccatggcgaccctcatgcggcttatggtggccctcttcagggggatcctgatgttggggtttatacagtcccacctatgctaagaggcgcctgaaatatctcctccaggggagaggtcagacggacgaagagattgttcgtcttgcgtcaccggcacagggtgggacttcacacaatgggtaaatcggcttccaagcccactgtcttagagcatatggttaagaattttaagaaaggattttctagagattatggtgttaaactgagtcctggaaaactgtgtaccctctgtaccctagagtgaccctcatttggtgatggttggcctccagaagggaccttagatgtgttcacagttgcagcagtatataatgttataacaggagaccctggacacccagacccatttccatatattgatcaatggttggaaattacctatttgaggcccccataggttcggttctgcactacagaccagggacagtgtaaggtgctagtagcccagtccaagaagaaaatcttgtcccaaaaaaggtgccacctatttatcaaggggaacctgaggactcgccccctatgccaccatcttatgtgctgccggccccacctccaggagccaaaggtccccagatgccagatagcccaccaccttctgtttctcctccaccttctgcttctgaagttcccgaggcaatatcacccctgcagccagtttctccagaacctatgagcaggcgtctccattcagctcaggcagcagccactccagcattacaaatgcccttacgggagacacggggaccacagcaagtcacccccaatgggaccatacaagaggggggatgttttttattattaccagcccttttccaccgctgatctcctcaactggaaacaccgcactccctcatattctgaaaagcttcaggcactgattgatctcttagaattcattttccagacacactgtcccaccttgatagactgacagcaacttctttttactctatttgacactgaagagtgctggcgaattgtaacagaagcccaaaaatggtttcaggccaatgcagggggtcaagcagacttggcaaactgggtgagggaaaccttcccagaagaaaacccccactgggactatgacactgaagaagggaaacgtaaccttgagaggtactggtaggccttcctacagggggcaaaagctggggctaaaaagcccactaatatagctaagatcagtgagatactacaagagccgaatgaaagcccagccaaattctatgagagactatgtgaggctttccgaacctacactccttttgatcccgaggcccctgagaaccaaagggtgataaatcagatatccataaaaagctacagaaattagaaggctttgcaggagagaatgccactaaactgttggaaatagccaacaaagtttttattaaccgagaccaggtggcccactgtgatgcagaaaagagaatgaaacaaaaagtgactcttctggcagcctccctgtcaaaacttgtgcccccagtgggaccaccccataggggacaaggcacaaggccagggaaaaggagtcccctggaacatgaccaatgtgcttactgcaaagaaaagggacattggaaaaatgaatgccccaaccgtcctgagaaaaagaccaaagccccacctagccggtaccgatctgagccactcagcaccaacctgatcggcctagcggagtctgactggggggaccaggctctctccaactgggccgctgagagcctatggtcagaattcaagtagggggccaccccatagactttatggttgacacaggtgccgaactttctgtggttacacaacctgtggctcccctctcggggaaagaaaccaccattgttggggccacaggtaaccaaacccacaggcccttctgcggtcctcgacgatgtcggttaggaggccatgaagtaatacatgaatttctttacctaactgactgcccagttcccctgatgggaaaagacctgctggctaaaatggggacacaaatttccttttctactgatggatcagcccaactcaaattgacagaaccgccctctcctttaatcatggctcttgctgtaaaaagagaagaggaatggtgcttgtactcttccccttcagaaatggggaccattcccccagaactagagactaaatacccattggtttgggctgaaggaaacccaccaggactggcaaaatgccacgctcctgtcttaattgatctaaaacccagagctcaactggtaaagctatggcaatactcaatgcccagagaagcttgactgggaatccaggttcacctggataggctgcttcagcacggactgttaataaaatgtcagtacccttggaacacccctttactgccaatgaaaaaaccgggaacacaggactaccgcccagtacaggacttgagagccataaatgaagcaacagtcacattacacccatccgtccctaacccatatacactgctagggctgatcccctccactgctgagtggtttacttgtctggacttaaaagatgcttttttctgcctccggatgccacctgccagtcagcccttgtttgcttttgaatggcagaatacacatacagggacaaaggaacagctcacctggactagactcccacaaggattcaaaaactctcccactctttttagcagcgccttagctgctgacctggctgaatttcctggacaaaaactgggctgtgttttgctacattatgttgacgacctcttactagctggcaccatggaggctcagtgcctagagggaacaagagctctcttttccctactgatggaagcagggtattgggtatcaaagaaaaaggcacaaatatgtaaaaaacaagtcaagtatctgggcttcaacatcatgcagggccaatgaatgctggggactgaaagaaagcaggcagtttgtgccattcctgtccctaccatctgccggaatgttcgtgagttcctaggggcagcagaattctgctggatatggatccccaggttttcagacctggctaggcctctgtatgaggctctaaaaggagaagaaaaggctccccttaaatggggaccaagccaggagacagcgtttcagacaatcaaaactaaactcactgaggctccagccttgggacttcctgatgtaaccagagaatttaacctttttgttcatgagaaaaatggggtggctttgggagtcttaacaagaatttgggccttggcagaggccagtggcatatctgtctaaacaaattgactcagttgctgccggatggcctccctgcctctgagagctggcagctaccaccttgttggtgagagaggttgacaagttgaccctgggacaaaacctcaatgttaaagtcccacactcagttgtaaccctaatggataccaggggccaccattggctcacacatgcacgaatgactcaatatcaagggttactatgtgaaaatccatgggtaaaattggaggttgtatgaactctgaacccagctacttttctgccagatgaagcggggcccccagaccataactgcctggaggtactagatgaggtgttttccagcaggcctgacttgactgataaaccactccaaaatcctgacctggttttatatattgatggcagcagctttatggaggatggaaaaaggatggcaggatatgctgtggtatctgacttaaaagtgatagaagcagaggtgcttcctcaaggctggtcagcacagagagcagaattatgggccttaatcagagcactggagctcagccaagaccagcaagttaatatctataccgactcatgatatgcctttgcaactttacatgtccatggagccttatataaagaaagagggctcctcactgctgaaggaaaaggaattaaaaaccaggctgaaatcttaaagctcctagaggcagtatgggaacctaaagaagttgcagttatccactgtaaaggccaccaaaagggggatgacccagtaacaaaaggaaaccatagtgctgatgcagcttccagacaggcagcccggggacaacagccagacaaacctaaggtcttgctggccccagaaatgccagctgtccccaaatattctccagaggaagaaaaatggataagggaggaaggaggaactaaaactaaaacgggatggtgggtcacacgggaccaccgagtttacattccagaacagctggcccacaaactagtctgccaagaacatgagctaacccacatggacaaaactgccttagagaccctactgggctggtactatctcattgctcatcttcctgcactctgctcctctgtctcccaaaggtgcataacctgtttacagaataatgcctgccaggggccccacagaccagctggggcacagcactgcagactgtccccatttgaggatatggaagtggacttcactgaggtcacccctagtaaagagtacaaatatttactaatttttatctgtactttttcaggatgggtagaggccatccctacctgaactgaaaaggcaaggaaagtaatcaaggcactcctgagaaacattattcccagatacggaatgcctctgaccatcaggtcagataatggactggcattcatggctgaaacagtacaacaggtggcaaaagctttacagatccgatggaaactacattctgcttattgccctcaaagttcagggaaagtagaatgcatgaaccgaacccttaaacagaccctggcagagttatgtcaggaaactggcttgccctggatagacatgttgctggtggccctcttaaaagtgagatgctcaccccgagcgggaataggattcttgccatttgaaatcttatatgaaaggcaacctccactaatcagtttaaaaggaaacaccagggagttgagagacttggaattacataaacaattacaaggactggggctcactatttcttggatatataaatgggtcacagacagaatacctgtgtccttaggtataacagtacacccccacaagctgggggaccaggtgtggataaaggactggaaaaatgagcccttgaggccagtatggaagggcccctatactgtaattctaaccacccccaccactcttaaagtaacaggaatagatgcttggatccatcattccagagttaaaccagctggcccagctgacaaccgtggagagtgggagactgccctcgatccagagacctctttgcctgacaatacagagaaggagacgatgatctcaaagccctgctctgaccacataagcattcgcattgatggaagaggccttgaccctggaactgtgctacatttccagagaatcacatttgcactccaagctgcctctcacagggtctttcattccttttataaagagataagaaacaccccacctcccgttccggccacaactaagaatttgttcttagccctggcagaaaatattacacaaactttcaaggtctcctcttgttatgtatgtgggggaacaaacacaggagaccactggccttggcaagccagagagctggacccattagagcctcataatgagactacatacccccaactcaccaatggggtatggctcctcagaactgctattatagggagaaattgtcttgcgaggtggggaggacagtttaatgtttgagttggaagcctaacatgtttaggcctaaggtattataatctgactgcccaaaagactcaatggtggtcatcctccaatcgctcaaagcccaagcctaatcccttgtctaacttttccctccttcgacaagcatgggaagatatcagtactaatatccattggcgggcaccaaagggattatattggatttgtggaaaaaaatggcctattccatactcccctccaaattggactggggtatgtgtactgggaacaatcagatcttccttcttcctgctcctgctgtcactaggggagcaactgggagttcctatatacagcacagggtgcccagagagaccggagggctgtccaaattggagactggaaagttgatgaatggcccccagaacagataattcaatattatggacctgccacctgggcagaggatggctcttggagatatcacacccctatctatatgctgaaccgcatcatcagactacaggcagttttggaacttataacaaatgacactgaaagggccttgactatattggcccaacaacaaactaaaatgctcagtgcaatctaccaaaatcgcttggccttggattatttacttgcttctgaaggagggctttgtggaaaatttaacttaagtaattgctgtctacaaatagatgacaccagaaaggtggtagaagaaattgctgaccgcatgactaaactagcccatgtacctgtacaaacttggaaaggatgggatgcagacagtctctttggtaaatggttctcttggttgggagaaattaagacaatggttggaatagtcatggttatactcgcagggtgcctacttgttccctgccttgtacctctcctgataaatattataaaaggttttataaaaaccatggttgaaagaaaaacagcctcccacctgctacttattagaggctaccaaagggttatgactgatgatgatctgtaaagggtgcagatgcaccctgaacatcaagaggggggaatgaaatgaagttttaactaaagaacaacccccccccttggctaagaaggcagctgcaagcctttccaactgtgctaatcactatgccacccttcttgtaataacataacaactgtgtgctctctgtccaagccagcagccctgctaattaggtacccagcattgcttatcagttctgcttctgtaaccttgcttgctcaatttcttagggaggaacactgtctgcttggggatgggggaggtccaggatgcttacatgggaaaatcaagaccttgtagtgtataaaagttactgagaacaaagacctggtgctcagactctggaggtgactcctctgagcccacaccagtgctgaataaaccttgcttttccatatctctgagtgctgtttgtctccttctgttgccacagtttttgtggtttctgcaaca</GBSeq_sequence>
+  </GBSeq>

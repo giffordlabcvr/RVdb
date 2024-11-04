@@ -1,8 +1,0 @@
-  
-  run script glue/build/genome/erv/ervLoadRefConData.js
-
-  # Load data for the complete RV genome sequences
-  module ervSideDataImporter 
-    populate -f tabular/erv/erv-side-data.tsv
-    exit
-

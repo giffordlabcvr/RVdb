@@ -2,8 +2,16 @@
 
   # Sequence table
   table sequence
+
+    # Sequence entry 
+    create field gb_create_date DATE
+    create field gb_update_date DATE
+    create field length INTEGER
     create field name VARCHAR 100  
     create field full_name VARCHAR 100
+    create field pubmed_id VARCHAR 50
+
+    # RV Taxonomy
     create field species VARCHAR 100
     create field family VARCHAR 50
     create field subfamily VARCHAR 50
@@ -11,7 +19,7 @@
     create field genus VARCHAR 50
     create field subgenus VARCHAR 50
     create field length INTEGER
-    create field pubmed_id VARCHAR 50
+
   exit
 
   # Alignment table  

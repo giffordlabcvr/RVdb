@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>ACSUR2CG</GBSeq_locus>
+    <GBSeq_length>3166</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>31-OCT-2005</GBSeq_update-date>
+    <GBSeq_create-date>27-APR-1993</GBSeq_create-date>
+    <GBSeq_definition>UR2 sarcoma virus, complete genome</GBSeq_definition>
+    <GBSeq_primary-accession>M10455</GBSeq_primary-accession>
+    <GBSeq_accession-version>M10455.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|M10455.1|ACSUR2CG</GBSeqid>
+      <GBSeqid>gi|493011</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>complete genome</GBKeyword>
+      <GBKeyword>protein kinase</GBKeyword>
+      <GBKeyword>ros oncogene</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>UR2 sarcoma virus</GBSeq_source>
+    <GBSeq_organism>UR2 sarcoma virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes; Ortervirales; Retroviridae; Orthoretrovirinae; Alpharetrovirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..3166</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Neckameyer,W.S.</GBAuthor>
+          <GBAuthor>Wang,L.H.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Nucleotide sequence of avian sarcoma virus UR2 and comparison of its transforming gene with other members of the tyrosine protein kinase oncogene family</GBReference_title>
+        <GBReference_journal>J. Virol. 53 (3), 879-884 (1985)</GBReference_journal>
+        <GBReference_pubmed>2983097</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1970..2161</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Zong,C.S.</GBAuthor>
+          <GBAuthor>Poon,B.</GBAuthor>
+          <GBAuthor>Chen,J.</GBAuthor>
+          <GBAuthor>Wang,L.H.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Molecular and biochemical bases for activation of the transforming potential of the proto-oncogene c-ros</GBReference_title>
+        <GBReference_journal>J. Virol. 67 (11), 6453-6462 (1993)</GBReference_journal>
+        <GBReference_pubmed>8411348</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..3166</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Neckameyer,W.S.</GBAuthor>
+          <GBAuthor>Wang,L.H.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (01-MAR-1985) Department of Microbiology, Mount Sinai School of Medicine, New York, NY 10029-6574, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>On May 24, 1994 this sequence version replaced gi:209734.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..3166</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>3166</GBInterval_to>
+            <GBInterval_accession>M10455.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>UR2 sarcoma virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>proviral</GBQualifier_name>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:354090</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>clone</GBQualifier_name>
+            <GBQualifier_value>pUR2</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>repeat_region</GBFeature_key>
+        <GBFeature_location>1..101</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>101</GBInterval_to>
+            <GBInterval_accession>M10455.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>long terminal repeat (R, U5)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>rpt_type</GBQualifier_name>
+            <GBQualifier_value>long_terminal_repeat</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>380..2161</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>380</GBInterval_from>
+            <GBInterval_to>2161</GBInterval_to>
+            <GBInterval_accession>M10455.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>P68 protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA18252.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MEAVIKVISSACKTYCGKTSPSKKEIGAMLSLLQKEGLLMSPSDLYSPGSWDPITAALSQRLMVLGKSGELKTWGLVLGALKAAREEQVTSEQAKFWLGLGGGRVSPPGPECIEKPATERRIDKGEEVGETTVQRDAKMAPEETATPKTVDTVTSPDITAIVAVIGAVVLGLTSLTIIILFGFVWHQRWKSRKPASTGQIVLVKEDKELAQLRGMAETVGLANACYAVSTLPSQAEIESLPAFPRDKLNLHKLLGSGAFGEVYEGTALDILADGSGESRVAVKTLKRGATDQEKSEFLKEAHLMSKFDHPHILKLLGVCLLNEPQYLILELMEGGDLLSYLRGARKQKFQSPLLTLTDLLDICLDICKGCVYLEKMRFIHRDLAARNCLVSEKQYGSCSRVVKIGDFGLARDIYKNDYYRKRGEGLLPVRWMAPESLIDGVFTNHSDVWAFGVLVWETLTLGQQPYPGLSNIEVLHHVRSGGRLESPNNCPDDIRDLMTRCWAQDPHNRPTFFYIQHKLQEIRHSPLCFSYFLGDKESVAPPADSDSILSTTLMEARDQEGLNYLVVVKESNQDQGSSCASLKRNRETSLLVR</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_recomb</GBFeature_key>
+        <GBFeature_location>830..831</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>830</GBInterval_from>
+            <GBInterval_to>831</GBInterval_to>
+            <GBInterval_accession>M10455.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>gag end/ros start</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_recomb</GBFeature_key>
+        <GBFeature_location>2104..2105</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>2104</GBInterval_from>
+            <GBInterval_to>2105</GBInterval_to>
+            <GBInterval_accession>M10455.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>ros noncoding region end/delta-gp37 start</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>2105..2626</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>2105</GBInterval_from>
+            <GBInterval_to>2626</GBInterval_to>
+            <GBInterval_accession>M10455.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>delta-gp37</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>repeat_region</GBFeature_key>
+        <GBFeature_location>2920..3166</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>2920</GBInterval_from>
+            <GBInterval_to>3166</GBInterval_to>
+            <GBInterval_accession>M10455.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>long terminal repeat (U3, R)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>rpt_type</GBQualifier_name>
+            <GBQualifier_value>long_terminal_repeat</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gccattttaccactcaccacattggtgtgcacctgggttgatggccggaccgtcgattccctgacgactacgaacacctaaatgaagcggaaggcttcatttggtgaccccgacgtgatagttagggaatagtggtcggccacagacggcgtggcgatcctgtcctcatccgtctcgcttgttcggggagcgggcgatgaccctagtagagggggcttcggcttaggagggcgaaaagctgagtggcgtcggagggagctctactgcagggagccaacataccctaccgagcactcagagagtcgttggaagacgggaaggaagcccgacgactgagcggtccaccccagacgtgattctggtcgcccggagatcaagcatggaagccgtcataaaggtgatttcgtccgcgtgtaaaacctattgcggaaaaacctctccttctaagaaggaaatcggggccatgttgtccctcttacaaaaagaagggttgcttatgtctccctcagacttatattccccggggtcctgggatcccatcactgcggcgctctcccagcggctaatggtacttgggaaatcgggagagttaaaaacctggggattggttttgggggcattgaaagcggcccgagaggaacaggttacatctgagcaagcaaagttttggttgggattagggggagggagggtctctcccccaggtccggaatgcatcgagaaaccagcaacggagcggcgaatcgacaaaggggaggaagtgggagaaacaactgtgcagcgagatgcgaagatggcgccggaggaaacggccacacctaaaaccgttgatactgtgacctctccagatatcactgctattgttgctgtgattggagcagttgtactgggcttgactagcttgactataatcatactgtttggttttgtatggcaccaaagatggaaatccagaaaaccagcctcaactgggcagattgtgcttgtcaaggaagataaagaattagctcaacttaggggaatggctgagacagtgggattagccaatgcttgttatgctgtcagcactcttccttctcaagcagagattgagtcattgccagcttttcctcgggacaaactgaacttacacaagttgttaggaagtggagcatttggagaggtgtatgaagggactgcattagatatcctggcagatggaagtggagaatccagagtagcagtcaagactttgaagagaggtgcaacagaccaagagaagagtgaattcttgaaggaggcacacttaatgagtaaatttgatcatccccacattctgaagctacttggagtgtgtctgttaaatgaacctcagtaccttatactggagctgatggaaggaggagatctgcttagctatttacgaggagccagaaagcaaaagttccagagtcccttactgacattgactgatctcttggatatatgcttggatatttgcaaaggttgtgtctatttagagaaaatgcgtttcatacacagggacctggctgctcgcaactgccttgtgtctgagaagcaatatgggagctgctcccgagtggtaaagattggtgattttggacttgccagagatatctataaaaatgattactacaggaaaagaggagaaggcctactccctgtcagatggatggctcctgaaagcctcattgatggcgtctttacaaatcactctgatgtttgggcttttggagtcttagtgtgggaaacattaactttgggtcaacagccatatccgggtctctccaatatagaagttttacaccatgtacgatcaggaggaaggctggaatctccgaataactgtcctgatgacatacgtgatttaatgacaagatgctgggcccaagatcctcacaacagacctactttcttttatattcagcacaaactgcaagagataaggcactctccactgtgcttcagctacttccttggagacaaagagtcagtggctccacctgcggattcagacagcattctttcaaccactctaatggaagcaagggatcaagaaggcctgaattatttagtagtagtcaaagaaagcaaccaggatcaaggtagcagctgcgcaagccttaagagaaatcgagagactagcctgctggtccgttaaacaggctaacttgacaacatcactcctcggggacttattggatgatgtcacgagtattcgacacgcggtcctacaaaaccgagcggctattgacttcttgcttctagctcacggtcatggctgtgaggacattgccggaatgtgttgtttcaatctgagtgatcacagtgagtctatacagaaaaagttccaactaatgaaggaacatgtcaataagatcggcgtggacagcgacccaatcggaagttggctgcgaggactattcggaggaataggagaatgggccgttcatttactgaaaggactgcttttggggcttgtagttattttgctgctagtagtgtgcttgccttgccttttgcaatttgtatccagtagcatccgaaagatgattgataattcactcggctatcgcgaggagcgtaagaaatttcaggaggcttataagcaacccgaaagagtagtttgagcgggttcttgtattccgtgtgataactggttggattgataatcgatcggctggcatacggagtataggaggtcgctgagtggtaagcttgcagacttggctgaagcatagagtatctcctatagcttcgataactgctagagaataagctaagcttgcgaatcgggctgtaacggggaaggcttgactaggggaccatggtatgtataggcggaaggcggggcttcggttgtacgcggttaggagtcccctcaggatatagtagttgcgcttctgcatagggagggggaaatgtagtcttatgcaatactcttatgtaacgatgaaacagcaaaatgccttataaggggaaaagaggcatgtacatgttgattggtggaagtaggtggtatgatcgtggtacgatcgtgccttattaggaaggcaacagacgggtctaacagggattggataaaccccttagttccgcattgcaagagataatatatttaagtacctggcttgatgtaataaacgccattttaccactcaccaca</GBSeq_sequence>
+  </GBSeq>
