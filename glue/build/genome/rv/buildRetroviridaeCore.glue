@@ -1,7 +1,6 @@
 schema-project retroviridae
 
   run file glue/build/genome/rv/rvSchemaExtensions.glue
-  run file glue/build/genome/erv/ervSchemaExtensions.glue
   exit
 
 project retroviridae

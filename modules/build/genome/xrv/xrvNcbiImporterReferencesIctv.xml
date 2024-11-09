@@ -1,82 +1,87 @@
-<!-- Retroviridae reference sequences from NCBI -->
+<!-- Retroviridae genus reference sequences from NCBI -->
 
 <ncbiImporter>
 
-  <giNumberFieldName>gb_gi_number</giNumberFieldName>
-  <sequenceFormat>GENBANK_XML</sequenceFormat>
-  <sourceName>ncbi-refseqs-ictv</sourceName>
+ <giNumberFieldName>gb_gi_number</giNumberFieldName>
+ <sequenceFormat>GENBANK_XML</sequenceFormat>
+ <sourceName>ncbi-refseqs-ictv</sourceName>
 
-  <specificPrimaryAccessions>
+ <specificPrimaryAccessions>
 
-	<primaryAccession>AB923518</primaryAccession>
-	<primaryAccession>AF014792</primaryAccession>
-	<primaryAccession>AF014793</primaryAccession>
-	<primaryAccession>AF033807</primaryAccession>
-	<primaryAccession>AF033808</primaryAccession>
-	<primaryAccession>AF033809</primaryAccession>
-	<primaryAccession>AF033810</primaryAccession>
-	<primaryAccession>AF033811</primaryAccession>
-	<primaryAccession>AF033813</primaryAccession>
-	<primaryAccession>AF033815</primaryAccession>
-	<primaryAccession>AF033818</primaryAccession>
-	<primaryAccession>AF033819</primaryAccession>
-	<primaryAccession>AF033822</primaryAccession>
-	<primaryAccession>AF052723</primaryAccession>
-	<primaryAccession>AF074966</primaryAccession>
-	<primaryAccession>AF151794</primaryAccession>
-	<primaryAccession>AF201902</primaryAccession>
-	<primaryAccession>AF356697</primaryAccession>
-	<primaryAccession>AF391797</primaryAccession>
-	<primaryAccession>AJ544579</primaryAccession>
-	<primaryAccession>AY282754</primaryAccession>
-	<primaryAccession>AY842951</primaryAccession>
-	<primaryAccession>DQ237904</primaryAccession>
-	<primaryAccession>EU010385</primaryAccession>
-	<primaryAccession>GU356394</primaryAccession>
-	<primaryAccession>GU356395</primaryAccession>
-	<primaryAccession>HM245790</primaryAccession>
-	<primaryAccession>J02013</primaryAccession>
-	<primaryAccession>J02207</primaryAccession>
-	<primaryAccession>JQ867463</primaryAccession>
-	<primaryAccession>JQ867466</primaryAccession>
-	<primaryAccession>K02712</primaryAccession>
-	<primaryAccession>KM233624</primaryAccession>
-	<primaryAccession>KP143760</primaryAccession>
-	<primaryAccession>KX087159</primaryAccession>
-	<primaryAccession>L06906</primaryAccession>
-	<primaryAccession>L21974</primaryAccession>
-	<primaryAccession>LC094267</primaryAccession>
-	<primaryAccession>M10060</primaryAccession>
-	<primaryAccession>M10455</primaryAccession>
-	<primaryAccession>M14008</primaryAccession>
-	<primaryAccession>M22820</primaryAccession>
-	<primaryAccession>M23385</primaryAccession>
-	<primaryAccession>M25381</primaryAccession>
-	<primaryAccession>M26927</primaryAccession>
-	<primaryAccession>M30502</primaryAccession>
-	<primaryAccession>M32690</primaryAccession>
-	<primaryAccession>M33677</primaryAccession>
-	<primaryAccession>M37980</primaryAccession>
-	<primaryAccession>M58410</primaryAccession>
-	<primaryAccession>M74895</primaryAccession>
-	<primaryAccession>M80216</primaryAccession>
-	<primaryAccession>MF280817</primaryAccession>
-	<primaryAccession>U01866</primaryAccession>
-	<primaryAccession>U03982</primaryAccession>
-	<primaryAccession>U04327</primaryAccession>
-	<primaryAccession>U21603</primaryAccession>
-	<primaryAccession>U94514</primaryAccession>
-	<primaryAccession>V01201</primaryAccession>
-	<primaryAccession>X00984</primaryAccession>
-	<primaryAccession>X02759</primaryAccession>
-	<primaryAccession>X03711</primaryAccession>
-	<primaryAccession>X54482</primaryAccession>
-	<primaryAccession>Y00302</primaryAccession>
-	<primaryAccession>Y08851</primaryAccession>
+	<primaryAccession>M37980</primaryAccession>		<!-- Avian leukosis virus - RSA -->
+	<primaryAccession>U09568</primaryAccession>		<!-- Lymphoproliferative disease virus -->
+	<primaryAccession>AF033808</primaryAccession>	<!-- Rous sarcoma virus -->
+	<primaryAccession>M80216</primaryAccession>		<!-- Jaagsiekte sheep retrovirus -->
+	<primaryAccession>AF033815</primaryAccession>	<!-- Mason-Pfizer monkey virus -->
+	<primaryAccession>AF033807</primaryAccession>	<!-- Mouse mammary tumor virus -->
+	<primaryAccession>M11841</primaryAccession>		<!-- Simian retrovirus 1 -->
+	<primaryAccession>M23385</primaryAccession>		<!-- Squirrel monkey retrovirus-H -->
+	<primaryAccession>AF033817</primaryAccession>	<!-- Bovine leukemia virus -->
+	<primaryAccession>M10060</primaryAccession>		<!-- Human T-lymphotropic virus 2 -->
+	<primaryAccession>AF074966</primaryAccession>	<!-- Primate T-lymphotropic virus 1 -->
+	<primaryAccession>DQ093792</primaryAccession>	<!-- Primate T-lymphotropic virus 3 -->
+	<primaryAccession>EF488483</primaryAccession>	<!-- Primate T-lymphotropic virus 4 -->
+	<primaryAccession>AF033822</primaryAccession>	<!-- Walleye dermal sarcoma virus -->
+	<primaryAccession>AF133051</primaryAccession>	<!-- Walleye epidermal hyperplasia virus type 1 -->
+	<primaryAccession>AF133052</primaryAccession>	<!-- Walleye epidermal hyperplasia virus type 2 -->
+	<primaryAccession>AF052723</primaryAccession>	<!-- Feline leukemia virus -->
+	<primaryAccession>M26927</primaryAccession>		<!-- Gibbon ape leukemia virus -->
+	<primaryAccession>AF151794</primaryAccession>	<!-- Koala retrovirus -->
+	<primaryAccession>AF033811</primaryAccession>	<!-- Moloney murine leukemia virus -->
+	<primaryAccession>AF356697</primaryAccession>	<!-- Porcine endogenous retrovirus E -->
+	<primaryAccession>AY842951</primaryAccession>	<!-- Reticuloendotheliosis virus -->
+	<primaryAccession>JQ303225</primaryAccession>	<!-- Rhinolophus ferrumequinum retrovirus -->
+	<primaryAccession>M32690</primaryAccession>		<!-- Bovine immunodeficiency virus -->
+	<primaryAccession>M16575</primaryAccession>		<!-- Equine infectious anemia virus America strain -->
+	<primaryAccession>M25381</primaryAccession>		<!-- Feline immunodeficiency virus Petaluma strain -->
+	<primaryAccession>AF033818</primaryAccession>	<!-- Human immunodeficiency virus 1 (Main group) -->
+	<primaryAccession>M30502</primaryAccession>		<!-- Human immunodeficiency virus 2 -->
+	<primaryAccession>U21603</primaryAccession>		<!-- Jembrana disease virus -->
+	<primaryAccession>U03982</primaryAccession>		<!-- Puma lentivirus 14 -->
+	<primaryAccession>M58410</primaryAccession>		<!-- Simian immunodeficiency virus -->
+	<primaryAccession>M60609</primaryAccession>		<!-- Small ruminant lentivirus genotype A (Visna-Maedi Virus) -->
+	<primaryAccession>M33677</primaryAccession>		<!-- Small ruminant lentivirus genotype B (Caprine arthritis-encephalitis virus) -->
+	<primaryAccession>U94514</primaryAccession>		<!-- Bovine foamy virus -->
+	<primaryAccession>KM233624</primaryAccession>	<!-- Brown greater galago prosimian foamy virus -->
+	<primaryAccession>KX087159</primaryAccession>	<!-- Eastern chimpanzee simian foamy virus -->
+	<primaryAccession>AF201902</primaryAccession>	<!-- equine foamy virus Equus caballus -->
+	<primaryAccession>AJ564746</primaryAccession>	<!-- Feline foamy virus -->
+	<primaryAccession>M74895</primaryAccession>		<!-- Grivet simian foamy virus -->
+	<primaryAccession>JQ867466</primaryAccession>	<!-- Guenon simian foamy virus -->
+	<primaryAccession>AB923518</primaryAccession>	<!-- Japanese macaque simian foamy virus -->
+	<primaryAccession>X54482</primaryAccession>		<!-- Macaque simian foamy virus -->
+	<primaryAccession>MF280817</primaryAccession>	<!-- Rhesus macaque simian foamy virus -->
+	<primaryAccession>LC094267</primaryAccession>	<!-- Simian foamy virus -->
+	<primaryAccession>JQ867463</primaryAccession>	<!-- simian foamy virus Pan troglodytes troglodytes -->
+	<primaryAccession>AJ544579</primaryAccession>	<!-- Simian foamy virus Pongo pygmaeus pygmaeus -->
+	<primaryAccession>EU010385</primaryAccession>	<!-- Spider monkey simian foamy virus -->
+	<primaryAccession>GU356394</primaryAccession>	<!-- Squirrel monkey simian foamy virus -->
+	<primaryAccession>U04327</primaryAccession>		<!-- Western chimpanzee simian foamy virus -->
+	<primaryAccession>HM245790</primaryAccession>	<!-- Western lowland gorilla simian foamy virus -->
+	<primaryAccession>GU356395</primaryAccession>	<!-- White-tufted-ear marmoset simian foamy virus -->
+	<primaryAccession>KP143760</primaryAccession>	<!-- Yellow-breasted capuchin simian foamy virus -->
 
-  </specificPrimaryAccessions>  
+	<primaryAccession>J02013</primaryAccession>		<!-- Avian myeloblastosis virus -->
+	<primaryAccession>AF033809</primaryAccession>	<!-- Avian myelocytomatosis virus 29 -->
+	<primaryAccession>Y00302</primaryAccession>		<!-- Avian sarcoma virus CT10 -->
+	<primaryAccession>L21974</primaryAccession>		<!-- Avian sarcoma virus PR2257/16 -->
+	<primaryAccession>DQ237904</primaryAccession>	<!-- Chick syncytial virus -->
+	<primaryAccession>AY282754</primaryAccession>	<!-- Endogenous langur type D retrovirus PO-1-Lu -->
+	<primaryAccession>X03711</primaryAccession>		<!-- Feline sarcoma virus (STRAIN HARDY-ZUCKERMAN 4) -->
+	<primaryAccession>K02712</primaryAccession>		<!-- Finkel-Biskis-Jinkins murine sarcoma virus -->
+	<primaryAccession>AF033810</primaryAccession>	<!-- Fujinami sarcoma virus -->
+	<primaryAccession>J02207</primaryAccession>		<!-- Harvey murine sarcoma virus -->
+	<primaryAccession>X00984</primaryAccession>		<!-- Kirsten murine sarcoma virus -->
+	<primaryAccession>V01201</primaryAccession>		<!-- Snyder-Theilen feline sarcoma virus -->
+	<primaryAccession>M14008</primaryAccession>		<!-- UR2 sarcoma virus -->
+	<primaryAccession>DQ174103</primaryAccession>	<!-- Woolly monkey sarcoma virus -->
+	<primaryAccession>U26458</primaryAccession>		<!-- Avian carcinoma Mill Hill virus 2 -->
 
-  <sequenceIdField>PRIMARY_ACCESSION</sequenceIdField>
+	<primaryAccession>M22820</primaryAccession>		<!-- Salmon swimbladder sarcoma virus -->
+	<primaryAccession>M10455</primaryAccession>		<!-- Snakehead retrovirus -->
+
+ </specificPrimaryAccessions> 
+
+ <sequenceIdField>PRIMARY_ACCESSION</sequenceIdField>
 </ncbiImporter>
-
 

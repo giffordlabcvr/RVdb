@@ -18,7 +18,6 @@
     create field tribe VARCHAR 50
     create field genus VARCHAR 50
     create field subgenus VARCHAR 50
-    create field length INTEGER
 
   exit
 
