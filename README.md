@@ -11,6 +11,8 @@ Retroviruses are a family of RNA viruses that use reverse transcription to integ
 
 The ICTV is the global authority on virus classification, responsible for the standardization of virus taxonomy and nomenclature. Established in the 1960s under the International Union of Microbiological Societies (IUMS), ICTV's mission is to create a universally accepted virus taxonomy, define virus species and higher taxonomic levels, and establish standardized virus names. ICTV's work supports the virology community in organizing virus diversity, enabling clearer communication and research continuity.
 
+**GLUE** is an open, integrated software toolkit designed for storing and interpreting sequence data. It supports the creation of bespoke projects, incorporating essential data items for comparative genomic analysis, such as sequences, multiple sequence alignments, genome feature annotations, and other associated data. Projects are loaded into the GLUE "engine," forming a relational database that represents the semantic relationships between data items. This foundation supports systematic comparative analyses and the development of sequence-based resources.
+
 ### Scope and Objectives
 
 **RVdb** organizes and provides access to retrovirus taxonomy data, sequences, alignments, and phylogenies. With **GLUE**, the database offers an integrated approach to:
@@ -32,6 +34,9 @@ The ICTV is the global authority on virus classification, responsible for the st
 
 -   **Reproducible RT Phylogeny Construction**\
     Through GLUE, RVdb enables a standardized, reproducible process for constructing RT phylogenies, essential for maintaining a consistent taxonomic foundation across studies.
+
+-   **Data Reusability**\
+    In line with data-oriented programming principles, RVdb preserves raw data in a relational format, enabling its reuse beyond the GLUE environment. Researchers can extract, repurpose, and analyze RVdb data in various contexts, supporting flexible integration across different platforms and tools.
 
 ## Contributing
 
