@@ -4,11 +4,11 @@ alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF033807_MMTV_
 alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF033808_RSV_RT	AF033808_RSV_RT	RSV	Alpharetrovirus_avirousar	Rous sarcoma virus	Glissorthoretrovirinae	Alpharetrovirus	-	II
 alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF033811_MLV_RT	AF033811_MLV_RT	MLV	Gammaretrovirus_murleu	Moloney murine leukemia virus	Orthoretrovirinae	Gammaretrovirus	MLV_FeLV	I
 alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF033815_MPMV_RT	AF033815_MPMV_RT	MPMV	Betaretrovirus_maspfimon	Mason-Pfizer monkey virus	Glissorthoretrovirinae	Betaretrovirus	Dtype	II
-alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF033817_PTLV1_RT	AF033817_PTLV1_RT	PTLV1	Deltaretrovirus_priTlym4	Primate T-lymphotropic virus 1	Deltaretrovirinae	Deltaretrovirus	Simideltaretrovirus	II
+alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF033817_PTLV1_RT	AF033817_PTLV1_RT	PTLV1	Deltaretrovirus_priTlym1	Primate T-lymphotropic virus 1	Deltaretrovirinae	Deltaretrovirus	Simideltaretrovirus	II
+alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF033818_BLV_RT	AF033818_BLV_RT	BLV	Deltaretrovirus_bovleu	Bovine leukemia virus	Deltaretrovirinae	Deltaretrovirus	Simideltaretrovirus	II
 alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF033819_HIV1M_RT	AF033819_HIV1M_RT	HIV1M 	Lentivirus_humimdef1	Human immunodeficiency virus 2	Lentiretrovirinae	Lentivirus	Similentivirus	II
 alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF033822_WDSV_RT	AF033822_WDSV_RT	WDSV	Epsilonretrovirus_waldersar	Walleye dermal sarcoma virus	Orthoretrovirinae	Epsilonretrovirus	-	I
 alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF052723_FeLV_RT	AF052723_FeLV_RT	FeLV	Gammaretrovirus_felleu	Feline leukemia virus	Orthoretrovirinae	Gammaretrovirus	MLV_FeLV	I
-alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF074966_PTLV1_RT	AF074966_PTLV1_RT	-	-	-	-	-	-	-
 alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF133051_WEHV1_RT	AF133051_WEHV1_RT	WEHV1	Epsilonretrovirus_walepihyp1	Walleye epidermal hyperplasia virus type 1	Orthoretrovirinae	Epsilonretrovirus	-	I
 alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF133052_WEHV2_RT	AF133052_WEHV2_RT	WEHV2	Epsilonretrovirus_walepihyp2	Walleye epidermal hyperplasia virus type 2	Orthoretrovirinae	Epsilonretrovirus	-	I
 alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF151794_Korv_RT	AF151794_Korv_RT	KoRV	Gammaretrovirus_koa	Koala retrovirus	Orthoretrovirinae	Gammaretrovirus	Korv_GALV	I
@@ -22,13 +22,13 @@ alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/DQ174103_SSSV_
 alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/EF488483_PTLV4_RT	EF488483_PTLV4_RT	PTLV4	Deltaretrovirus_priTlym4	Primate T-lymphotropic virus 4	Deltaretrovirinae	Deltaretrovirus	Simideltaretrovirus	II
 alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/EU010385_SFVspi_RT	EU010385_SFVspi_RT	SFVspi	Simiispumavirus_atesppfo	Spider monkey simian foamy virus	Spumaretrovirinae	Spumavirus	Platyrhinispumavirus	III
 alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/GU356394_SFVsqu_RT	GU356394_SFVsqu_RT	SFVsqu	Simiispumavirus_saiscifo	Squirrel monkey simian foamy virus	Spumaretrovirinae	Spumavirus	Platyrhinispumavirus	III
-alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/GU356395_SFVmarm_RT	GU356395_SFVmarm_RT	SFVmarm	-	White-tufted-ear marmoset simian foamy virus	Spumaretrovirinae	Spumavirus	Simispumavirus	III
+alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/GU356395_SFVmarm_RT	GU356395_SFVmarm_RT	SFVmarm	-	White-tufted-ear marmoset simian foamy virus	Spumaretrovirinae	Spumavirus	Platyrhinispumavirus	III
 alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/HM245790_SFVgor_RT	HM245790_SFVgor_RT	SFVgor	-	Western lowland gorilla simian foamy virus	Spumaretrovirinae	Spumavirus	Simispumavirus	III
 alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/JQ303225_RfRV_RT	JQ303225_RfRV_RT	RfRV	Gammaretrovirus_aviretend	Rhinolophus ferrumequinum retrovirus	Orthoretrovirinae	Gammaretrovirus	RfRV	I
 alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/JQ867463_SFVcptt_RT	JQ867463_SFVcptt_RT	SFVcptt	-	Simian foamy virus Pan troglodytes troglodytes	Spumaretrovirinae	Spumavirus	Simispumavirus	III
 alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/JQ867466_SFVgue_RT	JQ867466_SFVgue_RT	SFVgue	-	Guenon simian foamy virus	Spumaretrovirinae	Spumavirus	Simispumavirus	III
 alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/KM233624_PSFVgal_RT	KM233624_PSFVgal_RT	PSFVgal	Prosimiispumavirus_otocrafo	Brown greater galago prosimian foamy virus	Spumaretrovirinae	Spumavirus	Prosimispumavirus	III
-alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/KP143760_SFVcapu_RT	KP143760_SFVcapu_RT	SFVcapu	-	Yellow-breasted capuchin simian foamy virus	Spumaretrovirinae	Spumavirus	Simispumavirus	III
+alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/KP143760_SFVcapu_RT	KP143760_SFVcapu_RT	SFVcapu	-	Yellow-breasted capuchin simian foamy virus	Spumaretrovirinae	Spumavirus	Platyrhinispumavirus	III
 alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/KX087159_SFVcpze_RT	KX087159_SFVcpze_RT	SFVcpze	-	Eastern chimpanzee simian foamy virus	Spumaretrovirinae	Spumavirus	Simispumavirus	III
 alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/LC094267_SFV_RT	LC094267_SFV_RT	SFV	-	Simian foamy virus	Spumaretrovirinae	Spumavirus	Simispumavirus	III
 alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/M10060_PTLV2_RT	M10060_PTLV2_RT	PTLV2	Deltaretrovirus_priTlym2	Human T-lymphotropic virus 2	Deltaretrovirinae	Deltaretrovirus	Simideltaretrovirus	II
@@ -43,7 +43,6 @@ alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/M33677_SRLV-B_
 alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/M37980_ALV_RT	M37980_ALV_RT	ALV	Alpharetrovirus_avileu	Avian leukosis virus - RSA	Glissorthoretrovirinae	Alpharetrovirus	-	II
 alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/M60609_SRLV-A_RT	M60609_SRLV-A_RT	SRLVA 	Lentivirus_ovivismae	Small ruminant lentivirus genotype A (Visna-Maedi Virus)	Lentiretrovirinae	Lentivirus	Ovilentivirus	II
 alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/M74895_SFV3_RT	M74895_SFV3_RT	SFV3	Simiispumavirus_chlaetfo	Grivet simian foamy virus	Spumaretrovirinae	Spumavirus	Simispumavirus	III
-alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/M74895_SFVgri_RT	M74895_SFVgri_RT	-	-	-	-	-	-	-
 alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/M80216_JSRV_RT	M80216_JSRV_RT	JSRV	Betaretrovirus_ovijaa	Jaagsiekte sheep retrovirus	Glissorthoretrovirinae	Betaretrovirus	Dtype	II
 alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/MF280817_SFVrmac_RT	MF280817_SFVrmac_RT	SFVrmac	-	Rhesus macaque simian foamy virus	Spumaretrovirinae	Spumavirus	Simispumavirus	III
 alignment/AL_UNC_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/U03982_PLV_RT	U03982_PLV_RT	PLV	-	Puma lentivirus 14	Lentiretrovirinae	Lentivirus	Felilentivirus	II
