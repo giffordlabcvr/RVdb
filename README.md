@@ -35,7 +35,7 @@ The ICTV is the global authority on virus classification, responsible for the st
 
 ## Contributing
 
-We welcome contributions from the community! If you're interested in contributing to Dengue-GLUE, please review our [Contribution Guidelines](./md/CONTRIBUTING.md).
+We welcome contributions from the community! If you're interested in contributing to RVdb, please review our [Contribution Guidelines](./md/CONTRIBUTING.md).
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](./md/code_of_conduct.md)
 
