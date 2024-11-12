@@ -3,7 +3,7 @@ RVdb
 
 ### Overview
 
-The **Retrovirus Database (RVdb)** is a **[GLUE](https://github.com/giffordlabcvr/gluetools/wiki)** resource supporting comparative analysis of retroviruses (family *Retroviridae*). RVdb was created in collaboration with the Retrovirus Study Group of the International Committee on Taxonomy of Viruses (**ICTV**), and contains data and analysis logic supporting the phylogenetic classification of retroviruses.
+The **Retrovirus Database (RVdb)** is a **[GLUE](https://github.com/giffordlabcvr/gluetools/wiki)** resource supporting comparative analysis of retroviruses (family *Retroviridae*). RVdb was created in collaboration with the *Retrovirus Study Group* of the International Committee on Taxonomy of Viruses (**ICTV**), and contains data and analysis logic supporting the phylogenetic classification of retroviruses.
 
 ### Background
 
