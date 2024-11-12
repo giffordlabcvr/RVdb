@@ -1,24 +1,34 @@
-# RVdb
+RVdb
+====
+
+### Overview
+
+The **Retrovirus Database (RVdb)** is a specialized genomics resource designed to support retrovirus taxonomy, developed using the **[GLUE](https://github.com/giffordlabcvr/gluetools/wiki)** software framework. RVdb was created in collaboration with the Retrovirus Study Group of the International Committee on Taxonomy of Viruses (**ICTV**), facilitating standardized classification and analysis of retroviruses.
 
 ### Background
 
-The retrovirus database (**RVdb**) is a genomics resource, developed using the **[GLUE](https://github.com/giffordlabcvr/gluetools/wiki)** software framework, that was created to support the implementation of retrovirus taxonony in association with Retrovirus Study Group of the International Committee on Taxonomy of Viruses (**ICTV**).
+The ICTV is the global authority on virus classification, responsible for the standardization of virus taxonomy and nomenclature. Established in the 1960s under the International Union of Microbiological Societies (IUMS), ICTV's mission is to create a universally accepted virus taxonomy, define virus species and higher taxonomic levels, and establish standardized virus names. ICTV's work supports the virology community in organizing virus diversity, enabling clearer communication and research continuity.
 
-The ICTV is the global authority responsible for the classification and naming of viruses. Established in the early 1960s, the ICTV is part of the International Union of Microbiological Societies (IUMS). Its primary objectives are to create a universally accepted virus taxonomy, define virus species and higher taxonomic ranks, and establish standardized virus names. ICTV’s work is essential for organizing the vast diversity of viruses into a coherent classification, aiding in communication and understanding across the virology community.
+### Scope and Objectives
 
-### Scope and History
+**RVdb** organizes and provides access to retrovirus taxonomy data, sequences, alignments, and phylogenies. With **GLUE**, the database offers an integrated approach to:
 
-RVdb collates information about retrovirus taxonomy, along with sequences, alignments and phylogenies. Via GLUE, phylogenetic reconstructions used as the basis for taxonomic classification are made accessible and re-usable.
+-   Access and reuse phylogenetic reconstructions used in taxonomic classification.
+-   Develop and validate taxonomic hypotheses.
+-   Support comparative genomics studies and reproducible analyses within a collaborative framework.
 
-### Features
+### Key Features
 
--   **Comprehensive Reference Sequence Set**: Incorporates reference sequence data for all retrovirus species recognised by the ICTV
+-   **Comprehensive Reference Sequence Collection**\
+    RVdb includes all ICTV-recognized retrovirus species reference sequences, providing a foundational dataset for taxonomic and comparative studies.
 
--   **Integrates ICTV and NCBI reference data**: Integrates NCBI retrovirus reference sequences with ICTV species.
+-   **NCBI and ICTV Data Integration**\
+    RVdb combines ICTV species classifications with NCBI reference sequences, ensuring comprehensive and accurate data alignment.
 
--   **RT Alignment**: Incorporates a codon-based RT alignment that covers all retrovirus species and can be edited in a version-controlled way (via GitHub).
+-   **Codon-based Reverse Transcriptase (RT) Alignment**\
+    Features a curated, codon-aligned RT sequence alignment spanning all retrovirus species, which can be edited and updated via version control (GitHub). This alignment is essential for building accurate phylogenies and standardizing retrovirus taxonomy.
 
--   **Reproducible RT Phylogeny**: GLUE implements a reproducible process for building the reverse transcriptase (RT) phylogenies on which retroviral taxonomy is based.
-
-
+-   **Reproducible RT Phylogeny Construction**\
+    Through GLUE, RVdb enables a standardized, reproducible process for constructing RT phylogenies, essential for maintaining a consistent taxonomic foundation across studies.
+    
 * * * * *
