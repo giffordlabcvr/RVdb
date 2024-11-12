@@ -7,6 +7,8 @@ The **Retrovirus Database (RVdb)** is a specialized genomics resource designed t
 
 ### Background
 
+Retroviruses are a family of RNA viruses that use reverse transcription to integrate their genetic material into the DNA of host cells, a unique characteristic that distinguishes them from other viruses. This family includes notable viruses such as HIV, which causes AIDS, as well as other viruses that infect animals and humans. Retroviruses have played a significant role in molecular biology and virology research, contributing to our understanding of gene regulation, virus-host interactions, and viral evolution. Their ability to integrate into host genomes has implications for both viral pathogenesis and the study of endogenous retroviruses, which are remnants of ancient retrovirus DNA sequences embedded in the germline genomes of host species.
+
 The ICTV is the global authority on virus classification, responsible for the standardization of virus taxonomy and nomenclature. Established in the 1960s under the International Union of Microbiological Societies (IUMS), ICTV's mission is to create a universally accepted virus taxonomy, define virus species and higher taxonomic levels, and establish standardized virus names. ICTV's work supports the virology community in organizing virus diversity, enabling clearer communication and research continuity.
 
 ### Scope and Objectives
