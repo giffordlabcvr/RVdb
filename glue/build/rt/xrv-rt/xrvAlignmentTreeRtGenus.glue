@@ -3,10 +3,10 @@
 
   #~# Orthoretrovirinae clades
 
-  alignment AL_RT_SUBFAMILY_Spumaretrovirinae
+  alignment AL_RT_Clade_III
 
-    set field displayName "Spumaretrovirinae"
-    set field clade_category "subfamily"
+    set field displayName "III"
+    set field clade_category "clade"
 
 	extract child AL_RT_GENUS_Spumavirus --refName REF_RT_MASTER_SFVcpz
 	demote member AL_RT_GENUS_Spumavirus -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.genus = 'Spumavirus'"	
@@ -17,10 +17,10 @@
     exit
 
 
-  alignment AL_RT_SUBFAMILY_Orthoretrovirinae
+  alignment AL_RT_Clade_I
 
-    set field displayName "Orthoretrovirinae"
-    set field clade_category "subfamily"
+    set field displayName "I"
+    set field clade_category "clade"
     
     extract child AL_RT_GENUS_Gammaretrovirus --refName REF_RT_MLV
     demote member AL_RT_GENUS_Gammaretrovirus -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.genus = 'Gammaretrovirus'" 
@@ -34,35 +34,20 @@
     exit
 
 
-  alignment AL_RT_SUBFAMILY_Glissorthoretrovirinae
+  alignment AL_RT_Clade_II
 
-    set field displayName "Glissorthoretrovirinae"
-    set field clade_category "subfamily"
+    set field displayName "II"
+    set field clade_category "clade"
     
     extract child AL_RT_GENUS_Alpharetrovirus --refName REF_RT_ALV
     demote member AL_RT_GENUS_Alpharetrovirus -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.genus = 'Alpharetrovirus'" 
     
     extract child AL_RT_GENUS_Betaretrovirus --refName REF_RT_MMTV
     demote member AL_RT_GENUS_Betaretrovirus -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.genus = 'Betaretrovirus'" 
-    
-    exit
-
-  alignment AL_RT_SUBFAMILY_Deltaretrovirinae
-
-    set field displayName "Deltaretrovirinae"
-    set field clade_category "subfamily"
-      
-    extract child AL_RT_GENUS_Deltaretrovirus    --refName REF_RT_PTLV1
+          
+    extract child AL_RT_GENUS_Deltaretrovirus    --refName REF_RT_PTLV2
     demote member AL_RT_GENUS_Deltaretrovirus    -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.genus = 'Deltaretrovirus'" 
-    
-    exit
-
-
-  alignment AL_RT_SUBFAMILY_Lentiretrovirinae
-
-    set field displayName "Lentiretrovirinae"
-    set field clade_category "subfamily"
-    
+        
     extract child AL_RT_GENUS_Lentivirus         --refName REF_RT_EIAV
     demote member AL_RT_GENUS_Lentivirus         -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.genus = 'Lentivirus'" 
 

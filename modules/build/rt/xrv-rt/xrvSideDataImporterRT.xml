@@ -29,8 +29,8 @@
     </textFileColumn>
 
     <textFileColumn>
-        <header>tribe</header>
-        <property>tribe</property>
+        <header>clade</header>
+        <property>clade</property>
     </textFileColumn>
 
     <textFileColumn>

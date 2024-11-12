@@ -189,8 +189,8 @@
     set field displayName "Simideltaretrovirus"
     set field clade_category "subgenus" 
 
-    extract child AL_RT_SPECIES_PTLV1 --refName REF_RT_PTLV1
-	demote member AL_RT_SPECIES_PTLV1 -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Deltaretrovirus_priTlym1'"	
+    #extract child AL_RT_SPECIES_PTLV1 --refName REF_RT_PTLV1
+	#demote member AL_RT_SPECIES_PTLV1 -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Deltaretrovirus_priTlym1'"	
 
     extract child AL_RT_SPECIES_PTLV2 --refName REF_RT_PTLV2
 	demote member AL_RT_SPECIES_PTLV2 -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Deltaretrovirus_priTlym2'"	
@@ -202,15 +202,15 @@
 	demote member AL_RT_SPECIES_PTLV4 -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Deltaretrovirus_priTlym4'"	
 	exit
 
-  alignment AL_RT_SUBGENUS_Bovideltaretrovirus
+  #alignment AL_RT_SUBGENUS_Bovideltaretrovirus
 
-    set field displayName "Bovideltaretrovirus"
-    set field clade_category "subgenus" 
+    #set field displayName "Bovideltaretrovirus"
+    #set field clade_category "subgenus" 
 
-    extract child AL_RT_SPECIES_BLV --refName REF_RT_BLV
-	demote member AL_RT_SPECIES_BLV -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Deltaretrovirus_bovleu'"	
+    #extract child AL_RT_SPECIES_BLV --refName REF_RT_BLV
+	#demote member AL_RT_SPECIES_BLV -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.species = 'Deltaretrovirus_bovleu'"	
 
-	exit
+	#exit
 
   #~# Subfamily Lentiretrovirinae
 
@@ -402,10 +402,10 @@
 
   #~# Subfamily Deltaretrovirinae
 
-  alignment AL_RT_SPECIES_PTLV1
-    set field displayName "Deltaretrovirus_priTlym1"
-    set field clade_category "species"
-    exit
+  #alignment AL_RT_SPECIES_PTLV1
+  #  set field displayName "Deltaretrovirus_priTlym1"
+  #  set field clade_category "species"
+  #  exit
 
   alignment AL_RT_SPECIES_PTLV2
     set field displayName "Deltaretrovirus_priTlym2"
@@ -422,10 +422,10 @@
     set field clade_category "species"
     exit
 
-  alignment AL_RT_SPECIES_BLV
-    set field displayName "Deltaretrovirus_bovleu"
-    set field clade_category "species"
-    exit
+  #alignment AL_RT_SPECIES_BLV
+  #  set field displayName "Deltaretrovirus_bovleu"
+  #  set field clade_category "species"
+  #  exit
 
 
   #~# Subfamily Lentiretrovirinae

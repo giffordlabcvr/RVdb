@@ -23,7 +23,7 @@
 	extract child AL_RT_SUBFAMILY_Glissorthoretrovirinae --refName REF_RT_MMTV
 	demote member AL_RT_SUBFAMILY_Glissorthoretrovirinae -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.subfamily = 'Glissorthoretrovirinae'"	
 
-	extract child AL_RT_SUBFAMILY_Deltaretrovirinae --refName REF_RT_PTLV1
+	extract child AL_RT_SUBFAMILY_Deltaretrovirinae --refName REF_RT_PTLV2
 	demote member AL_RT_SUBFAMILY_Deltaretrovirinae -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.subfamily = 'Deltaretrovirinae'"	
 
 	extract child AL_RT_SUBFAMILY_Lentiretrovirinae --refName REF_RT_EIAV

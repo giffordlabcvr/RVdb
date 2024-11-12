@@ -15,22 +15,20 @@ project retroviridae
   # Create constrained alignment tree
   run file glue/build/rt/xrv-rt/xrvAlignmentTreeRt.glue
 
-  # AFTER THIS POINT DO NOTHING IF BUILDING ERV COMPONENT!!!
-
   # Import unconstrained alignments
-  #run file glue/build/rt/xrv-rt/xrvImportUnconstrainedMsaRootRt.glue
+  run file glue/build/rt/xrv-rt/xrvImportUnconstrainedMsaRootRt.glue
 
   # Derive constrained alignments from unconstrained
   #run file glue/build/rt/xrv-rt/xrvDeriveConstrainedMsasRt.glue
 
   # Compute phylogeny
-  #run file glue/build/rt/xrv-rt/xrvComputeRtRefPhylogenyUncMsa.glue
+  run file glue/build/rt/xrv-rt/xrvComputeRtRefPhylogenyUncMsa.glue
 
   # Prepare RT reference phylogeny
-  #run file glue/build/rt/xrv-rt/xrvPrepareRtRefPhylogenies.glue
+  run file glue/build/rt/xrv-rt/xrvPrepareRtRefPhylogenies.glue
   
   # Import phylogeny
-  #run file glue/build/rt/xrv-rt/xrvImportPhylogenyRt.glue
+  run file glue/build/rt/xrv-rt/xrvImportPhylogenyRt.glue
 
   validate
   

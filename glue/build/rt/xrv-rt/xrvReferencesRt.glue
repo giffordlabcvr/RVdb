@@ -8,44 +8,42 @@
 
   ## Spuma 
 
-  create reference REF_RT_MASTER_SFVcpz    fasta-refseqs-xrv-rt NC_001364_SFVcpz_RT 
+  create reference REF_RT_MASTER_SFVcpz    fasta-refseqs-xrv-rt U04327_SFVcpz_RT 
   create reference REF_RT_SFV1             fasta-refseqs-xrv-rt X54482_SFV1_RT
   create reference REF_RT_SFV3             fasta-refseqs-xrv-rt M74895_SFV3_RT
-  create reference REF_RT_PSFVgal          fasta-refseqs-xrv-rt NC_039023_PSFVgal_RT
+  create reference REF_RT_PSFVgal          fasta-refseqs-xrv-rt KM233624_PSFVgal_RT
   create reference REF_RT_SFVora           fasta-refseqs-xrv-rt AJ544579_SFVora_RT
-  create reference REF_RT_SFVspi           fasta-refseqs-xrv-rt NC_039027_SFVspi_RT
+  create reference REF_RT_SFVspi           fasta-refseqs-xrv-rt EU010385_SFVspi_RT
   create reference REF_RT_SFVsqu           fasta-refseqs-xrv-rt GU356394_SFVsqu_RT
   create reference REF_RT_BFV              fasta-refseqs-xrv-rt U94514_BFV_RT
   create reference REF_RT_EFV              fasta-refseqs-xrv-rt AF201902_EFV_RT
   create reference REF_RT_FFV              fasta-refseqs-xrv-rt AJ564746_FFV_RT
   
   ## Epsilon
-  create reference REF_RT_WDSV             fasta-refseqs-xrv-rt NC_001867_WDSV_RT
+  create reference REF_RT_WDSV             fasta-refseqs-xrv-rt AF033822_WDSV_RT
   create reference REF_RT_WEHV1            fasta-refseqs-xrv-rt AF133051_WEHV1_RT
   create reference REF_RT_WEHV2            fasta-refseqs-xrv-rt AF133052_WEHV2_RT
 
   ## Xi
-  create reference REF_RT_SSSV             fasta-refseqs-xrv-rt NC_007654_SSSV_RT
+  create reference REF_RT_SSSV             fasta-refseqs-xrv-rt DQ174103_SSSV_RT
 
     
   ## Gammaretrovirus
-  create reference REF_RT_MLV              fasta-refseqs-xrv-rt NC_001501_MLV_RT
-  create reference REF_RT_FeLV             fasta-refseqs-xrv-rt NC_001940_FelV_RT
-  create reference REF_RT_GaLV             fasta-refseqs-xrv-rt NC_001885_GaLV_RT 
-  create reference REF_RT_KoRV             fasta-refseqs-xrv-rt NC_039228_KoRV_RT
-  create reference REF_RT_REV              fasta-refseqs-xrv-rt NC_006934_REV_RT
+  create reference REF_RT_MLV              fasta-refseqs-xrv-rt AF033811_MLV_RT
+  create reference REF_RT_FeLV             fasta-refseqs-xrv-rt AF052723_FelV_RT
+  create reference REF_RT_GaLV             fasta-refseqs-xrv-rt M26927_GaLV_RT 
+  create reference REF_RT_KoRV             fasta-refseqs-xrv-rt AF151794_KoRV_RT
+  create reference REF_RT_REV              fasta-refseqs-xrv-rt AY842951_REV_RT
   create reference REF_RT_RfRV             fasta-refseqs-xrv-rt JQ303225_RfRV_RT
-
-
 
   ### Glissaretrovirini (frameshifting retroviruses)
 
   ## Delta
-  create reference REF_RT_BLV              fasta-refseqs-xrv-rt NC_001414_BLV_RT
-  create reference REF_RT_PTLV1            fasta-refseqs-xrv-rt NC_001436_PTLV1_RT
-  create reference REF_RT_PTLV2            fasta-refseqs-xrv-rt NC_001488_PTLV2_RT
+  create reference REF_RT_PTLV1            fasta-refseqs-xrv-rt AF033817_PTLV1_RT
+  create reference REF_RT_PTLV2            fasta-refseqs-xrv-rt M10060_PTLV2_RT
   create reference REF_RT_PTLV3            fasta-refseqs-xrv-rt DQ093792_PTLV3_RT
   create reference REF_RT_PTLV4            fasta-refseqs-xrv-rt EF488483_PTLV4_RT
+  create reference REF_RT_BLV              fasta-refseqs-xrv-rt AF033818_BLV_RT
 
   ## Lenti
   create reference REF_RT_HIV1M            fasta-refseqs-xrv-rt AF033819_HIV1M_RT
@@ -53,22 +51,23 @@
   create reference REF_RT_JDV              fasta-refseqs-xrv-rt U21603_JDV_RT
   create reference REF_RT_EIAV             fasta-refseqs-xrv-rt M16575_EIAV_RT
   create reference REF_RT_FIVP             fasta-refseqs-xrv-rt M25381_FIV-P_RT 
+  create reference REF_RT_FIVplv           fasta-refseqs-xrv-rt U03982_PLV_RT 
   create reference REF_RT_SRLVA            fasta-refseqs-xrv-rt M60609_SRLV-A_RT
   create reference REF_RT_SRLVB            fasta-refseqs-xrv-rt M33677_SRLV-B_RT
  
   ## Alpharetrovirus
-  create reference REF_RT_ALV              fasta-refseqs-xrv-rt NC_001408_ALV_RT
+  create reference REF_RT_ALV              fasta-refseqs-xrv-rt M37980_ALV_RT
   create reference REF_RT_RSV              fasta-refseqs-xrv-rt AF033808_RSV_RT
 
   # Unclassified
   create reference REF_RT_LPDV             fasta-refseqs-xrv-rt U09568_LPDV_RT
 
   # Beta B-type
-  create reference REF_RT_MMTV             fasta-refseqs-xrv-rt NC_001503_MMTV_RT
+  create reference REF_RT_MMTV             fasta-refseqs-xrv-rt AF033807_MMTV_RT
   
   # Beta D-type
   create reference REF_RT_SRV1             fasta-refseqs-xrv-rt M11841_SRV1_RT
-  create reference REF_RT_MPMV             fasta-refseqs-xrv-rt NC_001550_MPMV_RT 
-  create reference REF_RT_JSRV             fasta-refseqs-xrv-rt NC_001494_JSRV_RT
-  create reference REF_RT_SMRVH            fasta-refseqs-xrv-rt NC_001514_SMRVH_RT
+  create reference REF_RT_MPMV             fasta-refseqs-xrv-rt AF033815_MPMV_RT 
+  create reference REF_RT_JSRV             fasta-refseqs-xrv-rt M80216_JSRV_RT
+  create reference REF_RT_SMRVH            fasta-refseqs-xrv-rt M23385_SMRVH_RT
   

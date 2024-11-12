@@ -28,7 +28,7 @@
     </GBSeq_keywords>
     <GBSeq_source>Feline foamy virus</GBSeq_source>
     <GBSeq_organism>Feline foamy virus</GBSeq_organism>
-    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Retroviridae; Spumaretrovirinae; Spumavirus</GBSeq_taxonomy>
+    <GBSeq_taxonomy>Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes; Ortervirales; Retroviridae; Spumaretrovirinae; Felispumavirus</GBSeq_taxonomy>
     <GBSeq_references>
       <GBReference>
         <GBReference_reference>1</GBReference_reference>
@@ -96,7 +96,7 @@
             <GBQualifier_value>taxon:53182</GBQualifier_value>
           </GBQualifier>
           <GBQualifier>
-            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_name>geo_loc_name</GBQualifier_name>
             <GBQualifier_value>United Kingdom</GBQualifier_value>
           </GBQualifier>
           <GBQualifier>

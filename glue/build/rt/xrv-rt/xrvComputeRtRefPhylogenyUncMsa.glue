@@ -4,7 +4,7 @@
   delete module retroviridaeRaxmlPhylogenyGeneratorNucs
   
   # Create all the modules we need
-  create module -f modules/analyse/phylogeny/retroviridaeRaxmlPhylogenyGeneratorNucs.xml
+  create module -f modules/analyse/retroviridaeRaxmlPhylogenyGeneratorNucs.xml
 
   # Create the phylogeny (without outgroup)
   module retroviridaeRaxmlPhylogenyGeneratorNucs

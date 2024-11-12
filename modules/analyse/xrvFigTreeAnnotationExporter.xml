@@ -36,8 +36,8 @@
 	</figTreeAnnotation>
 	
 	<figTreeAnnotation>
-		<annotationName>tribe</annotationName>
-		<valueFreemarkerTemplate>${renderNestedProperty('sequence.tribe')}</valueFreemarkerTemplate>
+		<annotationName>clade</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.clade')}</valueFreemarkerTemplate>
 	</figTreeAnnotation>
 	
 </figTreeAnnotationExporter>

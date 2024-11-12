@@ -15,7 +15,7 @@
     create field species VARCHAR 100
     create field family VARCHAR 50
     create field subfamily VARCHAR 50
-    create field tribe VARCHAR 50
+    create field clade VARCHAR 50
     create field genus VARCHAR 50
     create field subgenus VARCHAR 50
 

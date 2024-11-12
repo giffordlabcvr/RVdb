@@ -18,7 +18,7 @@
     </GBSeq_other-seqids>
     <GBSeq_source>Lymphoproliferative disease virus</GBSeq_source>
     <GBSeq_organism>Lymphoproliferative disease virus</GBSeq_organism>
-    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Alpharetrovirus; unclassified Alpharetrovirus</GBSeq_taxonomy>
+    <GBSeq_taxonomy>Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes; Ortervirales; Retroviridae; Orthoretrovirinae; Alpharetrovirus</GBSeq_taxonomy>
     <GBSeq_references>
       <GBReference>
         <GBReference_reference>1</GBReference_reference>

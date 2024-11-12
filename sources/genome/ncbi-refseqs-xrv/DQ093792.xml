@@ -18,7 +18,7 @@
     </GBSeq_other-seqids>
     <GBSeq_source>Human T-lymphotropic virus 3</GBSeq_source>
     <GBSeq_organism>Human T-lymphotropic virus 3</GBSeq_organism>
-    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Deltaretrovirus</GBSeq_taxonomy>
+    <GBSeq_taxonomy>Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes; Ortervirales; Retroviridae; Orthoretrovirinae; Deltaretrovirus; Primate T-lymphotropic virus 3</GBSeq_taxonomy>
     <GBSeq_references>
       <GBReference>
         <GBReference_reference>1</GBReference_reference>

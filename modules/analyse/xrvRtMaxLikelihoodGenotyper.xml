@@ -12,23 +12,14 @@
 	</cladeCategory>
 
 	<cladeCategory>
-		<name>tribe</name>	
-		<displayName>Tribe</displayName>	
+		<name>clade</name>	
+		<displayName>Clade</displayName>	
 		<whereClause>clade_category = 'tribe'</whereClause>
 		<distanceScalingExponent>-3.0</distanceScalingExponent>
 	    <distanceCutoff>2.0</distanceCutoff>
 		<finalCladeCutoff>60.0</finalCladeCutoff>		
 	</cladeCategory>
 	
-	<cladeCategory>
-		<name>subfamily</name>	
-		<displayName>Subfamily</displayName>	
-		<whereClause>clade_category = 'subfamily'</whereClause>
-		<distanceScalingExponent>-3.0</distanceScalingExponent>
-	    <distanceCutoff>1.5</distanceCutoff>
-		<finalCladeCutoff>60.0</finalCladeCutoff>		
-	</cladeCategory>
-
 	<cladeCategory>
 		<name>genus</name>	
 		<displayName>Genus</displayName>	
