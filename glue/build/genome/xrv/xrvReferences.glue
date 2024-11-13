@@ -34,7 +34,7 @@
   create reference REF_JSRV             ncbi-refseqs-xrv M80216
 
   ## Gammaretrovirus
-  create reference REF_MLV              ncbi-refseqs-xrv M23385
+  create reference REF_MLV              ncbi-refseqs-xrv AF033811
   create reference REF_FeLV             ncbi-refseqs-xrv AF052723
   create reference REF_GaLV             ncbi-refseqs-xrv M26927
   create reference REF_KoRV             ncbi-refseqs-xrv AF151794
@@ -50,8 +50,8 @@
   create reference REF_SSSV             ncbi-refseqs-xrv DQ174103
 
   ## Delta
-  create reference REF_BLV              ncbi-refseqs-xrv AF033817
-  create reference REF_PTLV1            ncbi-refseqs-xrv AF074966
+  create reference REF_BLV              ncbi-refseqs-xrv AF033818
+  create reference REF_PTLV1            ncbi-refseqs-xrv AF033817
   create reference REF_PTLV2            ncbi-refseqs-xrv M10060
   create reference REF_PTLV3            ncbi-refseqs-xrv DQ093792
   create reference REF_PTLV4            ncbi-refseqs-xrv EF488483

@@ -54,7 +54,7 @@
     demote member AL_GENUS_Gammaretrovirus   --whereClause "sequence.genus = 'Gammaretrovirus'" 
 
     extract child AL_GENUS_Epsilonretrovirus --refName REF_WDSV
-    demote member AL_GENUS_Epsilonretrovirus --whereClause "sequence.tribe = 'Epsilonretrovirus'" 
+    demote member AL_GENUS_Epsilonretrovirus --whereClause "sequence.genus = 'Epsilonretrovirus'" 
 
     extract child AL_GENUS_Zetaretrovirus   --refName REF_SSSV
     demote member AL_GENUS_Zetaretrovirus   --whereClause "sequence.genus = 'Zetaretrovirus'" 
