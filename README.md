@@ -30,8 +30,8 @@ The **ICTV** is the global authority on virus classification, responsible for th
 -   **Codon-based Reverse Transcriptase (RT) Alignment**\
     Features a curated, codon-aligned RT sequence alignment spanning all retrovirus species, which can be edited and updated via version control (GitHub). This alignment is essential for building accurate phylogenies and standardizing retrovirus taxonomy.
 
--   **Reproducible RT Phylogeny Construction**\
-    Through GLUE, RVdb enables a standardized, reproducible process for constructing RT phylogenies, essential for maintaining a consistent taxonomic foundation across studies.
+-   **Reproducible Phylogeny Construction**\
+    Through GLUE, RVdb enables a standardized, reproducible process for constructing phylogenies, essential for maintaining a consistent taxonomic foundation across studies.
 
 -   **Data Reusability**\
     In line with data-oriented programming principles, RVdb preserves raw data in a relational format, enabling its reuse beyond the GLUE environment. Researchers can extract, repurpose, and analyze RVdb data in various contexts, supporting flexible integration across different platforms and tools.
