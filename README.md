@@ -24,11 +24,9 @@ The **ICTV** is the global authority on virus classification, responsible for th
 ### Key Features
 
 -   **Comprehensive Reference Sequence Collection**\
-    RVdb includes all ICTV-recognized retrovirus species reference sequences, providing a foundational dataset for taxonomic and comparative studies.
-
+    RVdb includes reference genome sequences for all ICTV-recognized retrovirus species, providing a foundational dataset for comparative genomics studies.
 -   **NCBI and ICTV Data Integration**\
-    RVdb combines ICTV species classifications with NCBI reference sequences, ensuring comprehensive and accurate data alignment.
-
+    RVdb links retrovirus species names defined by ICTV with their corresponding NCBI reference genomes.
 -   **Codon-based Reverse Transcriptase (RT) Alignment**\
     Features a curated, codon-aligned RT sequence alignment spanning all retrovirus species, which can be edited and updated via version control (GitHub). This alignment is essential for building accurate phylogenies and standardizing retrovirus taxonomy.
 
