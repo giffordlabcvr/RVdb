@@ -1,11 +1,13 @@
 RVdb
 ====
 
-### Overview
+## Overview
 
 The **Retrovirus Database (RVdb)** is a **[GLUE](https://github.com/giffordlabcvr/gluetools/wiki)** resource supporting comparative analysis of retroviruses (family *Retroviridae*). RVdb was created in collaboration with members of the *Retrovirus Study Group* of the International Committee on Taxonomy of Viruses (**ICTV**), and contains data and analysis logic supporting the phylogenetic classification of retroviruses.
 
-### Background
+* * * * *
+
+## Background
 
 **Retroviruses** are a family of RNA viruses that use reverse transcription to integrate their genetic material into the DNA of host cells, a unique characteristic that distinguishes them from other viruses. This family includes notable viruses such as HIV, which causes AIDS, as well as other viruses that infect animals and humans. Retroviruses have played a significant role in molecular biology and virology research, contributing to our understanding of gene regulation, virus-host interactions, and viral evolution. Their ability to integrate into host genomes has implications for both viral pathogenesis and the study of endogenous retroviruses, which are remnants of ancient retrovirus DNA sequences embedded in the germline genomes of host species.
 
@@ -13,7 +15,9 @@ The **ICTV** is the global authority on virus classification, responsible for th
 
 **GLUE** is an open, integrated software toolkit designed for storing and interpreting sequence data. It supports the creation of bespoke projects, incorporating essential data items for comparative genomic analysis, such as sequences, multiple sequence alignments, genome feature annotations, and other associated data. Projects are loaded into the GLUE "engine," forming a relational database that represents the semantic relationships between data items. This foundation supports systematic comparative analyses and the development of sequence-based resources.
 
-### Scope and Objectives
+* * * * *
+
+## Scope and Objectives
 
 **RVdb** organizes and provides access to retrovirus taxonomy data, sequences, alignments, and phylogenies. With **GLUE**, the database offers an integrated approach to:
 
@@ -21,7 +25,9 @@ The **ICTV** is the global authority on virus classification, responsible for th
 -   Develop and validate taxonomic hypotheses.
 -   Support comparative genomics studies and reproducible analyses within a collaborative framework.
 
-### Key Features
+* * * * *
+
+## Key Features
 
 -   **Comprehensive Reference Sequence Collection**\
     RVdb includes reference genome sequences for all ICTV-recognized retrovirus species, providing a foundational dataset for comparative genomics studies.
@@ -36,16 +42,21 @@ The **ICTV** is the global authority on virus classification, responsible for th
 -   **Data Reusability**\
     In line with data-oriented programming principles, RVdb preserves raw data in a relational format, enabling its reuse beyond the GLUE environment. Researchers can extract, repurpose, and analyze RVdb data in various contexts, supporting flexible integration across different platforms and tools.
 
+* * * * *
+
 ## Contributing
 
 We welcome contributions from the community! If you're interested in contributing to RVdb, please review our [Contribution Guidelines](./md/CONTRIBUTING.md).
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](./md/code_of_conduct.md)
 
+* * * * *
 
 ## License
 
 The project is licensed under the [GNU Affero General Public License v. 3.0](https://www.gnu.org/licenses/agpl-3.0.en.html)
+
+* * * * *
 
 ## Contact
 
