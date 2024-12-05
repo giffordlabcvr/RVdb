@@ -1,7 +1,11 @@
+  #~# Create alignment
+ 
+  create alignment AL_ROOT_Retroviridae_RT -r REF_RT_MASTER_SFVcpz
+  alignment AL_ROOT_Retroviridae_RT add member -w "source.name = 'fasta-refseqs-xrv-rt'"
 
   #~# Derive segments
   
-  alignment AL_RT_ROOT_Retroviridae
+  alignment AL_ROOT_Retroviridae_RT
     derive segments AL_UNC_ROOT_Retroviridae_RT  --recursive --existingMembersOnly --allMembers --mergeStrategy OVERWRITE
     exit
 

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<alignmentColumnsSelector>
+
+    <relRefName>REF_RT_MASTER_SFVcpz</relRefName>
+ 
+    <aminoAcidRegionSelector>
+        <featureName>RT</featureName>
+        <startCodon>1</startCodon>
+        <endCodon>155</endCodon>
+    </aminoAcidRegionSelector>
+  
+</alignmentColumnsSelector>
+

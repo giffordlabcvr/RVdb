@@ -2,16 +2,30 @@
 
   ## Spuma 
 
+  # OW Monkeys & Hominids
   create reference REF_RT_MASTER_SFVcpz    fasta-refseqs-xrv-rt U04327_SFVcpz_RT 
   create reference REF_RT_SFV1             fasta-refseqs-xrv-rt X54482_SFV1_RT
   create reference REF_RT_SFV3             fasta-refseqs-xrv-rt M74895_SFV3_RT
-  create reference REF_RT_PSFVgal          fasta-refseqs-xrv-rt KM233624_PSFVgal_RT
   create reference REF_RT_SFVora           fasta-refseqs-xrv-rt AJ544579_SFVora_RT
+  create reference REF_RT_SFVgue           fasta-refseqs-xrv-rt JQ867466_SFVgue_RT
+  create reference REF_RT_SFVcpze          fasta-refseqs-xrv-rt KX087159_SFVcpze_RT
+  create reference REF_RT_SFVrmac          fasta-refseqs-xrv-rt MF280817_SFVrmac_RT
+  create reference REF_RT_SFVjmac          fasta-refseqs-xrv-rt AB923518_SFVjmac_RT
+  create reference REF_RT_SFVgor           fasta-refseqs-xrv-rt HM245790_SFVgor_RT
+  create reference REF_RT_SFVcptt          fasta-refseqs-xrv-rt JQ867463_SFVcptt_RT
+  create reference REF_RT_SFV              fasta-refseqs-xrv-rt LC094267_SFV_RT
+
+  # NW Monkeys & Hominids
   create reference REF_RT_SFVspi           fasta-refseqs-xrv-rt EU010385_SFVspi_RT
   create reference REF_RT_SFVsqu           fasta-refseqs-xrv-rt GU356394_SFVsqu_RT
+  create reference REF_RT_SFVmarm          fasta-refseqs-xrv-rt GU356395_SFVmarm_RT
+  create reference REF_RT_SFVcapu          fasta-refseqs-xrv-rt KP143760_SFVcapu_RT
+
+  # Other mammals
   create reference REF_RT_BFV              fasta-refseqs-xrv-rt U94514_BFV_RT
   create reference REF_RT_EFV              fasta-refseqs-xrv-rt AF201902_EFV_RT
   create reference REF_RT_FFV              fasta-refseqs-xrv-rt AJ564746_FFV_RT
+  create reference REF_RT_PSFVgal          fasta-refseqs-xrv-rt KM233624_PSFVgal_RT
   
   ## Epsilon
   create reference REF_RT_WDSV             fasta-refseqs-xrv-rt AF033822_WDSV_RT
@@ -24,6 +38,7 @@
   create reference REF_RT_GaLV             fasta-refseqs-xrv-rt M26927_GaLV_RT 
   create reference REF_RT_KoRV             fasta-refseqs-xrv-rt AF151794_KoRV_RT
   create reference REF_RT_REV              fasta-refseqs-xrv-rt AY842951_REV_RT
+  create reference REF_RT_PERVE            fasta-refseqs-xrv-rt AF356697_PERVE_RT
 
   ## Delta
   create reference REF_RT_PTLV1            fasta-refseqs-xrv-rt AF033817_PTLV1_RT
