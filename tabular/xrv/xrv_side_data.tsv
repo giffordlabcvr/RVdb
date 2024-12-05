@@ -1,72 +1,55 @@
-sequenceID	sequenceID_RT	NCBI_ref	full_name	name	isolation_host	host_common_name	length	family	clade	subfamily	genus	subgenus	ictv-species-name		
-AF033818	AF033818_BLV_RT	NC_001414	Bovine leukemia virus	BLV	Bos taurus	Domestic cow	8419	Retroviridae	II	Deltaretrovirinae	Deltaretrovirus		Deltaretrovirus bovleu		
-DQ093792	DQ093792_PTLV3_RT		Primate T-lymphotropic virus 3	PTLV3	Homo sapiens	Human	8917	Retroviridae	II	Deltaretrovirinae	Deltaretrovirus		Deltaretrovirus priTlym3		
-EF488483	EF488483_PTLV4_RT		Primate T-lymphotropic virus 4	PTLV4	Homo sapiens	Human	8791	Retroviridae	II	Deltaretrovirinae	Deltaretrovirus		Deltaretrovirus priTlym4		
-M10060	M10060_PTLV2_RT	NC_001488	Human T-lymphotropic virus 2	PTLV2	Homo sapiens	Human	8952	Retroviridae	II	Deltaretrovirinae	Deltaretrovirus		Deltaretrovirus priTlym2		
-AF033817	AF033817_PTLV1_RT	NC_001436	Primate T-lymphotropic virus 1	PTLV1	Homo sapiens	Human	9028	Retroviridae	II	Deltaretrovirinae	Deltaretrovirus		Deltaretrovirus priTlym1		
-AF033808	AF033808_RSV_RT	NC_001407	Rous sarcoma virus	RSV	Gallus gallus	Domestic chicken	9392	Retroviridae	II	Glissorthoretrovirinae	Alpharetrovirus		Alpharetrovirus avirousar		
-M37980	M37980_ALV_RT	NC_001408	Avian leukosis virus - RSA	ALV	Gallus gallus	Domestic chicken	7286	Retroviridae	II	Glissorthoretrovirinae	Alpharetrovirus		Alpharetrovirus avileu		
-U09568	U09568_LPDV_RT		Lymphoproliferative disease virus	LPDV	Meleagris gallopavo	Turkey	7143	Retroviridae	II	Glissorthoretrovirinae	Alpharetrovirus				
-AF033807	AF033807_MMTV_RT	NC_001503	Mouse mammary tumor virus	MMTV	Mus musculus	Domestic mouse	8805	Retroviridae	II	Glissorthoretrovirinae	Betaretrovirus		Betaretrovirus murmamtum		
-AF033815	AF033815_MPMV_RT	NC_001550	Mason-Pfizer monkey virus	MPMV	Macaca mulatta	Rhesus macaque	8557	Retroviridae	II	Glissorthoretrovirinae	Betaretrovirus		Betaretrovirus maspfimon		
-M11841	M11841_SRV1_RT		Simian retrovirus 1	SRV1	Macaca mulatta	Rhesus macaque	8173	Retroviridae	II	Glissorthoretrovirinae	Betaretrovirus				
-M23385	M23385_SMRVH_RT	NC_001514	Squirrel monkey retrovirus-H	SMRVH	Saimiri	Squirrel monkeys	8785	Retroviridae	II	Glissorthoretrovirinae	Betaretrovirus		Betaretrovirus squmon		
-M80216	M80216_JSRV_RT	NC_001494	Jaagsiekte sheep retrovirus	JSRV	Ovis aries	Domestic sheep	7462	Retroviridae	II	Glissorthoretrovirinae	Betaretrovirus		Betaretrovirus ovijaa		
-M32690	M32690_BIV_RT	NC_001413	Bovine immunodeficiency virus	BIV 	Bos taurus	Domestic cow	8482	Retroviridae	II	Lentiretrovirinae	Lentivirus		Lentivirus bovimdef		
-U21603	U21603_JDV_RT	NC_001654	Jembrana disease virus	JDV 	Bos javanicus domesticus	Balinese cattle	7732	Retroviridae	II	Lentiretrovirinae	Lentivirus		Lentivirus bovjem		
-M16575	M16575_EIAV_RT		Equine infectious anemia virus America strain	EIAV 	Equus caballus	Domestic horse	8407	Retroviridae	II	Lentiretrovirinae	Lentivirus		Lentivirus equinfane		
-M25381	M25381_FIV-P_RT		Feline immunodeficiency virus Petaluma strain	FIVP	Felis catus	Domestic cat	9474	Retroviridae	II	Lentiretrovirinae	Lentivirus		Lentivirus felimdef		
-U03982	U03982_PLV_RT	NC_038669	Puma lentivirus 14	PLV	Puma concolor	Puma	9100	Retroviridae	II	Lentiretrovirinae	Lentivirus		Lentivirus pum		
-M33677	M33677_SRLV-B_RT		Small ruminant lentivirus genotype B (Caprine arthritis-encephalitis virus)	SRLVB 	Capra aegagrus hircus	Goat	9189	Retroviridae	II	Lentiretrovirinae	Lentivirus		Lentivirus capartenc		
-M60609	M60609_SRLV-A_RT		Small ruminant lentivirus genotype A (Visna-Maedi Virus)	SRLVA 	Ovis aries	Sheep	9221	Retroviridae	II	Lentiretrovirinae	Lentivirus		Lentivirus ovivismae		
-AF033819	AF033819_HIV1M_RT		Human immunodeficiency virus 2	HIV1M 	Homo sapiens	Human		Retroviridae	II	Lentiretrovirinae	Lentivirus		Lentivirus humimdef1		
-M30502	M30502_HIV2_RT		Human immunodeficiency virus 2	HIV2	Homo sapiens	Human	10359	Retroviridae	II	Lentiretrovirinae	Lentivirus		Lentivirus humimdef2		
-M58410	M58410_SIV_RT		Simian immunodeficiency virus	SIV		African green monkey	9623	Retroviridae	II	Lentiretrovirinae	Lentivirus		Lentivirus simimdef		
-AF033822	AF033822_WDSV_RT	NC_001867	Walleye dermal sarcoma virus	WDSV	Sander vitreus	Walleye fish	12708	Retroviridae	I	Orthoretrovirinae	Epsilonretrovirus		Epsilonretrovirus waldersar		
-AF133051	AF133051_WEHV1_RT		Walleye epidermal hyperplasia virus type 1	WEHV1	Sander vitreus	Walleye fish	12999	Retroviridae	I	Orthoretrovirinae	Epsilonretrovirus		Epsilonretrovirus walepihyp1		
-AF133052	AF133052_WEHV2_RT		Walleye epidermal hyperplasia virus type 2	WEHV2	Sander vitreus	Walleye fish	13125	Retroviridae	I	Orthoretrovirinae	Epsilonretrovirus		Epsilonretrovirus walepihyp2		
-AF151794	AF151794_KoRV_RT	NC_039228	Koala retrovirus	KoRV	Phascolarctos cinereus	Koala bear	8431	Retroviridae	I	Orthoretrovirinae	Gammaretrovirus		Gammaretrovirus koa		
-M26927	M26927_GaLV_RT	NC_001885	Gibbon ape leukemia virus	GaLV	Hylobatidae	Gibbons	8088	Retroviridae	I	Orthoretrovirinae	Gammaretrovirus		Gammaretrovirus gibleu		
-AF033811	AF033811_MLV_RT	NC_001501	Moloney murine leukemia virus	MLV	Mus musculus	Domestic mouse	8332	Retroviridae	I	Orthoretrovirinae	Gammaretrovirus		Gammaretrovirus murleu		
-AF052723	AF052723_FeLV_RT	NC_001940	Feline leukemia virus	FeLV	Felis catus	Domestic cat	8448	Retroviridae	I	Orthoretrovirinae	Gammaretrovirus		Gammaretrovirus felleu		
-AY842951	AY842951_REV_RT	NC_006934	Reticuloendotheliosis virus	REV	Gallus gallus	Domestic chicken	8295	Retroviridae	I	Orthoretrovirinae	Gammaretrovirus		Gammaretrovirus aviretend		
-JQ303225	JQ303225_RfRV_RT		Rhinolophus ferrumequinum retrovirus	RfRV	Rhinolophus ferrumequinum	Greater horseshoe bat	8389	Retroviridae	I	Orthoretrovirinae	Gammaretrovirus		Gammaretrovirus aviretend		
-AF356697	AF356697_PERVE_RT		Porcine endogenous retrovirus E	PERVE	Sus scrofa	Domestic pig	8072	Retroviridae	I	Orthoretrovirinae	Gammaretrovirus		Gammaretrovirus porConc		
-DQ174103	DQ174103_SSSV_RT	NC_007654	Salmon swimbladder sarcoma virus	SSSV	Salmo salar	Atlantic salmon	10305	Retroviridae	I	Orthoretrovirinae	Xiretrovirus				
-U26458	U26458_SnRV_RT		Snakehead retrovirus	SnRV	Ophicephalus striatus	Striped snakehead	10688	Retroviridae	III	Spumaretrovirinae	Omegaretrovirus				
-U94514	U94514_BFV_RT	NC_001831	Bovine foamy virus	BFV	Bos taurus	Domestic cow	12002	Retroviridae	III	Spumaretrovirinae	Spumavirus	Bovispumavirus	Bovispumavirus bostau		
-AF201902	AF201902_EFV_RT	NC_002201	Equine foamy virus	EFV	Equus caballus	Domestic horse	12035	Retroviridae	III	Spumaretrovirinae	Spumavirus	Equispumavirus	Equispumavirus equcab		
-AJ564746	AJ564746_FFV_RT	NC_039242	Feline foamy virus	FFV	Felis catus	Domestic cat	11700	Retroviridae	III	Spumaretrovirinae	Spumavirus	Felispumavirus	Felispumavirus felcat		
-EU010385	EU010385_SFVspi_RT	NC_039027	Spider monkey simian foamy virus	SFVspi	Simia paniscus	Spider monkeys	12212	Retroviridae	III	Spumaretrovirinae	Spumavirus	Simispumavirus	Simiispumavirus atespp		
-GU356394	GU356394_SFVsqu_RT	NC_039028	Squirrel monkey simian foamy virus	SFVsqu	Saimiri	Squirrel monkeys	11684	Retroviridae	III	Spumaretrovirinae	Spumavirus	Simispumavirus	Simiispumavirus saisci		
-GU356395	GU356395_SFVmarm_RT	NC_039030	White-tufted-ear marmoset simian foamy virus	SFVmarm	Callithrix jacchus	White-tufted-ear marmoset	11744	Retroviridae	III	Spumaretrovirinae	Spumavirus	Simispumavirus	Simiispumavirus caljac		
-KP143760	KP143760_SFVcapu_RT		Yellow-breasted capuchin simian foamy virus	SFVcapu	Sapajus xanthosternos	Yellow-breasted capuchin	11764	Retroviridae	III	Spumaretrovirinae	Spumavirus	Simispumavirus	Simiispumavirus sapxan		
-KM233624	KM233624_PSFVgal_RT	NC_039023	Brown greater galago prosimian foamy virus	PSFVgal	Otolemur crassicaudatus	Brown greater galago	12118	Retroviridae	III	Spumaretrovirinae	Spumavirus	Simispumavirus	Prosimiispumavirus otocra		
-AJ544579	AJ544579_SFVora_RT	NC_039085	Simian foamy virus Pongo pygmaeus pygmaeus	SFVora	Pongo pygmaeus	Orangutan	12823	Retroviridae	III	Spumaretrovirinae	Spumavirus	Simispumavirus	Simiispumavirus ponpygpyg		
-M74895	M74895_SFV3_RT		Grivet simian foamy virus	SFV3	Chlorocebus aethiops	Grivet	13111	Retroviridae	III	Spumaretrovirinae	Spumavirus	Simispumavirus	Simiispumavirus chlaet		
-U04327	U04327_SFVcpz_RT	NC_001364	Western chimpanzee simian foamy virus	SFVcpz	Pan troglodytes	Chimpanzee	13246	Retroviridae	III	Spumaretrovirinae	Spumavirus	Simispumavirus	Simiispumavirus pantrover		
-X54482	X54482_SFV1_RT		Macaque simian foamy virus	SFV1	Macaca mulatta	Rhesus macaque	12972	Retroviridae	III	Spumaretrovirinae	Spumavirus	Simispumavirus	Simiispumavirus maccyc		
-HM245790	HM245790_SFVgor_RT	NC_039029	Western lowland gorilla simian foamy virus	SFVgor	Gorilla gorilla	Gorilla	12258	Retroviridae	III	Spumaretrovirinae	Spumavirus	Simispumavirus	Simiispumavirus gorgorgor		
-JQ867463	JQ867463_SFVcptt_RT		Simian foamy virus Pan troglodytes troglodytes	SFVcptt	Pongo pygmaeus	Orang utan	13220	Retroviridae	III	Spumaretrovirinae	Spumavirus	Simispumavirus	Simiispumavirus pantrotro		
-JQ867466	JQ867466_SFVgue_RT	NC_043445	Guenon simian foamy virus	SFVgue	Cercopithecus nictitans	Greater spot-nosed monkey	13072	Retroviridae	III	Spumaretrovirinae	Spumavirus	Simispumavirus	Simiispumavirus cernic		
-KX087159	KX087159_SFVcpze_RT		Eastern chimpanzee simian foamy virus	SFVcpze	Pan troglodytes	Chimpanzee	11954	Retroviridae	III	Spumaretrovirinae	Spumavirus	Simispumavirus	Simiispumavirus pantrosch		
-LC094267	LC094267_SFV_RT		Simian foamy virus	SFV	Macaca fascicularis	Crab-eating macaque	12965	Retroviridae	III	Spumaretrovirinae	Spumavirus	Simispumavirus	Simiispumavirus macfas		
-MF280817	MF280817_SFVrmac_RT		Rhesus macaque simian foamy virus	SFVrmac	Macaca mulatta	Rhesus macaque	12983	Retroviridae	III	Spumaretrovirinae	Spumavirus	Simispumavirus	Simiispumavirus macmul		
-AB923518	AB923518_SFVjmac_RT		Japanese macaque simian foamy virus	SFVjmac	Macaca fuscata	Japanese macaque	12957	Retroviridae	III	Spumaretrovirinae	Spumavirus	Simispumavirus	Simiispumavirus macfus		
-															
-															
-															
-															
-															
-															
-															
-															
-															
-															
-															
-															
-															
-															
-															
-															
-															
+sequenceID	sequenceID_RT	NCBI_ref	full_name	name	isolation_host	host_common_name	length	family	clade	subfamily	genus	subgenus	ictv-species-name
+AF033818	AF033818_BLV_RT	NC_001414	Bovine leukemia virus	BLV	Bos taurus	Domestic cow	8419	Retroviridae	II	Deltaretrovirinae	Deltaretrovirus		Deltaretrovirus bovleu
+DQ093792	DQ093792_PTLV3_RT		Primate T-lymphotropic virus 3	PTLV3	Homo sapiens	Human	8917	Retroviridae	II	Deltaretrovirinae	Deltaretrovirus		Deltaretrovirus priTlym3
+EF488483	EF488483_PTLV4_RT		Primate T-lymphotropic virus 4	PTLV4	Homo sapiens	Human	8791	Retroviridae	II	Deltaretrovirinae	Deltaretrovirus		Deltaretrovirus priTlym4
+M10060	M10060_PTLV2_RT	NC_001488	Human T-lymphotropic virus 2	PTLV2	Homo sapiens	Human	8952	Retroviridae	II	Deltaretrovirinae	Deltaretrovirus		Deltaretrovirus priTlym2
+AF033817	AF033817_PTLV1_RT	NC_001436	Primate T-lymphotropic virus 1	PTLV1	Homo sapiens	Human	9028	Retroviridae	II	Deltaretrovirinae	Deltaretrovirus		Deltaretrovirus priTlym1
+AF033808	AF033808_RSV_RT	NC_001407	Rous sarcoma virus	RSV	Gallus gallus	Domestic chicken	9392	Retroviridae	II	Glissorthoretrovirinae	Alpharetrovirus		Alpharetrovirus avirousar
+M37980	M37980_ALV_RT	NC_001408	Avian leukosis virus - RSA	ALV	Gallus gallus	Domestic chicken	7286	Retroviridae	II	Glissorthoretrovirinae	Alpharetrovirus		Alpharetrovirus avileu
+U09568	U09568_LPDV_RT		Lymphoproliferative disease virus	LPDV	Meleagris gallopavo	Turkey	7143	Retroviridae	II	Glissorthoretrovirinae	Alpharetrovirus		
+AF033807	AF033807_MMTV_RT	NC_001503	Mouse mammary tumor virus	MMTV	Mus musculus	Domestic mouse	8805	Retroviridae	II	Glissorthoretrovirinae	Betaretrovirus		Betaretrovirus murmamtum
+AF033815	AF033815_MPMV_RT	NC_001550	Mason-Pfizer monkey virus	MPMV	Macaca mulatta	Rhesus macaque	8557	Retroviridae	II	Glissorthoretrovirinae	Betaretrovirus		Betaretrovirus maspfimon
+M11841	M11841_SRV1_RT		Simian retrovirus 1	SRV1	Macaca mulatta	Rhesus macaque	8173	Retroviridae	II	Glissorthoretrovirinae	Betaretrovirus		
+M23385	M23385_SMRVH_RT	NC_001514	Squirrel monkey retrovirus-H	SMRVH	Saimiri	Squirrel monkeys	8785	Retroviridae	II	Glissorthoretrovirinae	Betaretrovirus		Betaretrovirus squmon
+M80216	M80216_JSRV_RT	NC_001494	Jaagsiekte sheep retrovirus	JSRV	Ovis aries	Domestic sheep	7462	Retroviridae	II	Glissorthoretrovirinae	Betaretrovirus		Betaretrovirus ovijaa
+M32690	M32690_BIV_RT	NC_001413	Bovine immunodeficiency virus	BIV 	Bos taurus	Domestic cow	8482	Retroviridae	II	Lentiretrovirinae	Lentivirus		Lentivirus bovimdef
+U21603	U21603_JDV_RT	NC_001654	Jembrana disease virus	JDV 	Bos javanicus domesticus	Balinese cattle	7732	Retroviridae	II	Lentiretrovirinae	Lentivirus		Lentivirus bovjem
+M16575	M16575_EIAV_RT		Equine infectious anemia virus America strain	EIAV 	Equus caballus	Domestic horse	8407	Retroviridae	II	Lentiretrovirinae	Lentivirus		Lentivirus equinfane
+M25381	M25381_FIV-P_RT		Feline immunodeficiency virus Petaluma strain	FIVP	Felis catus	Domestic cat	9474	Retroviridae	II	Lentiretrovirinae	Lentivirus		Lentivirus felimdef
+U03982	U03982_PLV_RT	NC_038669	Puma lentivirus 14	PLV	Puma concolor	Puma	9100	Retroviridae	II	Lentiretrovirinae	Lentivirus		Lentivirus pum
+M33677	M33677_SRLV-B_RT		Small ruminant lentivirus genotype B (Caprine arthritis-encephalitis virus)	SRLVB 	Capra aegagrus hircus	Goat	9189	Retroviridae	II	Lentiretrovirinae	Lentivirus		Lentivirus capartenc
+M60609	M60609_SRLV-A_RT		Small ruminant lentivirus genotype A (Visna-Maedi Virus)	SRLVA 	Ovis aries	Sheep	9221	Retroviridae	II	Lentiretrovirinae	Lentivirus		Lentivirus ovivismae
+AF033819	AF033819_HIV1M_RT		Human immunodeficiency virus 2	HIV1M 	Homo sapiens	Human		Retroviridae	II	Lentiretrovirinae	Lentivirus		Lentivirus humimdef1
+M30502	M30502_HIV2_RT		Human immunodeficiency virus 2	HIV2	Homo sapiens	Human	10359	Retroviridae	II	Lentiretrovirinae	Lentivirus		Lentivirus humimdef2
+M58410	M58410_SIV_RT		Simian immunodeficiency virus	SIV		African green monkey	9623	Retroviridae	II	Lentiretrovirinae	Lentivirus		Lentivirus simimdef
+AF033822	AF033822_WDSV_RT	NC_001867	Walleye dermal sarcoma virus	WDSV	Sander vitreus	Walleye fish	12708	Retroviridae	I	Orthoretrovirinae	Epsilonretrovirus		Epsilonretrovirus waldersar
+AF133051	AF133051_WEHV1_RT		Walleye epidermal hyperplasia virus type 1	WEHV1	Sander vitreus	Walleye fish	12999	Retroviridae	I	Orthoretrovirinae	Epsilonretrovirus		Epsilonretrovirus walepihyp1
+AF133052	AF133052_WEHV2_RT		Walleye epidermal hyperplasia virus type 2	WEHV2	Sander vitreus	Walleye fish	13125	Retroviridae	I	Orthoretrovirinae	Epsilonretrovirus		Epsilonretrovirus walepihyp2
+AF151794	AF151794_KoRV_RT	NC_039228	Koala retrovirus	KoRV	Phascolarctos cinereus	Koala bear	8431	Retroviridae	I	Orthoretrovirinae	Gammaretrovirus		Gammaretrovirus koa
+M26927	M26927_GaLV_RT	NC_001885	Gibbon ape leukemia virus	GaLV	Hylobatidae	Gibbons	8088	Retroviridae	I	Orthoretrovirinae	Gammaretrovirus		Gammaretrovirus gibleu
+AF033811	AF033811_MLV_RT	NC_001501	Moloney murine leukemia virus	MLV	Mus musculus	Domestic mouse	8332	Retroviridae	I	Orthoretrovirinae	Gammaretrovirus		Gammaretrovirus murleu
+AF052723	AF052723_FeLV_RT	NC_001940	Feline leukemia virus	FeLV	Felis catus	Domestic cat	8448	Retroviridae	I	Orthoretrovirinae	Gammaretrovirus		Gammaretrovirus felleu
+AY842951	AY842951_REV_RT	NC_006934	Reticuloendotheliosis virus	REV	Gallus gallus	Domestic chicken	8295	Retroviridae	I	Orthoretrovirinae	Gammaretrovirus		Gammaretrovirus aviretend
+JQ303225	JQ303225_RfRV_RT		Rhinolophus ferrumequinum retrovirus	RfRV	Rhinolophus ferrumequinum	Greater horseshoe bat	8389	Retroviridae	I	Orthoretrovirinae	Gammaretrovirus		Gammaretrovirus aviretend
+AF356697	AF356697_PERVE_RT		Porcine endogenous retrovirus E	PERVE	Sus scrofa	Domestic pig	8072	Retroviridae	I	Orthoretrovirinae	Gammaretrovirus		Gammaretrovirus porConc
+DQ174103	DQ174103_SSSV_RT	NC_007654	Salmon swimbladder sarcoma virus	SSSV	Salmo salar	Atlantic salmon	10305	Retroviridae	I	Orthoretrovirinae	Xiretrovirus		
+U26458	U26458_SnRV_RT		Snakehead retrovirus	SnRV	Ophicephalus striatus	Striped snakehead	10688	Retroviridae	III	Spumaretrovirinae	Omegaretrovirus		
+U94514	U94514_BFV_RT	NC_001831	Bovine foamy virus	BFV	Bos taurus	Domestic cow	12002	Retroviridae	III	Spumaretrovirinae	Spumavirus	Bovispumavirus	Bovispumavirus bostau
+AF201902	AF201902_EFV_RT	NC_002201	Equine foamy virus	EFV	Equus caballus	Domestic horse	12035	Retroviridae	III	Spumaretrovirinae	Spumavirus	Equispumavirus	Equispumavirus equcab
+AJ564746	AJ564746_FFV_RT	NC_039242	Feline foamy virus	FFV	Felis catus	Domestic cat	11700	Retroviridae	III	Spumaretrovirinae	Spumavirus	Felispumavirus	Felispumavirus felcat
+EU010385	EU010385_SFVspi_RT	NC_039027	Spider monkey simian foamy virus	SFVspi	Simia paniscus	Spider monkeys	12212	Retroviridae	III	Spumaretrovirinae	Spumavirus	Simispumavirus	Simiispumavirus atespp
+GU356394	GU356394_SFVsqu_RT	NC_039028	Squirrel monkey simian foamy virus	SFVsqu	Saimiri	Squirrel monkeys	11684	Retroviridae	III	Spumaretrovirinae	Spumavirus	Simispumavirus	Simiispumavirus saisci
+GU356395	GU356395_SFVmarm_RT	NC_039030	White-tufted-ear marmoset simian foamy virus	SFVmarm	Callithrix jacchus	White-tufted-ear marmoset	11744	Retroviridae	III	Spumaretrovirinae	Spumavirus	Simispumavirus	Simiispumavirus caljac
+KP143760	KP143760_SFVcapu_RT		Yellow-breasted capuchin simian foamy virus	SFVcapu	Sapajus xanthosternos	Yellow-breasted capuchin	11764	Retroviridae	III	Spumaretrovirinae	Spumavirus	Simispumavirus	Simiispumavirus sapxan
+KM233624	KM233624_PSFVgal_RT	NC_039023	Brown greater galago prosimian foamy virus	PSFVgal	Otolemur crassicaudatus	Brown greater galago	12118	Retroviridae	III	Spumaretrovirinae	Spumavirus	Simispumavirus	Prosimiispumavirus otocra
+AJ544579	AJ544579_SFVora_RT	NC_039085	Simian foamy virus Pongo pygmaeus pygmaeus	SFVora	Pongo pygmaeus	Orangutan	12823	Retroviridae	III	Spumaretrovirinae	Spumavirus	Simispumavirus	Simiispumavirus ponpygpyg
+M74895	M74895_SFV3_RT		Grivet simian foamy virus	SFV3	Chlorocebus aethiops	Grivet	13111	Retroviridae	III	Spumaretrovirinae	Spumavirus	Simispumavirus	Simiispumavirus chlaet
+U04327	U04327_SFVcpz_RT	NC_001364	Western chimpanzee simian foamy virus	SFVcpz	Pan troglodytes	Chimpanzee	13246	Retroviridae	III	Spumaretrovirinae	Spumavirus	Simispumavirus	Simiispumavirus pantrover
+X54482	X54482_SFV1_RT		Macaque simian foamy virus	SFV1	Macaca mulatta	Rhesus macaque	12972	Retroviridae	III	Spumaretrovirinae	Spumavirus	Simispumavirus	Simiispumavirus maccyc
+HM245790	HM245790_SFVgor_RT	NC_039029	Western lowland gorilla simian foamy virus	SFVgor	Gorilla gorilla	Gorilla	12258	Retroviridae	III	Spumaretrovirinae	Spumavirus	Simispumavirus	Simiispumavirus gorgorgor
+JQ867463	JQ867463_SFVcptt_RT		Simian foamy virus Pan troglodytes troglodytes	SFVcptt	Pongo pygmaeus	Orang utan	13220	Retroviridae	III	Spumaretrovirinae	Spumavirus	Simispumavirus	Simiispumavirus pantrotro
+JQ867466	JQ867466_SFVgue_RT	NC_043445	Guenon simian foamy virus	SFVgue	Cercopithecus nictitans	Greater spot-nosed monkey	13072	Retroviridae	III	Spumaretrovirinae	Spumavirus	Simispumavirus	Simiispumavirus cernic
+KX087159	KX087159_SFVcpze_RT		Eastern chimpanzee simian foamy virus	SFVcpze	Pan troglodytes	Chimpanzee	11954	Retroviridae	III	Spumaretrovirinae	Spumavirus	Simispumavirus	Simiispumavirus pantrosch
+LC094267	LC094267_SFV_RT		Simian foamy virus	SFV	Macaca fascicularis	Crab-eating macaque	12965	Retroviridae	III	Spumaretrovirinae	Spumavirus	Simispumavirus	Simiispumavirus macfas
+MF280817	MF280817_SFVrmac_RT		Rhesus macaque simian foamy virus	SFVrmac	Macaca mulatta	Rhesus macaque	12983	Retroviridae	III	Spumaretrovirinae	Spumavirus	Simispumavirus	Simiispumavirus macmul
+AB923518	AB923518_SFVjmac_RT		Japanese macaque simian foamy virus	SFVjmac	Macaca fuscata	Japanese macaque	12957	Retroviridae	III	Spumaretrovirinae	Spumavirus	Simispumavirus	Simiispumavirus macfus
