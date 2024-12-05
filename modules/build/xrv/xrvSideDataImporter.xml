@@ -4,7 +4,7 @@
 
     <textFileColumn>
         <identifier>true</identifier>
-        <header>sequenceID_RT</header>
+        <header>sequenceID</header>
         <property>sequenceID</property>
     </textFileColumn>
 
@@ -21,11 +21,6 @@
     <textFileColumn>
         <header>ictv-species-name</header>
         <property>species</property>
-    </textFileColumn>
-
-    <textFileColumn>
-        <header>family</header>
-        <property>family</property>
     </textFileColumn>
 
     <textFileColumn>

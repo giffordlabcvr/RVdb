@@ -1,0 +1,19 @@
+schema-project retroviridae
+
+  run file glue/build/rv/rvSchemaExtensions.glue
+  exit
+
+project retroviridae
+
+  run file glue/build/rv/rvProjectSettings.glue
+  run file glue/build/rv/rvModules.glue
+
+  # Define features 
+  run file glue/build/rv/rvFeatures.glue
+  
+  # Define variations 
+  #run file glue/build/rv/rvVariations.glue
+
+  validate
+  
+  exit

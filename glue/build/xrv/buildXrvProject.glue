@@ -1,0 +1,25 @@
+project retroviridae
+
+  # Import sequences
+  run file glue/build/xrv/xrvImportSources.glue
+
+  # Import sequence-associated side data
+  run file glue/build/xrv/xrvImportSideData.glue
+
+  # Declare reference sequences
+  run file glue/build/xrv/xrvReferences.glue
+
+  # Define feature locations on reference sequences
+  run file glue/build/xrv/xrvDefineFeatureLocations.glue
+
+  # Define constrained alignment tree
+  run file glue/build/xrv/xrvAlignmentTree.glue
+
+  # Import unconstrained alignments
+  run file glue/build/xrv/xrvImportAlignments.glue
+
+  # Derive constrained alignments from unconstrained
+  run file glue/build/xrv/xrvDeriveConstrainedMsas.glue
+
+  validate
+  exit

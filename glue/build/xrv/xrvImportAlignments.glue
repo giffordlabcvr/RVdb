@@ -1,5 +1,5 @@
   delete module unconstrainedAlignmentImporter
-  create module -f modules/build/genome/xrv/unconstrainedAlignmentImporterXrv.xml unconstrainedAlignmentImporter
+  create module -f modules/build/xrv/unconstrainedAlignmentImporterXrv.xml unconstrainedAlignmentImporter
 
   module unconstrainedAlignmentImporter
 

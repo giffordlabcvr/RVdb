@@ -1,10 +1,4 @@
-### Declare Retroviridae reference sequencess
-
-
-  ### Permearetrovirini (non-frameshifting retroviruses)
-
-  ## Omega
-  create reference REF_RT_SnRV             fasta-refseqs-xrv-rt U26458_SnRV_RT
+  ### Declare Retroviridae reference sequencess
 
   ## Spuma 
 
@@ -23,10 +17,6 @@
   create reference REF_RT_WDSV             fasta-refseqs-xrv-rt AF033822_WDSV_RT
   create reference REF_RT_WEHV1            fasta-refseqs-xrv-rt AF133051_WEHV1_RT
   create reference REF_RT_WEHV2            fasta-refseqs-xrv-rt AF133052_WEHV2_RT
-
-  ## Xi
-  create reference REF_RT_SSSV             fasta-refseqs-xrv-rt DQ174103_SSSV_RT
-
     
   ## Gammaretrovirus
   create reference REF_RT_MLV              fasta-refseqs-xrv-rt AF033811_MLV_RT
@@ -34,9 +24,6 @@
   create reference REF_RT_GaLV             fasta-refseqs-xrv-rt M26927_GaLV_RT 
   create reference REF_RT_KoRV             fasta-refseqs-xrv-rt AF151794_KoRV_RT
   create reference REF_RT_REV              fasta-refseqs-xrv-rt AY842951_REV_RT
-  create reference REF_RT_RfRV             fasta-refseqs-xrv-rt JQ303225_RfRV_RT
-
-  ### Glissaretrovirini (frameshifting retroviruses)
 
   ## Delta
   create reference REF_RT_PTLV1            fasta-refseqs-xrv-rt AF033817_PTLV1_RT
@@ -59,15 +46,12 @@
   create reference REF_RT_ALV              fasta-refseqs-xrv-rt M37980_ALV_RT
   create reference REF_RT_RSV              fasta-refseqs-xrv-rt AF033808_RSV_RT
 
-  # Unclassified
-  create reference REF_RT_LPDV             fasta-refseqs-xrv-rt U09568_LPDV_RT
-
   # Beta B-type
   create reference REF_RT_MMTV             fasta-refseqs-xrv-rt AF033807_MMTV_RT
   
   # Beta D-type
-  create reference REF_RT_SRV1             fasta-refseqs-xrv-rt M11841_SRV1_RT
   create reference REF_RT_MPMV             fasta-refseqs-xrv-rt AF033815_MPMV_RT 
   create reference REF_RT_JSRV             fasta-refseqs-xrv-rt M80216_JSRV_RT
   create reference REF_RT_SMRVH            fasta-refseqs-xrv-rt M23385_SMRVH_RT
   
+

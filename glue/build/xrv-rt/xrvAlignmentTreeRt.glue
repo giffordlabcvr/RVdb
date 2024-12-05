@@ -1,0 +1,5 @@
+  # Create constrained alignment tree
+
+  run file glue/build/xrv-rt/xrvAlignmentTreeRtRoot.glue
+  run file glue/build/xrv-rt/xrvAlignmentTreeRtGenus.glue
+  #run file glue/build/xrv-rt/xrvAlignmentTreeRtSpecies.glue

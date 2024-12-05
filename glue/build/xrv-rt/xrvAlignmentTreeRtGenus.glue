@@ -8,11 +8,8 @@
     set field displayName "III"
     set field clade_category "clade"
 
-	extract child AL_RT_GENUS_Spumavirus --refName REF_RT_MASTER_SFVcpz
-	demote member AL_RT_GENUS_Spumavirus -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.genus = 'Spumavirus'"	
-
-    extract child AL_RT_GENUS_Omegaretrovirus --refName REF_RT_SnRV
-    demote member AL_RT_GENUS_Omegaretrovirus -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.genus = 'Omegaretrovirus'" 
+	extract child AL_RT_GENUS_Spumavirus      --refName REF_RT_MASTER_SFVcpz
+	demote member AL_RT_GENUS_Spumavirus      -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.genus = 'Spumavirus'"	
 
     exit
 
@@ -22,14 +19,12 @@
     set field displayName "I"
     set field clade_category "clade"
     
-    extract child AL_RT_GENUS_Gammaretrovirus --refName REF_RT_MLV
-    demote member AL_RT_GENUS_Gammaretrovirus -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.genus = 'Gammaretrovirus'" 
+    extract child AL_RT_GENUS_Gammaretrovirus   --refName REF_RT_MLV
+    demote member AL_RT_GENUS_Gammaretrovirus   -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.genus = 'Gammaretrovirus'" 
 
     extract child AL_RT_GENUS_Epsilonretrovirus --refName REF_RT_WDSV
     demote member AL_RT_GENUS_Epsilonretrovirus -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.genus = 'Epsilonretrovirus'" 
 
-    extract child AL_RT_GENUS_Xiretrovirus --refName REF_RT_SSSV
-    demote member AL_RT_GENUS_Xiretrovirus -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.genus = 'Xiretrovirus'" 
 
     exit
 
@@ -42,16 +37,17 @@
     extract child AL_RT_GENUS_Alpharetrovirus --refName REF_RT_ALV
     demote member AL_RT_GENUS_Alpharetrovirus -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.genus = 'Alpharetrovirus'" 
     
-    extract child AL_RT_GENUS_Betaretrovirus --refName REF_RT_MMTV
-    demote member AL_RT_GENUS_Betaretrovirus -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.genus = 'Betaretrovirus'" 
+    extract child AL_RT_GENUS_Betaretrovirus  --refName REF_RT_MMTV
+    demote member AL_RT_GENUS_Betaretrovirus  -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.genus = 'Betaretrovirus'" 
           
-    extract child AL_RT_GENUS_Deltaretrovirus    --refName REF_RT_PTLV2
-    demote member AL_RT_GENUS_Deltaretrovirus    -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.genus = 'Deltaretrovirus'" 
+    extract child AL_RT_GENUS_Deltaretrovirus --refName REF_RT_PTLV2
+    demote member AL_RT_GENUS_Deltaretrovirus -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.genus = 'Deltaretrovirus'" 
         
-    extract child AL_RT_GENUS_Lentivirus         --refName REF_RT_EIAV
-    demote member AL_RT_GENUS_Lentivirus         -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.genus = 'Lentivirus'" 
+    extract child AL_RT_GENUS_Lentivirus      --refName REF_RT_EIAV
+    demote member AL_RT_GENUS_Lentivirus      -w "sequence.source.name = 'fasta-refseqs-xrv-rt' and sequence.genus = 'Lentivirus'" 
 
     exit
+
 
 
   #~# Set clade categories in genus-level alignments 
@@ -61,18 +57,8 @@
     set field clade_category "genus" 
 	exit
 
-  alignment AL_RT_GENUS_Omegaretrovirus
-    set field displayName "Omegaretrovirus"
-    set field clade_category "genus" 
-	exit
-
   alignment AL_RT_GENUS_Epsilonretrovirus
     set field displayName "Epsilonretrovirus"
-    set field clade_category "genus" 
-	exit
-
-  alignment AL_RT_GENUS_Xiretrovirus
-    set field displayName "Xiretrovirus"
     set field clade_category "genus" 
 	exit
 
@@ -100,3 +86,4 @@
     set field displayName "Lentivirus"
     set field clade_category "genus" 
 	exit
+
