@@ -19,16 +19,16 @@ project retroviridae
   run file glue/build/rt/xrv-rt/xrvImportUnconstrainedMsaRootRt.glue
 
   # Derive constrained alignments from unconstrained
-  run file glue/build/rt/xrv-rt/xrvDeriveConstrainedMsasRt.glue
+  #run file glue/build/rt/xrv-rt/xrvDeriveConstrainedMsasRt.glue
 
   # Compute phylogeny
   #run file glue/build/rt/xrv-rt/xrvComputeRtRefPhylogenyUncMsa.glue
 
   # Prepare RT reference phylogeny
-  run file glue/build/rt/xrv-rt/xrvPrepareRtRefPhylogenies.glue
+  #run file glue/build/rt/xrv-rt/xrvPrepareRtRefPhylogenies.glue
   
   # Import phylogeny
-  run file glue/build/rt/xrv-rt/xrvImportPhylogenyRt.glue
+  #run file glue/build/rt/xrv-rt/xrvImportPhylogenyRt.glue
 
   validate
   

@@ -2,5 +2,4 @@
 
   run file glue/build/rt/xrv-rt/xrvAlignmentTreeRtRoot.glue
   run file glue/build/rt/xrv-rt/xrvAlignmentTreeRtGenus.glue
-  run file glue/build/rt/xrv-rt/xrvAlignmentTreeRtSubgenus.glue
   run file glue/build/rt/xrv-rt/xrvAlignmentTreeRtSpecies.glue
