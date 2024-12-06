@@ -39,15 +39,11 @@
   create reference REF_GaLV             ncbi-refseqs-xrv M26927
   create reference REF_KoRV             ncbi-refseqs-xrv AF151794
   create reference REF_REV              ncbi-refseqs-xrv AY842951
-  create reference REF_RfRV             ncbi-refseqs-xrv JQ303225
   
   ## Epsilon
   create reference REF_WDSV             ncbi-refseqs-xrv AF033822
   create reference REF_WEHV1            ncbi-refseqs-xrv AF133051
   create reference REF_WEHV2            ncbi-refseqs-xrv AF133052
-
-  ## Xi
-  create reference REF_SSSV             ncbi-refseqs-xrv DQ174103
 
   ## Delta
   create reference REF_BLV              ncbi-refseqs-xrv AF033818
@@ -65,8 +61,4 @@
   create reference REF_PLV              ncbi-refseqs-xrv U03982
   create reference REF_SRLVA            ncbi-refseqs-xrv M60609
   create reference REF_SRLVB            ncbi-refseqs-xrv M33677
- 
-  ## Omega
-  create reference REF_SnRV             ncbi-refseqs-xrv U26458
-  
 

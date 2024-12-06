@@ -53,13 +53,6 @@ REF_KoRV	NC_039228	Clade I	Gammaretrovirus	Gag	961	2526
 REF_KoRV	NC_039228	Clade I	Gammaretrovirus	Pol	2641	6024
 REF_KoRV	NC_039228	Clade I	Gammaretrovirus	Env	5906	7885
 REF_KoRV	NC_039228	Clade I	Gammaretrovirus	3LTR	7927	8431
-REF_RfRV	JQ303225	Clade I	Gammaretrovirus	whole_genome	1	8389
-REF_RfRV	JQ303225	Clade I	Gammaretrovirus	5LTR	1	101
-REF_RfRV	JQ303225	Clade I	Gammaretrovirus	LEA	102	620
-REF_RfRV	JQ303225	Clade I	Gammaretrovirus	Gag	621	2348
-REF_RfRV	JQ303225	Clade I	Gammaretrovirus	Pol	2349	6068
-REF_RfRV	JQ303225	Clade I	Gammaretrovirus	Env	6065	7864
-REF_RfRV	JQ303225	Clade I	Gammaretrovirus	3LTR	8253	8353
 REF_MLV	NC_001501	Clade I	Gammaretrovirus	whole_genome	1	8332
 REF_MLV	NC_001501	Clade I	Gammaretrovirus	LEA	1	357
 REF_MLV	NC_001501	Clade I	Gammaretrovirus	GlyGag	63	356
@@ -88,15 +81,6 @@ REF_REV	NC_006934	Clade I	Gammaretrovirus	Gag	941	2443
 REF_REV	NC_006934	Clade I	Gammaretrovirus	Pol	2444	6025
 REF_REV	NC_006934	Clade I	Gammaretrovirus	Env	5962	7716
 REF_REV	NC_006934	Clade I	Gammaretrovirus	3LTR	7742	8284
-REF_SSSV	NC_007654	Clade I	Xiretrovirus	whole_genome	1	10305
-REF_SSSV	NC_007654	Clade I	Xiretrovirus	5LTR	1	161
-REF_SSSV	NC_007654	Clade I	Xiretrovirus	LEA	162	1046
-REF_SSSV	NC_007654	Clade I	Xiretrovirus	lep	479	557
-REF_SSSV	NC_007654	Clade I	Xiretrovirus	Gag	1041	3323
-REF_SSSV	NC_007654	Clade I	Xiretrovirus	Pol	3459	7487
-REF_SSSV	NC_007654	Clade I	Xiretrovirus	unknown	4851	5127
-REF_SSSV	NC_007654	Clade I	Xiretrovirus	Env	7491	9554
-REF_SSSV	NC_007654	Clade I	Xiretrovirus	3LTR	9671	10305
 REF_ALV	NC_001408	Clade II	Alpharetrovirus	whole_genome	1	7286
 REF_ALV	NC_001408	Clade II	Alpharetrovirus	GagPro	372	2477
 REF_ALV	NC_001408	Clade II	Alpharetrovirus	Pol	2495	5182
@@ -104,18 +88,6 @@ REF_ALV	NC_001408	Clade II	Alpharetrovirus	IN	4211	5179
 REF_ALV	NC_001408	Clade II	Alpharetrovirus	Env	5069	6871
 REF_ALV	NC_001408	Clade II	Alpharetrovirus	SU	5244	6260
 REF_ALV	NC_001408	Clade II	Alpharetrovirus	TM	6261	6869
-REF_LPDV	U09568	Clade II	Alpharetrovirus	whole_genome	1	7143
-REF_LPDV	U09568	Clade II	Alpharetrovirus	5LTR	1	118
-REF_LPDV	U09568	Clade II	Alpharetrovirus	LEA	119	318
-REF_LPDV	U09568	Clade II	Alpharetrovirus	Gag	176	2350
-REF_LPDV	U09568	Clade II	Alpharetrovirus	orf1	319	498
-REF_LPDV	U09568	Clade II	Alpharetrovirus	orf2	2175	2369
-REF_LPDV	U09568	Clade II	Alpharetrovirus	p16	2239	2685
-REF_LPDV	U09568	Clade II	Alpharetrovirus	Pol	2676	5210
-REF_LPDV	U09568	Clade II	Alpharetrovirus	orf3	3641	3859
-REF_LPDV	U09568	Clade II	Alpharetrovirus	orf4	5353	5508
-REF_LPDV	U09568	Clade II	Alpharetrovirus	Env	5378	6856
-REF_LPDV	U09568	Clade II	Alpharetrovirus	3LTR	6886	7143
 REF_RSV	AF033808	Clade II	Alpharetrovirus	whole_genome	1	9392
 REF_RSV	AF033808	Clade II	Alpharetrovirus	Gag	380	2482
 REF_RSV	AF033808	Clade II	Alpharetrovirus	Pol	2482	5190
@@ -207,13 +179,6 @@ REF_SRLVB	M33677	Clade II	Lentivirus	Tat	5688	5951
 REF_SRLVB	M33677	Clade II	Lentivirus	Env	6012	8846
 REF_SRLVB	M33677	Clade II	Lentivirus	Rev	6012	8801
 REF_SRLVB	M33677	Clade II	Lentivirus	3LTR	9105	9189
-REF_SnRV	U26458	Clade III	Omegaretrovirus	whole_genome	1	10688
-REF_SnRV	U26458	Clade III	Omegaretrovirus	5LTR	1	84
-REF_SnRV	U26458	Clade III	Omegaretrovirus	LEA	84	335
-REF_SnRV	U26458	Clade III	Omegaretrovirus	Gag	337	2193
-REF_SnRV	U26458	Clade III	Omegaretrovirus	Pol	2194	6390
-REF_SnRV	U26458	Clade III	Omegaretrovirus	Env	6184	9534
-REF_SnRV	U26458	Clade III	Omegaretrovirus	3LTR	10209	10688
 REF_BFV	U94514	Spumavirus	Spumavirus	whole_genome	1	12002
 REF_BFV	U94514	Spumavirus	Spumavirus	5LTR	1	1306
 REF_BFV	U94514	Spumavirus	Spumavirus	LEA	1307	1412

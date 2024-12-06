@@ -24,9 +24,14 @@ _.each(refObjs, function(refObj) {
 			// Add feature locations
 			glue.command(["add", "feature-location", "whole_genome"]);
 			glue.command(["add", "feature-location", "RT"]);			
+			glue.command(["add", "feature-location", "Pol"]);			
 		
 		});
 		glue.inMode("reference/"+name+"/feature-location/whole_genome", function() {			
+			// Add feature locations
+			glue.command(["add", "segment", 1, lengthValue]);		
+		});
+		glue.inMode("reference/"+name+"/feature-location/Pol", function() {			
 			// Add feature locations
 			glue.command(["add", "segment", 1, lengthValue]);		
 		});

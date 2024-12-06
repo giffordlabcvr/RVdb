@@ -10,7 +10,7 @@ project retroviridae
   run file glue/build/xrv-rt/xrvReferencesRt.glue
 
   # Define features on reference sequences
-   run script glue/build/xrv-rt/xrvSetSeqFeatureLocationsRt.js
+  run script glue/build/xrv-rt/xrvSetSeqFeatureLocationsRt.js
 
   # Import side data
   run file glue/build/xrv-rt/xrvImportSideDataRt.glue
@@ -20,16 +20,6 @@ project retroviridae
 
   # Derive constrained alignments from unconstrained
   run file glue/build/xrv-rt/xrvDeriveConstrainedMsasRt.glue
-
-  # Compute phylogeny
-  #run file glue/build/xrv-rt/xrvComputeRtRefPhylogenyAa.glue
-  #run file glue/build/xrv-rt/xrvComputeRtRefPhylogenyUncMsa.glue
-
-  # Prepare RT reference phylogeny
-  run file glue/build/xrv-rt/xrvPrepareRtRefPhylogenies.glue
-  
-  # Import phylogeny
-  #run file glue/build/xrv-rt/xrvImportPhylogenyRt.glue
 
   validate
   

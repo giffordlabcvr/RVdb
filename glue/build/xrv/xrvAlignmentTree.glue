@@ -4,33 +4,17 @@
   #~# Root family level
   
   # Spumaretrovirinae root 
+
   create alignment AL_ROOT_SUBFAMILY_Spumaretrovirinae --refSeqName REF_SFVcpz
   alignment AL_ROOT_SUBFAMILY_Spumaretrovirinae
   	add member --whereClause "subfamily = 'Spumaretrovirinae' and source.name not like '%-rt'"	
   	exit
 
   # Orthoretrovirinae root 
+
   create alignment AL_ROOT_SUBFAMILY_Orthoretrovirinae --refSeqName REF_MLV
   alignment AL_ROOT_SUBFAMILY_Orthoretrovirinae
   	add member --whereClause "subfamily = 'Orthoretrovirinae' and source.name not like '%-rt'"	
-  	exit
-
-  # Glissorthoretrovirinae root
-  create alignment AL_ROOT_SUBFAMILY_Glissorthoretrovirinae --refSeqName REF_ALV
-  alignment AL_ROOT_SUBFAMILY_Glissorthoretrovirinae
-  	add member --whereClause "subfamily = 'Glissorthoretrovirinae' and source.name not like '%-rt'"	
-  	exit
-
-  # Lentiretrovirinae root
-  create alignment AL_ROOT_SUBFAMILY_Lentiretrovirinae --refSeqName REF_HIV1M
-  alignment AL_ROOT_SUBFAMILY_Lentiretrovirinae
-  	add member --whereClause "subfamily = 'Lentiretrovirinae' and source.name not like '%-rt'"	
-  	exit
-
-  # Deltaretrovirinae root
-  create alignment AL_ROOT_SUBFAMILY_Deltaretrovirinae --refSeqName REF_PTLV1
-  alignment AL_ROOT_SUBFAMILY_Deltaretrovirinae
-  	add member --whereClause "subfamily = 'Deltaretrovirinae' and source.name not like '%-rt'"	
   	exit
 
 
@@ -38,11 +22,8 @@
 
   alignment AL_ROOT_SUBFAMILY_Spumaretrovirinae
 
-    extract child AL_Spumaretrovirus    --refName REF_SFVcpz
-    demote member AL_Spumaretrovirus    --whereClause "sequence.genus = 'Spumaretrovirus'" 
-  
-    extract child AL_Omegaretrovirus    --refName REF_SnRV
-    demote member AL_Omegaretrovirus    --whereClause "sequence.genus = 'Omegaretrovirus'" 
+    extract child AL_GENUS_Spumaretrovirus    --refName REF_SFVcpz
+    demote member AL_GENUS_Spumaretrovirus    --whereClause "sequence.genus = 'Spumaretrovirus'" 
     exit
 
 
@@ -50,25 +31,23 @@
 
   alignment AL_ROOT_SUBFAMILY_Orthoretrovirinae
 
+    extract child AL_GENUS_Alpharetrovirus   --refName REF_ALV
+    demote member AL_GENUS_Alpharetrovirus   --whereClause "sequence.genus = 'Alpharetrovirus'" 
+
+    extract child AL_GENUS_Betaretrovirus    --refName REF_MMTV
+    demote member AL_GENUS_Betaretrovirus    --whereClause "sequence.genus = 'Betaretrovirus'" 
+
+    extract child AL_GENUS_Deltaretrovirus   --refName REF_PTLV1
+    demote member AL_GENUS_Deltaretrovirus   --whereClause "sequence.genus = 'Deltaretrovirus'" 
+
     extract child AL_GENUS_Gammaretrovirus   --refName REF_MLV
     demote member AL_GENUS_Gammaretrovirus   --whereClause "sequence.genus = 'Gammaretrovirus'" 
 
     extract child AL_GENUS_Epsilonretrovirus --refName REF_WDSV
     demote member AL_GENUS_Epsilonretrovirus --whereClause "sequence.genus = 'Epsilonretrovirus'" 
 
-    extract child AL_GENUS_Zetaretrovirus   --refName REF_SSSV
-    demote member AL_GENUS_Zetaretrovirus   --whereClause "sequence.genus = 'Zetaretrovirus'" 
-    exit
+    extract child AL_GENUS_Lentivirus        --refName REF_HIV1M
+    demote member AL_GENUS_Lentivirus        --whereClause "sequence.genus = 'Lentivirus'" 
 
-
-  #~# Glissorthoretrovirinae genera
-
-  alignment AL_ROOT_SUBFAMILY_Glissorthoretrovirinae
-
-    extract child AL_GENUS_Alpharetrovirus   --refName REF_ALV
-    demote member AL_GENUS_Alpharetrovirus   --whereClause "sequence.genus = 'Alpharetrovirus'" 
-
-    extract child AL_GENUS_Betaretrovirus   --refName REF_MMTV
-    demote member AL_GENUS_Betaretrovirus   --whereClause "sequence.genus = 'Betaretrovirus'" 
     exit
 

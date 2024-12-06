@@ -1,26 +1,8 @@
   #~# Derive segments
   
-
-  alignment AL_ROOT_SUBFAMILY_Spumaretrovirinae
-    derive segments AL_UNC_Orthoretrovirinae --allMembers --mergeStrategy OVERWRITE
+  alignment AL_GENUS_Spumaretrovirus
+    derive segments AL_UNC_Spumaretrovirus --allMembers --mergeStrategy OVERWRITE
     exit
-
-  alignment AL_ROOT_SUBFAMILY_Spumaretrovirinae
-    derive segments AL_UNC_Spumaretrovirinae --allMembers --mergeStrategy OVERWRITE
-    exit
-
-  alignment AL_ROOT_SUBFAMILY_Glissorthoretrovirinae
-    derive segments AL_UNC_Glissorthoretrovirinae --allMembers --mergeStrategy OVERWRITE
-    exit
-
-  alignment AL_ROOT_SUBFAMILY_Deltaretrovirinae
-    derive segments AL_UNC_Deltaretrovirinae --allMembers --mergeStrategy OVERWRITE
-    exit
-
-  alignment AL_ROOT_SUBFAMILY_Lentiretrovirinae
-    derive segments AL_UNC_Lentiretrovirinae --allMembers --mergeStrategy OVERWRITE
-    exit
-
 
   #alignment AL_GENUS_Alpharetrovirus
   #  derive segments AL_UNC_Alpharetrovirus --allMembers --mergeStrategy OVERWRITE
@@ -34,7 +16,15 @@
     derive segments AL_UNC_Gammaretrovirus --allMembers --mergeStrategy OVERWRITE
     exit
 
+  alignment AL_GENUS_Deltaretrovirus
+    derive segments AL_UNC_Deltaretrovirus --allMembers --mergeStrategy OVERWRITE
+    exit
+
   alignment AL_GENUS_Epsilonretrovirus
     derive segments AL_UNC_Epsilonretrovirus --allMembers --mergeStrategy OVERWRITE
+    exit
+
+  alignment AL_GENUS_Lentivirus
+    derive segments AL_UNC_Lentivirus --allMembers --mergeStrategy OVERWRITE
     exit
 

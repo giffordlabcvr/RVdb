@@ -3,16 +3,13 @@
 
   module unconstrainedAlignmentImporter
 
-    #~# Subfamilies   
-    import AL_UNC_Spumaretrovirinae      -f alignments/internal/subfamily/xrv/spuma-genome.aln.fna    
-    #import AL_UNC_Orthoretrovirinae      -f alignments/internal/subfamily/xrv/orthoretro-gagpol.aln.fna
-
     #~# Orthoretrovirinae genera
-    #import AL_UNC_Alpharetrovirus       -f alignments/internal/genus/xrv/alpha-genome.aln.fna 
-    import AL_UNC_Betaretrovirus         -f alignments/internal/genus/xrv/beta-genome.aln.fna 
-    import AL_UNC_Gammaretrovirus        -f alignments/internal/genus/xrv/gamma-genome.aln.fna 
-    import AL_UNC_Epsilonretrovirus      -f alignments/internal/genus/xrv/epsilon-internal.aln.fna
-    import AL_UNC_Deltaretrovirinae      -f alignments/internal/genus/xrv/delta-genome.aln.fna
-    import AL_UNC_Lentiretrovirinae      -f alignments/internal/genus/xrv/lenti-gagpol.aln.fna
+    import AL_UNC_Spumaretrovirus   -f alignments/internal/spuma-genome.aln.fna    
+    import AL_UNC_Betaretrovirus    -f alignments/internal/beta-genome.aln.fna 
+    import AL_UNC_Gammaretrovirus   -f alignments/internal/gamma-genome.aln.fna 
+    import AL_UNC_Epsilonretrovirus -f alignments/internal/epsilon-internal.aln.fna
+    import AL_UNC_Deltaretrovirus   -f alignments/internal/delta-genome.aln.fna
+    import AL_UNC_Lentivirus        -f alignments/internal/lenti-gagpol.aln.fna
+    #import AL_UNC_Alpharetrovirus   -f alignments/internal/alpha-genome.aln.fna 
 
     exit
