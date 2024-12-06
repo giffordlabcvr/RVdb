@@ -1,29 +1,29 @@
 sequenceID	sequenceID_RT	NCBI_ref	full_name	name	ictv-species-name	clade	subfamily	genus	subgenus	length
-AF033818	AF033818_BLV_RT	NC_001414	Bovine leukemia virus	BLV	Deltaretrovirus bovleu	II	Orthoretrovirinae	Deltaretrovirus		8419
-DQ093792	DQ093792_PTLV3_RT		Primate T-lymphotropic virus 3	PTLV3	Deltaretrovirus priTlym3	II	Orthoretrovirinae	Deltaretrovirus		8917
-EF488483	EF488483_PTLV4_RT		Primate T-lymphotropic virus 4	PTLV4	Deltaretrovirus priTlym4	II	Orthoretrovirinae	Deltaretrovirus		8791
-M10060	M10060_PTLV2_RT	NC_001488	Human T-lymphotropic virus 2	PTLV2	Deltaretrovirus priTlym2	II	Orthoretrovirinae	Deltaretrovirus		8952
-AF033817	AF033817_PTLV1_RT	NC_001436	Primate T-lymphotropic virus 1	PTLV1	Deltaretrovirus priTlym1	II	Orthoretrovirinae	Deltaretrovirus		9028
+AF033818	AF033818_BLV_RT	NC_001414	bovine leukemia virus	BLV	Deltaretrovirus bovleu	II	Orthoretrovirinae	Deltaretrovirus		8419
+DQ093792	DQ093792_PTLV3_RT		primate T-lymphotropic virus 3	PTLV3	Deltaretrovirus priTlym3	II	Orthoretrovirinae	Deltaretrovirus		8917
+EF488483	EF488483_PTLV4_RT		primate T-lymphotropic virus 4	PTLV4	Deltaretrovirus priTlym4	II	Orthoretrovirinae	Deltaretrovirus		8791
+M10060	M10060_PTLV2_RT	NC_001488	human T-lymphotropic virus 2	PTLV2	Deltaretrovirus priTlym2	II	Orthoretrovirinae	Deltaretrovirus		8952
+AF033817	AF033817_PTLV1_RT	NC_001436	primate T-lymphotropic virus 1	PTLV1	Deltaretrovirus priTlym1	II	Orthoretrovirinae	Deltaretrovirus		9028
 AF033808	AF033808_RSV_RT	NC_001407	Rous sarcoma virus	RSV	Alpharetrovirus avirousar	II	Orthoretrovirinae	Alpharetrovirus		9392
-M37980	M37980_ALV_RT	NC_001408	Avian leukosis virus - RSA	ALV	Alpharetrovirus avileu	II	Orthoretrovirinae	Alpharetrovirus		7286
-AF033807	AF033807_MMTV_RT	NC_001503	Mouse mammary tumor virus	MMTV	Betaretrovirus murmamtum	II	Orthoretrovirinae	Betaretrovirus		8805
+M37980	M37980_ALV_RT	NC_001408	avian leukosis virus - RSA	ALV	Alpharetrovirus avileu	II	Orthoretrovirinae	Alpharetrovirus		7286
+AF033807	AF033807_MMTV_RT	NC_001503	mouse mammary tumor virus	MMTV	Betaretrovirus murmamtum	II	Orthoretrovirinae	Betaretrovirus		8805
 AF033815	AF033815_MPMV_RT	NC_001550	Mason-Pfizer monkey virus	MPMV	Betaretrovirus maspfimon	II	Orthoretrovirinae	Betaretrovirus		8557
-M23385	M23385_SMRVH_RT	NC_001514	Squirrel monkey retrovirus-H	SMRVH	Betaretrovirus squmon	II	Orthoretrovirinae	Betaretrovirus		8785
+M23385	M23385_SMRVH_RT	NC_001514	squirrel monkey retrovirus-H	SMRVH	Betaretrovirus squmon	II	Orthoretrovirinae	Betaretrovirus		8785
 M80216	M80216_JSRV_RT	NC_001494	Jaagsiekte sheep retrovirus	JSRV	Betaretrovirus ovijaa	II	Orthoretrovirinae	Betaretrovirus		7462
 M32690	M32690_BIV_RT	NC_001413	bovine immunodeficiency virus	BIV 	Lentivirus bovimdef	II	Orthoretrovirinae	Lentivirus		8482
 U21603	U21603_JDV_RT	NC_001654	Jembrana disease virus	JDV 	Lentivirus bovjem	II	Orthoretrovirinae	Lentivirus		7732
-M16575	M16575_EIAV_RT		Equine infectious anemia virus America strain	EIAV 	Lentivirus equinfane	II	Orthoretrovirinae	Lentivirus		8407
-M25381	M25381_FIV-P_RT		Feline immunodeficiency virus Petaluma strain	FIVP	Lentivirus felimdef	II	Orthoretrovirinae	Lentivirus		9474
-U03982	U03982_PLV_RT	NC_038669	Puma lentivirus 14	PLV	Lentivirus pum	II	Orthoretrovirinae	Lentivirus		9100
-M33677	M33677_SRLV-B_RT		Small ruminant lentivirus genotype B (Caprine arthritis-encephalitis virus)	SRLVB 	Lentivirus capartenc	II	Orthoretrovirinae	Lentivirus		9189
-M60609	M60609_SRLV-A_RT		Small ruminant lentivirus genotype A (Visna-Maedi Virus)	SRLVA 	Lentivirus ovivismae	II	Orthoretrovirinae	Lentivirus		9221
+M16575	M16575_EIAV_RT		equine infectious anemia virus America strain	EIAV 	Lentivirus equinfane	II	Orthoretrovirinae	Lentivirus		8407
+M25381	M25381_FIV-P_RT		feline immunodeficiency virus Petaluma strain	FIVP	Lentivirus felimdef	II	Orthoretrovirinae	Lentivirus		9474
+U03982	U03982_PLV_RT	NC_038669	puma lentivirus 14	PLV	Lentivirus pum	II	Orthoretrovirinae	Lentivirus		9100
+M33677	M33677_SRLV-B_RT		small ruminant lentivirus genotype B (Caprine arthritis-encephalitis virus)	SRLVB 	Lentivirus capartenc	II	Orthoretrovirinae	Lentivirus		9189
+M60609	M60609_SRLV-A_RT		small ruminant lentivirus genotype A (Visna-Maedi Virus)	SRLVA 	Lentivirus ovivismae	II	Orthoretrovirinae	Lentivirus		9221
 AF033819	AF033819_HIV1M_RT		human immunodeficiency virus 2	HIV1M 	Lentivirus humimdef1	II	Orthoretrovirinae	Lentivirus		
-M30502	M30502_HIV2_RT		Human immunodeficiency virus 2	HIV2	Lentivirus humimdef2	II	Orthoretrovirinae	Lentivirus		10359
-M58410	M58410_SIV_RT		Simian immunodeficiency virus	SIV	Lentivirus simimdef	II	Orthoretrovirinae	Lentivirus		9623
-AF033822	AF033822_WDSV_RT	NC_001867	Walleye dermal sarcoma virus	WDSV	Epsilonretrovirus waldersar	I	Orthoretrovirinae	Epsilonretrovirus		12708
+M30502	M30502_HIV2_RT		human immunodeficiency virus 2	HIV2	Lentivirus humimdef2	II	Orthoretrovirinae	Lentivirus		10359
+M58410	M58410_SIV_RT		simian immunodeficiency virus	SIV	Lentivirus simimdef	II	Orthoretrovirinae	Lentivirus		9623
+AF033822	AF033822_WDSV_RT	NC_001867	walleye dermal sarcoma virus	WDSV	Epsilonretrovirus waldersar	I	Orthoretrovirinae	Epsilonretrovirus		12708
 AF133051	AF133051_WEHV1_RT		walleye epidermal hyperplasia virus type 1	WEHV1	Epsilonretrovirus walepihyp1	I	Orthoretrovirinae	Epsilonretrovirus		12999
 AF133052	AF133052_WEHV2_RT		walleye epidermal hyperplasia virus type 2	WEHV2	Epsilonretrovirus walepihyp2	I	Orthoretrovirinae	Epsilonretrovirus		13125
-AF151794	AF151794_KoRV_RT	NC_039228	Koala retrovirus	KoRV	Gammaretrovirus koa	I	Orthoretrovirinae	Gammaretrovirus		8431
+AF151794	AF151794_KoRV_RT	NC_039228	koala retrovirus	KoRV	Gammaretrovirus koa	I	Orthoretrovirinae	Gammaretrovirus		8431
 M26927	M26927_GaLV_RT	NC_001885	gibbon ape leukemia virus	GaLV	Gammaretrovirus gibleu	I	Orthoretrovirinae	Gammaretrovirus		8088
 AF033811	AF033811_MLV_RT	NC_001501	Moloney murine leukemia virus	MLV	Gammaretrovirus murleu	I	Orthoretrovirinae	Gammaretrovirus		8332
 AF052723	AF052723_FeLV_RT	NC_001940	feline leukemia virus	FeLV	Gammaretrovirus felleu	I	Orthoretrovirinae	Gammaretrovirus		8448
