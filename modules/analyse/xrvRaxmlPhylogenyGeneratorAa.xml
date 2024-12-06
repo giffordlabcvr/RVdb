@@ -1,6 +1,6 @@
 <raxmlPhylogenyGenerator>
 	<raxmlPhylogenyRunner>
-		<substitutionModel>PROTGAMMAIGTR</substitutionModel>
+		<substitutionModel>RTREV</substitutionModel>
 		<bootstrapReplicates>100</bootstrapReplicates>
 	</raxmlPhylogenyRunner>
 </raxmlPhylogenyGenerator>
