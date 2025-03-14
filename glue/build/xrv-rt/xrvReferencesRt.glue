@@ -44,7 +44,6 @@
   create reference REF_RT_PTLV1            fasta-refseqs-xrv-rt AF033817_PTLV1_RT
   create reference REF_RT_PTLV2            fasta-refseqs-xrv-rt M10060_PTLV2_RT
   create reference REF_RT_PTLV3            fasta-refseqs-xrv-rt DQ093792_PTLV3_RT
-  create reference REF_RT_PTLV4            fasta-refseqs-xrv-rt EF488483_PTLV4_RT
   create reference REF_RT_BLV              fasta-refseqs-xrv-rt AF033818_BLV_RT
 
   ## Lenti

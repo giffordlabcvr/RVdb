@@ -9,8 +9,8 @@ create project retroviridae "A GLUE project for the Retroviridae" --minVersion 0
 run file glue/build/rv/buildRetroviridaeCore.glue
 
 # Build RT component (family-level relationships)
-#run file glue/build/xrv-rt/buildXrvRtProject.glue
+run file glue/build/xrv-rt/buildXrvRtProject.glue
 
 # Build complete genome component (genus-level relationships)
-run file glue/build/xrv/buildXrvProject.glue
+#run file glue/build/xrv/buildXrvProject.glue
 
