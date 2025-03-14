@@ -1,0 +1,149 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=47;
+	taxlabels
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AB923518_SFVjmac_RT'[&clade="III",full_name="simian foamy virus Macaca fuscata",genus="Spumavirus",name="SFVjmac",sequenceID="AB923518_SFVjmac_RT",species="Simiispumavirus macfus",subfamily="Spumaretrovirinae",subgenus="Simispumavirus"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF033807_MMTV_RT'[&clade="II",full_name="mouse mammary tumor virus",genus="Betaretrovirus",name="MMTV",sequenceID="AF033807_MMTV_RT",species="Betaretrovirus murmamtum",subfamily="Orthoretrovirinae",subgenus="-"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF033808_RSV_RT'[&clade="II",full_name="Rous sarcoma virus",genus="Alpharetrovirus",name="RSV",sequenceID="AF033808_RSV_RT",species="Alpharetrovirus avirousar",subfamily="Orthoretrovirinae",subgenus="-"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF033811_MLV_RT'[&clade="I",full_name="Moloney murine leukemia virus",genus="Gammaretrovirus",name="MLV",sequenceID="AF033811_MLV_RT",species="Gammaretrovirus murleu",subfamily="Orthoretrovirinae",subgenus="-"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF033815_MPMV_RT'[&clade="II",full_name="Mason-Pfizer monkey virus",genus="Betaretrovirus",name="MPMV",sequenceID="AF033815_MPMV_RT",species="Betaretrovirus maspfimon",subfamily="Orthoretrovirinae",subgenus="-"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF033817_PTLV1_RT'[&clade="II",full_name="primate T-lymphotropic virus 1",genus="Deltaretrovirus",name="PTLV1",sequenceID="AF033817_PTLV1_RT",species="Deltaretrovirus priTlym1",subfamily="Orthoretrovirinae",subgenus="-"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF033818_BLV_RT'[&clade="II",full_name="bovine leukemia virus",genus="Deltaretrovirus",name="BLV",sequenceID="AF033818_BLV_RT",species="Deltaretrovirus bovleu",subfamily="Orthoretrovirinae",subgenus="-"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF033819_HIV1M_RT'[&clade="II",full_name="human immunodeficiency virus 2",genus="Lentivirus",name="HIV1M ",sequenceID="AF033819_HIV1M_RT",species="Lentivirus humimdef1",subfamily="Orthoretrovirinae",subgenus="-"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF033822_WDSV_RT'[&clade="I",full_name="walleye dermal sarcoma virus",genus="Epsilonretrovirus",name="WDSV",sequenceID="AF033822_WDSV_RT",species="Epsilonretrovirus waldersar",subfamily="Orthoretrovirinae",subgenus="-"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF052723_FeLV_RT'[&clade="I",full_name="feline leukemia virus",genus="Gammaretrovirus",name="FeLV",sequenceID="AF052723_FeLV_RT",species="Gammaretrovirus felleu",subfamily="Orthoretrovirinae",subgenus="-"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF133051_WEHV1_RT'[&clade="I",full_name="walleye epidermal hyperplasia virus type 1",genus="Epsilonretrovirus",name="WEHV1",sequenceID="AF133051_WEHV1_RT",species="Epsilonretrovirus walepihyp1",subfamily="Orthoretrovirinae",subgenus="-"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF133052_WEHV2_RT'[&clade="I",full_name="walleye epidermal hyperplasia virus type 2",genus="Epsilonretrovirus",name="WEHV2",sequenceID="AF133052_WEHV2_RT",species="Epsilonretrovirus walepihyp2",subfamily="Orthoretrovirinae",subgenus="-"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF151794_Korv_RT'[&clade="I",full_name="koala retrovirus",genus="Gammaretrovirus",name="KoRV",sequenceID="AF151794_Korv_RT",species="Gammaretrovirus koa",subfamily="Orthoretrovirinae",subgenus="-"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF201902_EFV_RT'[&clade="III",full_name="equine foamy virus Equus caballus",genus="Spumavirus",name="EFV",sequenceID="AF201902_EFV_RT",species="Equispumavirus equcab",subfamily="Spumaretrovirinae",subgenus="Equispumavirus"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF356697_PERVE_RT'[&clade="I",full_name="porcine endogenous retrovirus E",genus="Gammaretrovirus",name="PERVE",sequenceID="AF356697_PERVE_RT",species="Gammaretrovirus porConc",subfamily="Orthoretrovirinae",subgenus="-"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AJ544579_SFVora_RT'[&clade="III",full_name="simian foamy virus Pongo pygmaeus pygmaeus",genus="Spumavirus",name="SFVora",sequenceID="AJ544579_SFVora_RT",species="Simiispumavirus ponpygpyg",subfamily="Spumaretrovirinae",subgenus="Simispumavirus"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AJ564746_FFV_RT'[&clade="III",full_name="feline foamy virus Felis catus",genus="Spumavirus",name="FFV",sequenceID="AJ564746_FFV_RT",species="Felispumavirus felcat",subfamily="Spumaretrovirinae",subgenus="Felispumavirus"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AY842951_REV_RT'[&clade="I",full_name="reticuloendotheliosis virus",genus="Gammaretrovirus",name="REV",sequenceID="AY842951_REV_RT",species="Gammaretrovirus aviretend",subfamily="Orthoretrovirinae",subgenus="-"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/DQ093792_PTLV3_RT'[&clade="II",full_name="primate T-lymphotropic virus 3",genus="Deltaretrovirus",name="PTLV3",sequenceID="DQ093792_PTLV3_RT",species="Deltaretrovirus priTlym3",subfamily="Orthoretrovirinae",subgenus="-"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/EU010385_SFVspi_RT'[&clade="III",full_name="simian foamy virus Ateles spp.",genus="Spumavirus",name="SFVspi",sequenceID="EU010385_SFVspi_RT",species="Simiispumavirus atespp",subfamily="Spumaretrovirinae",subgenus="Simispumavirus"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/GU356394_SFVsqu_RT'[&clade="III",full_name="simian foamy virus Saimiri sciureus",genus="Spumavirus",name="SFVsqu",sequenceID="GU356394_SFVsqu_RT",species="Simiispumavirus saisci",subfamily="Spumaretrovirinae",subgenus="Simispumavirus"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/GU356395_SFVmarm_RT'[&clade="III",full_name="simian foamy virus Callithrix jacchus",genus="Spumavirus",name="SFVmarm",sequenceID="GU356395_SFVmarm_RT",species="Simiispumavirus caljac",subfamily="Spumaretrovirinae",subgenus="Simispumavirus"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/HM245790_SFVgor_RT'[&clade="III",full_name="simian foamy virus Gorilla gorilla gorilla",genus="Spumavirus",name="SFVgor",sequenceID="HM245790_SFVgor_RT",species="Simiispumavirus gorgorgor",subfamily="Spumaretrovirinae",subgenus="Simispumavirus"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/JQ867463_SFVcptt_RT'[&clade="III",full_name="simian foamy virus Pan troglodytes troglodytes",genus="Spumavirus",name="SFVcptt",sequenceID="JQ867463_SFVcptt_RT",species="Simiispumavirus pantrotro",subfamily="Spumaretrovirinae",subgenus="Simispumavirus"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/JQ867466_SFVgue_RT'[&clade="III",full_name="simian foamy virus Cercopithecus nictitans",genus="Spumavirus",name="SFVgue",sequenceID="JQ867466_SFVgue_RT",species="Simiispumavirus cernic",subfamily="Spumaretrovirinae",subgenus="Simispumavirus"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/KM233624_PSFVgal_RT'[&clade="III",full_name="simian foamy virus Otolemur crassicaudatus",genus="Spumavirus",name="PSFVgal",sequenceID="KM233624_PSFVgal_RT",species="Prosimiispumavirus otocra",subfamily="Spumaretrovirinae",subgenus="Simispumavirus"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/KP143760_SFVcapu_RT'[&clade="III",full_name="simian foamy virus Sapajus xanthosternos",genus="Spumavirus",name="SFVcapu",sequenceID="KP143760_SFVcapu_RT",species="Simiispumavirus sapxan",subfamily="Spumaretrovirinae",subgenus="Simispumavirus"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/KX087159_SFVcpze_RT'[&clade="III",full_name="simian foamy virus Pan troglodytes schweinfurthii",genus="Spumavirus",name="SFVcpze",sequenceID="KX087159_SFVcpze_RT",species="Simiispumavirus pantrosch",subfamily="Spumaretrovirinae",subgenus="Simispumavirus"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/LC094267_SFV_RT'[&clade="III",full_name="simian foamy virus Macaca fascicularis",genus="Spumavirus",name="SFV",sequenceID="LC094267_SFV_RT",species="Simiispumavirus macfas",subfamily="Spumaretrovirinae",subgenus="Simispumavirus"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/M10060_PTLV2_RT'[&clade="II",full_name="human T-lymphotropic virus 2",genus="Deltaretrovirus",name="PTLV2",sequenceID="M10060_PTLV2_RT",species="Deltaretrovirus priTlym2",subfamily="Orthoretrovirinae",subgenus="-"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/M16575_EIAV_RT'[&clade="II",full_name="equine infectious anemia virus America strain",genus="Lentivirus",name="EIAV ",sequenceID="M16575_EIAV_RT",species="Lentivirus equinfane",subfamily="Orthoretrovirinae",subgenus="-"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/M23385_SMRVH_RT'[&clade="II",full_name="squirrel monkey retrovirus-H",genus="Betaretrovirus",name="SMRVH",sequenceID="M23385_SMRVH_RT",species="Betaretrovirus squmon",subfamily="Orthoretrovirinae",subgenus="-"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/M25381_FIV-P_RT'[&clade="II",full_name="feline immunodeficiency virus Petaluma strain",genus="Lentivirus",name="FIVP",sequenceID="M25381_FIV-P_RT",species="Lentivirus felimdef",subfamily="Orthoretrovirinae",subgenus="-"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/M26927_GaLV_RT'[&clade="I",full_name="gibbon ape leukemia virus",genus="Gammaretrovirus",name="GaLV",sequenceID="M26927_GaLV_RT",species="Gammaretrovirus gibleu",subfamily="Orthoretrovirinae",subgenus="-"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/M30502_HIV2_RT'[&clade="II",full_name="human immunodeficiency virus 2",genus="Lentivirus",name="HIV2",sequenceID="M30502_HIV2_RT",species="Lentivirus humimdef2",subfamily="Orthoretrovirinae",subgenus="-"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/M32690_BIV_RT'[&clade="II",full_name="bovine immunodeficiency virus",genus="Lentivirus",name="BIV ",sequenceID="M32690_BIV_RT",species="Lentivirus bovimdef",subfamily="Orthoretrovirinae",subgenus="-"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/M33677_SRLV-B_RT'[&clade="II",full_name="small ruminant lentivirus genotype B (Caprine arthritis-encephalitis virus)",genus="Lentivirus",name="SRLVB ",sequenceID="M33677_SRLV-B_RT",species="Lentivirus capartenc",subfamily="Orthoretrovirinae",subgenus="-"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/M37980_ALV_RT'[&clade="II",full_name="avian leukosis virus - RSA",genus="Alpharetrovirus",name="ALV",sequenceID="M37980_ALV_RT",species="Alpharetrovirus avileu",subfamily="Orthoretrovirinae",subgenus="-"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/M60609_SRLV-A_RT'[&clade="II",full_name="small ruminant lentivirus genotype A (Visna-Maedi Virus)",genus="Lentivirus",name="SRLVA ",sequenceID="M60609_SRLV-A_RT",species="Lentivirus ovivismae",subfamily="Orthoretrovirinae",subgenus="-"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/M74895_SFV3_RT'[&clade="III",full_name="simian foamy virus Chlorocebus aethiops",genus="Spumavirus",name="SFV3",sequenceID="M74895_SFV3_RT",species="Simiispumavirus chlaet",subfamily="Spumaretrovirinae",subgenus="Simispumavirus"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/M80216_JSRV_RT'[&clade="II",full_name="Jaagsiekte sheep retrovirus",genus="Betaretrovirus",name="JSRV",sequenceID="M80216_JSRV_RT",species="Betaretrovirus ovijaa",subfamily="Orthoretrovirinae",subgenus="-"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/MF280817_SFVrmac_RT'[&clade="III",full_name="simian foamy virus Macaca mulatta",genus="Spumavirus",name="SFVrmac",sequenceID="MF280817_SFVrmac_RT",species="Simiispumavirus macmul",subfamily="Spumaretrovirinae",subgenus="Simispumavirus"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/U03982_PLV_RT'[&clade="II",full_name="puma lentivirus 14",genus="Lentivirus",name="PLV",sequenceID="U03982_PLV_RT",species="Lentivirus pum",subfamily="Orthoretrovirinae",subgenus="-"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/U04327_SFVcpz_RT'[&clade="III",full_name="simian foamy virus Pan troglodytes verus",genus="Spumavirus",name="SFVcpz",sequenceID="U04327_SFVcpz_RT",species="Simiispumavirus pantrover",subfamily="Spumaretrovirinae",subgenus="Simispumavirus"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/U21603_JDV_RT'[&clade="II",full_name="Jembrana disease virus",genus="Lentivirus",name="JDV ",sequenceID="U21603_JDV_RT",species="Lentivirus bovjem",subfamily="Orthoretrovirinae",subgenus="-"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/U94514_BFV_RT'[&clade="III",full_name="bovine foamy virus Bos taurus",genus="Spumavirus",name="BFV",sequenceID="U94514_BFV_RT",species="Bovispumavirus bostau",subfamily="Spumaretrovirinae",subgenus="Bovispumavirus"]
+	'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/X54482_SFV1_RT'[&clade="III",full_name="simian foamy virus Macaca cyclopis",genus="Spumavirus",name="SFV1",sequenceID="X54482_SFV1_RT",species="Simiispumavirus maccyc",subfamily="Spumaretrovirinae",subgenus="Simispumavirus"]
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] ((('alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF033818_BLV_RT':0.40163,(('alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/M10060_PTLV2_RT':0.141365,'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF033817_PTLV1_RT':0.196078)[&label=51]:0.04658,'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/DQ093792_PTLV3_RT':0.13622)[&label=96]:0.292921)[&label=100]:0.61476,((('alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF033808_RSV_RT':0.009144,'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/M37980_ALV_RT':0.024036)[&label=100]:0.694401,('alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF033807_MMTV_RT':0.267115,(('alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF033815_MPMV_RT':0.13963,'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/M23385_SMRVH_RT':0.272738)[&label=42]:0.059843,'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/M80216_JSRV_RT':0.209753)[&label=23]:0.031205)[&label=64]:0.177295)[&label=92]:0.516171,('alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/M16575_EIAV_RT':0.178842,(('alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/M32690_BIV_RT':0.189909,'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/U21603_JDV_RT':0.12325)[&label=99]:0.350202,(('alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/U03982_PLV_RT':0.049563,'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/M25381_FIV-P_RT':0.112912)[&label=100]:0.265189,(('alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/M30502_HIV2_RT':0.18919,'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF033819_HIV1M_RT':0.254026)[&label=96]:0.221241,('alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/M60609_SRLV-A_RT':0.077827,'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/M33677_SRLV-B_RT':0.095512)[&label=100]:0.331048)[&label=58]:0.065222)[&label=62]:0.066249)[&label=68]:0.10429)[&label=99]:0.677868)[&label=62]:0.191961)[&label=99]:0.785053,(('alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF033822_WDSV_RT':0.189577,('alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF133051_WEHV1_RT':0.008058,'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF133052_WEHV2_RT':0.049243)[&label=75]:0.011303)[&label=86]:0.275605,(('alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AY842951_REV_RT':0.255397,('alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF052723_FeLV_RT':0.102446,(('alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF356697_PERVE_RT':0.713624,'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF033811_MLV_RT':1.0E-6)[&label=48]:0.060257,('alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF151794_Korv_RT':0.012862,'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/M26927_GaLV_RT':0.046675)[&label=91]:0.133909)[&label=36]:0.030975)[&label=78]:0.216942)[&label=100]:0.703035,((('alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/EU010385_SFVspi_RT':0.046354,('alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/GU356395_SFVmarm_RT':0.027638,'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/KP143760_SFVcapu_RT':1.0E-6)[&label=96]:0.086464)[&label=82]:0.044195,'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/GU356394_SFVsqu_RT':0.049493)[&label=69]:0.036643,(('alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/KM233624_PSFVgal_RT':0.180293,('alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AJ564746_FFV_RT':0.164676,('alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AF201902_EFV_RT':0.125732,'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/U94514_BFV_RT':0.093948)[&label=94]:0.092832)[&label=79]:0.072457)[&label=36]:0.014514,(('alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AJ544579_SFVora_RT':0.067839,((('alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/KX087159_SFVcpze_RT':1.0E-6,'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/JQ867463_SFVcptt_RT':1.0E-6)[&label=98]:1.0E-6,'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/U04327_SFVcpz_RT':0.022391)[&label=94]:0.026529,'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/HM245790_SFVgor_RT':0.076479)[&label=66]:0.026188)[&label=43]:0.021594,(('alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/M74895_SFV3_RT':0.050016,'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/JQ867466_SFVgue_RT':0.020638)[&label=44]:0.025177,(('alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/AB923518_SFVjmac_RT':0.076629,('alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/MF280817_SFVrmac_RT':1.0E-6,'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/LC094267_SFV_RT':0.014611)[&label=54]:0.007196)[&label=17]:1.0E-6,'alignment/AL_ROOT_Retroviridae_RT/member/fasta-refseqs-xrv-rt/X54482_SFV1_RT':1.0E-6)[&label=51]:0.01334)[&label=30]:0.003308)[&label=45]:0.040825)[&label=53]:0.080245)[&label=100]:1.555121)[&label=49]:0.215438)[&label=99]:0.209571);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute="label";
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="label";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=true;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute="User selection";
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute="Fixed";
+	set nodeShapeInternal.colourAttribute="User selection";
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=false;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.3;
+	set tipLabels.colorAttribute="genus";
+	set tipLabels.displayAttribute="species";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=11;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="increasing";
+	set trees.rooting=false;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
