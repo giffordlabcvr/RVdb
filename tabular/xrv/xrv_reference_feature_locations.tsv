@@ -254,13 +254,6 @@ REF_SMFV	GU356394	Spumavirus	Spumavirus	Env	6201	9143
 REF_SMFV	GU356394	Spumavirus	Spumavirus	Bel1	9113	10117
 REF_SMFV	GU356394	Spumavirus	Spumavirus	Bel2	9822	10961
 REF_SMFV	GU356394	Spumavirus	Spumavirus	3LTR	10624	11684
-REF_PTLV4	EF488483	Clade II	Deltaretrovirus	whole_genome	1	8791
-REF_PTLV4	EF488483	Clade II	Deltaretrovirus	Gag	750	2024
-REF_PTLV4	EF488483	Clade II	Deltaretrovirus	Pro	1892	2533
-REF_PTLV4	EF488483	Clade II	Deltaretrovirus	Pol	2383	5109
-REF_PTLV4	EF488483	Clade II	Deltaretrovirus	Env	5102	6559
-REF_PTLV4	EF488483	Clade II	Deltaretrovirus	Tax	7119	8153
-REF_PTLV4	EF488483	Clade II	Deltaretrovirus	Rex	7120	7569
 REF_PTLV2	NC_001488	Clade II	Deltaretrovirus	whole_genome	1	8952
 REF_PTLV2	NC_001488	Clade II	Deltaretrovirus	5LTR	1	763
 REF_PTLV2	NC_001488	Clade II	Deltaretrovirus	LEA	764	806

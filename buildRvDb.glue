@@ -12,5 +12,5 @@ run file glue/build/rv/buildRetroviridaeCore.glue
 run file glue/build/xrv-rt/buildXrvRtProject.glue
 
 # Build complete genome component (genus-level relationships)
-#run file glue/build/xrv/buildXrvProject.glue
+run file glue/build/xrv/buildXrvProject.glue
 

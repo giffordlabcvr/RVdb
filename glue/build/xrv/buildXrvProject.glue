@@ -16,10 +16,10 @@ project retroviridae
   run file glue/build/xrv/xrvAlignmentTree.glue
 
   # Import unconstrained alignments
-  #run file glue/build/xrv/xrvImportAlignments.glue
+  run file glue/build/xrv/xrvImportAlignments.glue
 
   # Derive constrained alignments from unconstrained
-  #run file glue/build/xrv/xrvDeriveConstrainedMsas.glue
+  run file glue/build/xrv/xrvDeriveConstrainedMsas.glue
 
   validate
   exit

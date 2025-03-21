@@ -21,13 +21,13 @@
   create reference REF_ALV              ncbi-refseqs-xrv M37980
 
   # Unclassified
-  create reference REF_LPDV             ncbi-refseqs-xrv U09568
+  #create reference REF_LPDV             ncbi-refseqs-xrv U09568
 
   # Beta B-type
   create reference REF_MMTV             ncbi-refseqs-xrv AF033807
   
   # Beta D-type 1 
-  create reference REF_SRV1             ncbi-refseqs-xrv M11841  
+  #create reference REF_SRV1             ncbi-refseqs-xrv M11841  
   create reference REF_SRV3             ncbi-refseqs-xrv AF033815 
 
   # Beta D-type 2
@@ -50,7 +50,7 @@
   create reference REF_PTLV1            ncbi-refseqs-xrv AF033817
   create reference REF_PTLV2            ncbi-refseqs-xrv M10060
   create reference REF_PTLV3            ncbi-refseqs-xrv DQ093792
-  create reference REF_PTLV4            ncbi-refseqs-xrv EF488483
+  #create reference REF_PTLV4            ncbi-refseqs-xrv EF488483
 
   ## Lenti
   create reference REF_HIV1M            ncbi-refseqs-xrv AF033819
