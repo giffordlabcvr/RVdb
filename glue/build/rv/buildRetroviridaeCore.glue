@@ -11,9 +11,6 @@ project retroviridae
   # Define features 
   run file glue/build/rv/rvFeatures.glue
   
-  # Define variations 
-  #run file glue/build/rv/rvVariations.glue
-
   validate
   
   exit

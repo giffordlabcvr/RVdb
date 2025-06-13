@@ -6,10 +6,7 @@
   module unconstrainedAlignmentImporterXrvRt
 
     #~# Retroviridae RT only  
-    import AL_UNC_ROOT_Retroviridae_RT  -f alignments/root/retroviridae-rt-xrvs-ictv-species.fna 
+    import AL_UNC_ROOT_Retroviridae_RT -f alignments/root/retroviridae-rt-xrvs-ictv-species.fna 
   
   exit
-  
-  # Create constrained alignment for phylogeny construction
-  
   
