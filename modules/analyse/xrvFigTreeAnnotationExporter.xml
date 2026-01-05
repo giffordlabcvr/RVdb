@@ -21,6 +21,16 @@
 	</figTreeAnnotation>
 
 	<figTreeAnnotation>
+		<annotationName>combined-species-and-virus-name</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.species')} (${renderNestedProperty('sequence.name')})</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+
+	<figTreeAnnotation>
+		<annotationName>combined-species-and-virus-full-name</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.species')} (${renderNestedProperty('sequence.full_name')})</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+
+	<figTreeAnnotation>
 		<annotationName>subfamily</annotationName>
 		<valueFreemarkerTemplate>${renderNestedProperty('sequence.subfamily')}</valueFreemarkerTemplate>
 	</figTreeAnnotation>

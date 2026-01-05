@@ -2,7 +2,8 @@
   delete module xrvFigTreeAnnotationExporter
   
   create module -f modules/analyse/xrvPhyloUtility.xml
-  
+  create module -f modules/analyse/xrvFigTreeAnnotationExporter.xml
+
   module xrvPhyloUtility
   
 	# midpoint rooting
@@ -16,5 +17,4 @@
     
   
   # Export annotations
-  create module -f modules/analyse/xrvFigTreeAnnotationExporter.xml
   module xrvFigTreeAnnotationExporter export figtree-annotation AL_ROOT_Retroviridae_RT -f trees/xrv/AL_UNC_ROOT_Retroviridae_RT_AA.annotations.tsv
