@@ -1,0 +1,9 @@
+  delete module xrvRaxmlPhylogenyGeneratorAa  
+  delete module xrvAlignmentColumnsSelectorSpuma
+
+  create module -f modules/analyse/xrvRaxmlPhylogenyGeneratorAa.xml
+  create module -f modules/analyse/xrvAlignmentColumnsSelectorSpuma.xml
+
+  module xrvRaxmlPhylogenyGeneratorAa
+    generate amino-acid phylogeny AL_GENUS_Spumaretrovirus -r REF_SFVcpz -f Pol -a -o trees/xrv/xrvSpumaReferencePhylogenyAa.tree NEWICK_BOOTSTRAPS
+    exit

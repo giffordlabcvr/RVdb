@@ -1,0 +1,21 @@
+  delete module xrvPhyloUtility
+  delete module xrvFigTreeAnnotationExporter
+  
+  create module -f modules/analyse/xrvPhyloUtility.xml
+  create module -f modules/analyse/xrvFigTreeAnnotationExporter.xml
+
+  module xrvPhyloUtility
+  
+	# midpoint rooting
+
+	reroot-phylogeny \
+      --inputFile trees/xrv/xrvSpumaReferencePhylogenyAa.tree NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/xrv/xrvSpumaReferencePhylogenyMidpointRerootedAa.tree NEWICK_BOOTSTRAPS
+
+    exit
+    
+  
+  # Export annotations
+  module xrvFigTreeAnnotationExporter export figtree-annotation AL_GENUS_Spumaretrovirus -f trees/xrv/AL_GENUS_Spumaretrovirus.annotations.tsv
+
