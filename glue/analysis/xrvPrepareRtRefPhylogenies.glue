@@ -8,11 +8,6 @@
 	# midpoint rooting
 
 	reroot-phylogeny \
-      --inputFile trees/xrv/xrvRtReferencePhylogeny.tree NEWICK_BOOTSTRAPS \
-      --midpoint \
-      --outputFile trees/xrv/xrvRtReferencePhylogenyMidpointRerooted.tree NEWICK_BOOTSTRAPS
-
-	reroot-phylogeny \
       --inputFile trees/xrv/xrvRtReferencePhylogenyAa.tree NEWICK_BOOTSTRAPS \
       --midpoint \
       --outputFile trees/xrv/xrvRtReferencePhylogenyMidpointRerootedAa.tree NEWICK_BOOTSTRAPS
@@ -22,5 +17,4 @@
   
   # Export annotations
   create module -f modules/analyse/xrvFigTreeAnnotationExporter.xml
-  module xrvFigTreeAnnotationExporter export figtree-annotation AL_UNC_ROOT_Retroviridae_RT -f trees/xrv/AL_UNC_ROOT_Retroviridae_RT.annotations.tsv
   module xrvFigTreeAnnotationExporter export figtree-annotation AL_ROOT_Retroviridae_RT -f trees/xrv/AL_UNC_ROOT_Retroviridae_RT_AA.annotations.tsv
