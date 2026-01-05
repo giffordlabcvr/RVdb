@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<alignmentColumnsSelector>
+
+    <relRefName>REF_RT_MASTER_SFVcpz</relRefName>
+ 
+    <aminoAcidRegionSelector>
+        <featureName>RT</featureName>
+        <startCodon>1</startCodon>
+        <endCodon>30</endCodon>
+    </aminoAcidRegionSelector>
+
+    <aminoAcidRegionSelector>
+        <featureName>RT</featureName>
+        <startCodon>35</startCodon>
+        <endCodon>62</endCodon>
+    </aminoAcidRegionSelector>
+
+    <aminoAcidRegionSelector>
+        <featureName>RT</featureName>
+        <startCodon>81</startCodon>
+        <endCodon>134</endCodon>
+    </aminoAcidRegionSelector>
+
+    <aminoAcidRegionSelector>
+        <featureName>RT</featureName>
+        <startCodon>149</startCodon>
+        <endCodon>159</endCodon>
+    </aminoAcidRegionSelector>
+
+    <aminoAcidRegionSelector>
+        <featureName>RT</featureName>
+        <startCodon>176</startCodon>
+        <endCodon>202</endCodon>
+    </aminoAcidRegionSelector>
+
+    <aminoAcidRegionSelector>
+        <featureName>RT</featureName>
+        <startCodon>225</startCodon>
+        <endCodon>240</endCodon>
+    </aminoAcidRegionSelector>
+
+  
+</alignmentColumnsSelector>
+

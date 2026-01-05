@@ -1,9 +1,0 @@
-  delete module xrvRaxmlPhylogenyGeneratorAa  
-  delete module xrvAlignmentColumnsSelectorRt  
-
-  create module -f modules/analyse/xrvRaxmlPhylogenyGeneratorAa.xml
-  create module -f modules/analyse/xrvAlignmentColumnsSelectorRt.xml
-
-  module xrvRaxmlPhylogenyGeneratorAa
-    generate amino-acid phylogeny AL_ROOT_Retroviridae_RT -s xrvAlignmentColumnsSelectorRt -a -o trees/xrv/xrvRtReferencePhylogenyAa.tree NEWICK_BOOTSTRAPS
-    exit
