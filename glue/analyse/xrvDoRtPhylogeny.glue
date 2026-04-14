@@ -1,0 +1,7 @@
+
+  # Compute phylogeny
+  run file glue/analyse/xrvComputeRtRefPhylogenyAa.glue
+
+  # Prepare RT reference phylogeny
+  run file glue/analyse/xrvPrepareRtRefPhylogenies.glue
+
