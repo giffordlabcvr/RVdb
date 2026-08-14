@@ -25,7 +25,7 @@ M25381	M25381_FIV-P_RT		feline immunodeficiency virus Petaluma strain	FIVP	Lenti
 U03982	U03982_PLV_RT	NC_038669	puma lentivirus 14	PLV	Lentivirus pum	II	Orthoretrovirinae	Lentivirus		9100
 M33677	M33677_SRLV-B_RT		small ruminant lentivirus genotype B (Caprine arthritis-encephalitis virus)	SRLVB 	Lentivirus capartenc	II	Orthoretrovirinae	Lentivirus		9189
 M60609	M60609_SRLV-A_RT		small ruminant lentivirus genotype A (Visna-Maedi Virus)	SRLVA 	Lentivirus ovivismae	II	Orthoretrovirinae	Lentivirus		9221
-AF033819	AF033819_HIV1M_RT		human immunodeficiency virus 2	HIV1M 	Lentivirus humimdef1	II	Orthoretrovirinae	Lentivirus		
+AF033819	AF033819_HIV1M_RT		human immunodeficiency virus 1	HIV1M 	Lentivirus humimdef1	II	Orthoretrovirinae	Lentivirus		
 M30502	M30502_HIV2_RT		human immunodeficiency virus 2	HIV2	Lentivirus humimdef2	II	Orthoretrovirinae	Lentivirus		10359
 M58410	M58410_SIV_RT		simian immunodeficiency virus	SIV	Lentivirus simimdef	II	Orthoretrovirinae	Lentivirus		9623
 U94514	U94514_BFV_RT	NC_001831	bovine foamy virus Bos taurus	BFV	Bovispumavirus bostau	III	Spumaretrovirinae	Spumavirus	Bovispumavirus	12002
